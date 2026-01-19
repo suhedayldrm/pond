@@ -1,0 +1,255 @@
+[
+  {
+    "word": "Abend",
+    "partOfSpeech": "noun",
+    "english": "Evening",
+    "composition": [],
+    "decompositionMeaning": [],
+    "frequency": "5 out of 7",
+    "connected_words": [
+      "beginnen",
+      "bunt",
+      "einladen",
+      "enden",
+      "eröffnen",
+      "essen",
+      "feiern",
+      "früh",
+      "ganz",
+      "gelungen",
+      "gestrig",
+      "gleich",
+      "heilig",
+      "heutig"
+    ],
+    "examples": [
+      {
+        "german": "ein schöner, klarer, lauer, stiller, schwüler, sommerlicher, frischer, herbstlicher, nebliger, kühler, trüber, dunkler, stürmischer Abend",
+        "english": "a beautiful, clear, lukewarm, quiet, sultry, summery, fresh, autumnal, foggy, cool, cloudy, dark, stormy evening"
+      },
+      {
+        "german": "der erste, letzte, gestrige, folgende Abend",
+        "english": "the first, last, yesterday, the following evening"
+      },
+      {
+        "german": "gestern, heute, morgen Abend , Freitag Abend",
+        "english": "yesterday, today, tomorrow evening, Friday evening"
+      }
+    ],
+    "etymology": "Abendm.'time of day around sunset, end of day',ahd.āband(9th century),mhd.ābent,asächs.āƀand,mnd.āvent,mnl.avont,avent,nl.avond,aengl.æfen(and derived æfnung),engl.eve'eve',evening, (poetic and dialect)even'evening' can be can be traced back to a West German form *āfanþija, *āfanðija, which differs from Dennordgerm.Anord.aptann, Schwed.afton, dän.aften (but also aengl.æftentīd 'evening time') by the length of the initial vowel and the lack of a dental. For God is...",
+    "compounds": [
+      "Abendandacht",
+      "Abendangebot",
+      "Abendanzug",
+      "Abendappell",
+      "Abendarbeit",
+      "Abendaufführung",
+      "Abendausgabe",
+      "Abendbalz",
+      "Abendbeleuchtung",
+      "Abendblatt",
+      "Abendbrise",
+      "Abendbrot",
+      "Abendbummel",
+      "Abenddämmer",
+      "Abenddämmern"
+    ],
+    "source_url": "https://www.dwds.de/wb/Abend"
+  },
+  {
+    "word": "aber#1",
+    "partOfSpeech": "conjunction",
+    "english": "but#1",
+    "composition": [
+      "ab-",
+      "er#1"
+    ],
+    "decompositionMeaning": [
+      "prefix: off, away",
+      "root word: he#1"
+    ],
+    "frequency": "6 out of 7",
+    "connected_words": [],
+    "examples": [
+      {
+        "german": "er kommt, aber sein Vater ist verhindert",
+        "english": "he comes, but his father is prevented"
+      },
+      {
+        "german": "wir schliefen schon, die Mutter aber wachte noch",
+        "english": "we were already asleep mother but still awake"
+      },
+      {
+        "german": "ich kenne ihn nicht, aber seinen Bruder",
+        "english": "I don't know him, but I know his brother"
+      }
+    ],
+    "etymology": "butAdv. and conj., as an always emphasized adv., expresses multiple repetition from 'again(in order), again, once again', gradually suppressed since the 16th century by again(s. d.), today only in certain combinations such as but and but(again) ('again and again'), thousands and thousands ('many thousands'), hundreds and hundreds, as a conj. describes the opposition '(ever), however, against', restricts an assertion 'however, of course, after all', reinforces an assertion, request 'really', expresses V...",
+    "compounds": [
+      "Aber"
+    ],
+    "source_url": "https://www.dwds.de/wb/aber#1"
+  },
+  {
+    "word": "abfahren",
+    "partOfSpeech": "verb",
+    "english": "depart",
+    "composition": [
+      "ab-",
+      "fahren"
+    ],
+    "decompositionMeaning": [
+      "prefix: off, away",
+      "root word: drive"
+    ],
+    "frequency": "4 out of 7",
+    "connected_words": [
+      "Anschlussstelle",
+      "Anschlusszug",
+      "Außenspiegel",
+      "Autobahn",
+      "Bus",
+      "drauf",
+      "Fahrrad",
+      "Gleis",
+      "Haltestelle",
+      "ICE",
+      "Mannschaftsbus",
+      "planmäßig",
+      "pünktlich",
+      "Richtung",
+      "Route"
+    ],
+    "examples": [
+      {
+        "german": "vom (Neustädter) Bahnhof abfahren",
+        "english": "depart from the (Neustädter) train station"
+      },
+      {
+        "german": "fahr ab (= geh (weg, fort), verschwinde) !",
+        "english": "leave (= go (away, away), disappear)!"
+      },
+      {
+        "german": "Mit zwanzig Minuten Verspätung fahren wir ab – Bahnalltag in Österreich eben.",
+        "english": "We leave twenty minutes late – everyday railway life in Austria."
+      }
+    ],
+    "etymology": null,
+    "compounds": [
+      "abfahrbereit",
+      "Abfahrer",
+      "Abfahrt",
+      "1Abfuhr",
+      "abgefahren"
+    ],
+    "source_url": "https://www.dwds.de/wb/abfahren"
+  },
+  {
+    "word": "Abfahrt",
+    "partOfSpeech": "noun",
+    "english": "departure",
+    "composition": [],
+    "decompositionMeaning": [],
+    "frequency": "4 out of 7",
+    "connected_words": [
+      "alpin",
+      "Ankunft",
+      "anspruchsvoll",
+      "bereitstehen",
+      "Bronze",
+      "Bus",
+      "Fahrgemeinschaft",
+      "gewinnen",
+      "halsbrecherisch",
+      "Haltestelle",
+      "Kombination",
+      "Mannschaftsbus",
+      "planmäßig",
+      "präpariert",
+      "rasant"
+    ],
+    "examples": [
+      {
+        "german": "die (planmäßige) Abfahrt des Zuges",
+        "english": "the (scheduled) departure of the train"
+      },
+      {
+        "german": "zur Abfahrt fertig sein",
+        "english": "be ready for departure"
+      },
+      {
+        "german": "sich zur Abfahrt rüsten",
+        "english": "prepare for departure"
+      }
+    ],
+    "etymology": null,
+    "compounds": [
+      "abfahrtbereit",
+      "abfahrtsbereit",
+      "Abfahrtsbefehl",
+      "Abfahrtbefehl",
+      "Abfahrtsdatum",
+      "Abfahrtserfolg",
+      "Abfahrtsgleis",
+      "Abfahrtgleis",
+      "Abfahrtshang",
+      "Abfahrthang",
+      "Abfahrtslauf",
+      "Abfahrtlauf",
+      "Abfahrtsläufer",
+      "Abfahrtläufer",
+      "Abfahrtsort"
+    ],
+    "source_url": "https://www.dwds.de/wb/Abfahrt"
+  },
+  {
+    "word": "abfliegen",
+    "partOfSpeech": "verb",
+    "english": "fly off",
+    "composition": [
+      "ab-",
+      "fliegen"
+    ],
+    "decompositionMeaning": [
+      "prefix: off, away",
+      "root word: fly"
+    ],
+    "frequency": "3 out of 7",
+    "connected_words": [
+      "Airport",
+      "Bonusmeile",
+      "Deckel",
+      "Drohne",
+      "Fluggast",
+      "Flughafen",
+      "Flugplan",
+      "Flugzeug",
+      "Helikopter",
+      "Hubschrauber",
+      "Jet",
+      "Linienmaschine",
+      "Maschine",
+      "Passagier",
+      "Polizeihubschrauber"
+    ],
+    "examples": [
+      {
+        "german": "die Störche sind schon nach Süden abgeflogen",
+        "english": "the storks have already flown south"
+      },
+      {
+        "german": "das Flugzeug flog pünktlich ab",
+        "english": "the plane left on time"
+      },
+      {
+        "german": "er ist (von A.) nach B. abgeflogen",
+        "english": "he flew (from A.) to B"
+      }
+    ],
+    "etymology": null,
+    "compounds": [
+      "Abflug"
+    ],
+    "source_url": "https://www.dwds.de/wb/abfliegen"
+  }
+]

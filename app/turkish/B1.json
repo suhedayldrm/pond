@@ -1,0 +1,102 @@
+{
+  "abstract_concepts": [
+    {
+      "turkish": "özgürlük",
+      "english": "freedom",
+      "example": "Özgürlük, demokratik toplumların temel değeridir.",
+      "frequency": 4,
+      "decomposition": ["özgür", "lük"],
+      "decompositionMeaning": ["free", "noun suffix"],
+      "connectedWords": ["bağımsızlık", "hak", "kısıtlama"]
+    },
+    {
+      "turkish": "sorumluluk",
+      "english": "responsibility",
+      "example": "Her vatandaşın topluma karşı sorumlulukları vardır.",
+      "frequency": 4,
+      "decomposition": ["sorumlu", "luk"],
+      "decompositionMeaning": ["responsible", "noun suffix"],
+      "connectedWords": ["görev", "yükümlülük", "hesap vermek"]
+    }
+  ],
+  "professional_life": [
+    {
+      "turkish": "kariyer",
+      "english": "career",
+      "example": "Kariyer hedeflerime ulaşmak için çok çalışıyorum.",
+      "frequency": 4,
+      "decomposition": ["kariyer"],
+      "decompositionMeaning": ["professional journey"],
+      "connectedWords": ["iş hayatı", "yükselmek", "başarı"]
+    },
+    {
+      "turkish": "terfi",
+      "english": "promotion",
+      "example": "Beş yıllık çalışmanın ardından terfi ettim.",
+      "frequency": 3,
+      "decomposition": ["terfi"],
+      "decompositionMeaning": ["advancement"],
+      "connectedWords": ["yükselmek", "pozisyon", "maaş artışı"]
+    }
+  ],
+  "social_issues": [
+    {
+      "turkish": "eşitsizlik",
+      "english": "inequality",
+      "example": "Gelir eşitsizliği giderek artıyor.",
+      "frequency": 3,
+      "decomposition": ["eşit", "siz", "lik"],
+      "decompositionMeaning": ["equal", "without", "noun suffix"],
+      "connectedWords": ["adalet", "fark", "sosyal"]
+    },
+    {
+      "turkish": "ayrımcılık",
+      "english": "discrimination",
+      "example": "İş yerinde her türlü ayrımcılık yasaktır.",
+      "frequency": 3,
+      "decomposition": ["ayır", "m", "cı", "lık"],
+      "decompositionMeaning": ["separate", "passive", "agent", "noun suffix"],
+      "connectedWords": ["ırkçılık", "önyargı", "hak ihlali"]
+    }
+  ],
+  "advanced_verbs": [
+    {
+      "turkish": "başarmak",
+      "english": "to achieve",
+      "example": "Zorlu bir projeyi başarıyla tamamladık.",
+      "frequency": 4,
+      "decomposition": ["başar", "mak"],
+      "decompositionMeaning": ["succeed", "infinitive"],
+      "connectedWords": ["başarı", "hedef", "kazanmak"]
+    },
+    {
+      "turkish": "savunmak",
+      "english": "to defend",
+      "example": "Avukat müvekkilinin haklarını savundu.",
+      "frequency": 3,
+      "decomposition": ["savun", "mak"],
+      "decompositionMeaning": ["defend", "infinitive"],
+      "connectedWords": ["koruma", "iddia", "müdafaa"]
+    }
+  ],
+  "education": [
+    {
+      "turkish": "lisansüstü",
+      "english": "postgraduate",
+      "example": "Lisansüstü eğitim için yurtdışına gitmeyi düşünüyorum.",
+      "frequency": 3,
+      "decomposition": ["lisans", "üstü"],
+      "decompositionMeaning": ["degree", "above"],
+      "connectedWords": ["yüksek lisans", "doktora", "akademik"]
+    },
+    {
+      "turkish": "tez",
+      "english": "thesis",
+      "example": "Tez konumu belirlemek için danışmanımla görüşeceğim.",
+      "frequency": 3,
+      "decomposition": ["tez"],
+      "decompositionMeaning": ["academic argument"],
+      "connectedWords": ["araştırma", "sunum", "jüri"]
+    }
+  ]
+}

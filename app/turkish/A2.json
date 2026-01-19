@@ -1,0 +1,202 @@
+{
+  "daily_life": [
+    {
+      "turkish": "alışveriş",
+      "english": "shopping",
+      "example": "Alışveriş yapmak için markete gittim.",
+      "frequency": 5,
+      "decomposition": ["alış", "veriş"],
+      "decompositionMeaning": ["buying", "selling"],
+      "connectedWords": ["market", "liste", "fiyat"]
+    },
+    {
+      "turkish": "randevu",
+      "english": "appointment",
+      "example": "Doktor randevumu iptal etmem gerekiyor.",
+      "frequency": 4,
+      "decomposition": ["randevu"],
+      "decompositionMeaning": ["scheduled meeting"],
+      "connectedWords": ["tarih", "saat", "yer"]
+    }
+  ],
+  "transportation": [
+    {
+      "turkish": "durak",
+      "english": "stop (bus/tram)",
+      "example": "Otobüs durağı nerede acaba?",
+      "frequency": 4,
+      "decomposition": ["durak"],
+      "decompositionMeaning": ["stopping place"],
+      "connectedWords": ["otobüs", "beklemek", "varış"]
+    },
+    {
+      "turkish": "bilet",
+      "english": "ticket",
+      "example": "Sinema bileti almak istiyorum.",
+      "frequency": 4,
+      "decomposition": ["bilet"],
+      "decompositionMeaning": ["entry pass"],
+      "connectedWords": ["gişe", "rezervasyon", "ücret"]
+    }
+  ],
+  "health": [
+    {
+      "turkish": "hasta",
+      "english": "sick/patient",
+      "example": "Bugün kendimi çok hasta hissediyorum.",
+      "frequency": 4,
+      "decomposition": ["hasta"],
+      "decompositionMeaning": ["unwell person"],
+      "connectedWords": ["doktor", "ilaç", "ateş"]
+    },
+    {
+      "turkish": "reçete",
+      "english": "prescription",
+      "example": "Doktor bana yeni bir reçete yazdı.",
+      "frequency": 3,
+      "decomposition": ["reçete"],
+      "decompositionMeaning": ["medical instructions"],
+      "connectedWords": ["eczane", "hap", "tedavi"]
+    }
+  ],
+  "work": [
+    {
+      "turkish": "meslek",
+      "english": "profession",
+      "example": "Mesleğiniz nedir?",
+      "frequency": 4,
+      "decomposition": ["meslek"],
+      "decompositionMeaning": ["occupation"],
+      "connectedWords": ["iş", "kariyer", "maaş"]
+    },
+    {
+      "turkish": "toplantı",
+      "english": "meeting",
+      "example": "Öğleden sonra önemli bir toplantım var.",
+      "frequency": 4,
+      "decomposition": ["toplantı"],
+      "decompositionMeaning": ["gathering"],
+      "connectedWords": ["iş", "sunum", "katılım"]
+    }
+  ],
+  "emotions": [
+    {
+      "turkish": "endişeli",
+      "english": "worried",
+      "example": "Sınav sonucu için endişeliyim.",
+      "frequency": 3,
+      "decomposition": ["endişe", "li"],
+      "decompositionMeaning": ["worry", "with"],
+      "connectedWords": ["korku", "stres", "rahatlamak"]
+    },
+    {
+      "turkish": "şaşırmak",
+      "english": "to be surprised",
+      "example": "Hediye için çok şaşırdım!",
+      "frequency": 3,
+      "decomposition": ["şaş", "ır", "mak"],
+      "decompositionMeaning": ["surprise", "verb form", "infinitive"],
+      "connectedWords": ["şaşırtıcı", "beklenmedik", "hayret"]
+    }
+  ],
+  "travel": [
+    {
+      "turkish": "valiz",
+      "english": "suitcase",
+      "example": "Valizimi hazırlamam gerekiyor.",
+      "frequency": 3,
+      "decomposition": ["valiz"],
+      "decompositionMeaning": ["travel bag"],
+      "connectedWords": ["seyahat", "havaalanı", "paket"]
+    },
+    {
+      "turkish": "rehber",
+      "english": "guide",
+      "example": "Tur rehberi bize tarihi yerleri gösterdi.",
+      "frequency": 3,
+      "decomposition": ["rehber"],
+      "decompositionMeaning": ["leader"],
+      "connectedWords": ["tur", "açıklama", "yol"]
+    }
+  ],
+  "education": [
+    {
+      "turkish": "sınav",
+      "english": "exam",
+      "example": "Yarın matematik sınavım var.",
+      "frequency": 4,
+      "decomposition": ["sınav"],
+      "decompositionMeaning": ["test"],
+      "connectedWords": ["not", "çalışmak", "soru"]
+    },
+    {
+      "turkish": "ödev",
+      "english": "homework",
+      "example": "Bu akşam çok ödevim var.",
+      "frequency": 4,
+      "decomposition": ["ödev"],
+      "decompositionMeaning": ["assigned work"],
+      "connectedWords": ["ders", "okul", "tamamlamak"]
+    }
+  ],
+  "technology": [
+    {
+      "turkish": "şarj",
+      "english": "charge",
+      "example": "Telefonumun şarjı bitmek üzere.",
+      "frequency": 4,
+      "decomposition": ["şarj"],
+      "decompositionMeaning": ["power supply"],
+      "connectedWords": ["cihaz", "kablo", "pil"]
+    },
+    {
+      "turkish": "indirmek",
+      "english": "to download",
+      "example": "Yeni bir uygulama indirdim.",
+      "frequency": 3,
+      "decomposition": ["in", "dir", "mek"],
+      "decompositionMeaning": ["down", "causative", "infinitive"],
+      "connectedWords": ["dosya", "internet", "yükleme"]
+    }
+  ],
+  "weather": [
+    {
+      "turkish": "yağmur",
+      "english": "rain",
+      "example": "Dışarıda hafif yağmur yağıyor.",
+      "frequency": 4,
+      "decomposition": ["yağmur"],
+      "decompositionMeaning": ["precipitation"],
+      "connectedWords": ["şemsiye", "ıslak", "bulutlu"]
+    },
+    {
+      "turkish": "rüzgarlı",
+      "english": "windy",
+      "example": "Bugün hava çok rüzgarlı.",
+      "frequency": 3,
+      "decomposition": ["rüzgar", "lı"],
+      "decompositionMeaning": ["wind", "with"],
+      "connectedWords": ["hava", "esmek", "şiddetli"]
+    }
+  ],
+  "verbs": [
+    {
+      "turkish": "karar vermek",
+      "english": "to decide",
+      "example": "Tatil planı hakkında karar vermeliyiz.",
+      "frequency": 4,
+      "decomposition": ["karar", "ver", "mek"],
+      "decompositionMeaning": ["decision", "give", "infinitive"],
+      "connectedWords": ["seçim", "düşünmek", "sonuç"]
+    },
+    {
+      "turkish": "beklemek",
+      "english": "to wait",
+      "example": "Otobüs durağında arkadaşımı bekliyorum.",
+      "frequency": 5,
+      "decomposition": ["bekle", "mek"],
+      "decompositionMeaning": ["wait", "infinitive"],
+      "connectedWords": ["zaman", "sabır", "gelmek"]
+    }
+  ]
+}

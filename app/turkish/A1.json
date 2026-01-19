@@ -1,0 +1,183 @@
+{
+  "greetings": [
+    {
+      "turkish": "merhaba",
+      "english": "hello",
+      "example": "Merhaba! Nasılsınız?",
+      "frequency": 6,
+      "decomposition": ["merhaba"],
+      "decompositionMeaning": ["greeting"],
+      "connectedWords": ["selam", "hoş geldiniz"],
+      "url": "https://www.dwds.de/wb/merhaba"
+    },
+    {
+      "turkish": "günaydın",
+      "english": "good morning",
+      "example": "Günaydın! Kahvaltı hazır.",
+      "frequency": 5,
+      "decomposition": ["gün", "aydın"],
+      "decompositionMeaning": ["day", "bright"],
+      "connectedWords": ["tünaydın", "iyi geceler"]
+    }
+  ],
+  "common_phrases": [
+    {
+      "turkish": "teşekkür ederim",
+      "english": "thank you",
+      "example": "Çok yardımcı oldunuz, teşekkür ederim.",
+      "frequency": 6,
+      "decomposition": ["teşekkür", "ederim"],
+      "decompositionMeaning": ["thanks", "I do"],
+      "connectedWords": ["sağ olun", "rica ederim"]
+    },
+    {
+      "turkish": "lütfen",
+      "english": "please",
+      "example": "Bir bardak su, lütfen.",
+      "frequency": 5,
+      "decomposition": ["lütfen"],
+      "decompositionMeaning": ["request marker"],
+      "connectedWords": ["rica ederim", "affedersiniz"]
+    }
+  ],
+  "numbers": [
+    {
+      "turkish": "bir",
+      "english": "one",
+      "example": "Bir kahve istiyorum.",
+      "frequency": 6,
+      "decomposition": ["bir"],
+      "decompositionMeaning": ["single unit"],
+      "connectedWords": ["ilk", "tek"]
+    },
+    {
+      "turkish": "on",
+      "english": "ten",
+      "example": "On dakika sonra geliyorum.",
+      "frequency": 5,
+      "decomposition": ["on"],
+      "decompositionMeaning": ["decimal base"],
+      "connectedWords": ["onuncu", "onlarca"]
+    }
+  ],
+  "food_drink": [
+    {
+      "turkish": "su",
+      "english": "water",
+      "example": "Soğuk su içmek istiyorum.",
+      "frequency": 6,
+      "decomposition": ["su"],
+      "decompositionMeaning": ["essential liquid"],
+      "connectedWords": ["içmek", "bardak"]
+    },
+    {
+      "turkish": "ekmek",
+      "english": "bread",
+      "example": "Taze ekmek kokusu çok güzel.",
+      "frequency": 5,
+      "decomposition": ["ekmek"],
+      "decompositionMeaning": ["staple food"],
+      "connectedWords": ["fırın", "dilim"]
+    }
+  ],
+  "family": [
+    {
+      "turkish": "anne",
+      "english": "mother",
+      "example": "Annem yemek pişiriyor.",
+      "frequency": 6,
+      "decomposition": ["anne"],
+      "decompositionMeaning": ["maternal parent"],
+      "connectedWords": ["baba", "aile"]
+    },
+    {
+      "turkish": "kardeş",
+      "english": "sibling",
+      "example": "İki kardeşim var.",
+      "frequency": 5,
+      "decomposition": ["kardeş"],
+      "decompositionMeaning": ["same parents"],
+      "connectedWords": ["abla", "ağabey"]
+    }
+  ],
+  "verbs": [
+    {
+      "turkish": "olmak",
+      "english": "to be",
+      "example": "Bugün çok mutluyum.",
+      "frequency": 6,
+      "decomposition": ["ol", "mak"],
+      "decompositionMeaning": ["be", "infinitive"],
+      "connectedWords": ["var", "bulunmak"]
+    },
+    {
+      "turkish": "gitmek",
+      "english": "to go",
+      "example": "Okula otobüsle gidiyorum.",
+      "frequency": 6,
+      "decomposition": ["git", "mek"],
+      "decompositionMeaning": ["go", "infinitive"],
+      "connectedWords": ["gelmek", "yolculuk"]
+    }
+  ],
+  "places": [
+    {
+      "turkish": "ev",
+      "english": "home",
+      "example": "Evim şehir merkezinde.",
+      "frequency": 6,
+      "decomposition": ["ev"],
+      "decompositionMeaning": ["dwelling"],
+      "connectedWords": ["oda", "adres"]
+    },
+    {
+      "turkish": "market",
+      "english": "market",
+      "example": "Marketten süt alacağım.",
+      "frequency": 5,
+      "decomposition": ["market"],
+      "decompositionMeaning": ["commercial"],
+      "connectedWords": ["alışveriş", "satıcı"]
+    }
+  ],
+  "time": [
+    {
+      "turkish": "bugün",
+      "english": "today",
+      "example": "Bugün hava çok sıcak.",
+      "frequency": 6,
+      "decomposition": ["bu", "gün"],
+      "decompositionMeaning": ["this", "day"],
+      "connectedWords": ["dün", "hafta"]
+    },
+    {
+      "turkish": "sabah",
+      "english": "morning",
+      "example": "Sabah erken kalkarım.",
+      "frequency": 5,
+      "decomposition": ["sabah"],
+      "decompositionMeaning": ["early day"],
+      "connectedWords": ["kahvaltı", "akşam"]
+    }
+  ],
+  "adjectives": [
+    {
+      "turkish": "iyi",
+      "english": "good",
+      "example": "Bu kitap çok iyi.",
+      "frequency": 6,
+      "decomposition": ["iyi"],
+      "decompositionMeaning": ["positive quality"],
+      "connectedWords": ["güzel", "hoş"]
+    },
+    {
+      "turkish": "küçük",
+      "english": "small",
+      "example": "Küçük bir kedi gördüm.",
+      "frequency": 5,
+      "decomposition": ["küçük"],
+      "decompositionMeaning": ["not large"],
+      "connectedWords": ["büyük", "minik"]
+    }
+  ]
+}

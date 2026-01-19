@@ -1,0 +1,102 @@
+{
+  "academic": [
+    {
+      "turkish": "kuram",
+      "english": "theory",
+      "example": "Bu kuram, sosyal bilimler alanında devrim yarattı.",
+      "frequency": 3,
+      "decomposition": ["kuram"],
+      "decompositionMeaning": ["systematic explanation"],
+      "connectedWords": ["hipotez", "kanıt", "bilimsel"]
+    },
+    {
+      "turkish": "metodoloji",
+      "english": "methodology",
+      "example": "Araştırmamızın metodolojisini detaylıca açıkladık.",
+      "frequency": 2,
+      "decomposition": ["metod", "loji"],
+      "decompositionMeaning": ["method", "study of"],
+      "connectedWords": ["yöntem", "sistem", "analiz"]
+    }
+  ],
+  "business": [
+    {
+      "turkish": "girişimcilik",
+      "english": "entrepreneurship",
+      "example": "Girişimcilik ekosisteminin gelişmesi ekonomiyi canlandırıyor.",
+      "frequency": 3,
+      "decomposition": ["girişim", "ci", "lik"],
+      "decompositionMeaning": ["enterprise", "doer", "noun suffix"],
+      "connectedWords": ["startup", "yatırım", "inovasyon"]
+    },
+    {
+      "turkish": "rekabet",
+      "english": "competition",
+      "example": "Pazarda artan rekabet nedeniyle stratejimizi gözden geçirdik.",
+      "frequency": 4,
+      "decomposition": ["rekabet"],
+      "decompositionMeaning": ["rivalry"],
+      "connectedWords": ["piyasa", "rakip", "üstünlük"]
+    }
+  ],
+  "politics": [
+    {
+      "turkish": "diplomasi",
+      "english": "diplomacy",
+      "example": "İki ülke arasındaki kriz diplomasi yoluyla çözüldü.",
+      "frequency": 3,
+      "decomposition": ["diplomasi"],
+      "decompositionMeaning": ["international relations"],
+      "connectedWords": ["dış politika", "elçi", "müzakere"]
+    },
+    {
+      "turkish": "yasa tasarısı",
+      "english": "bill (law)",
+      "example": "Yeni yasa tasarısı mecliste tartışılıyor.",
+      "frequency": 3,
+      "decomposition": ["yasa", "tasarı", "sı"],
+      "decompositionMeaning": ["law", "draft", "possessive"],
+      "connectedWords": ["kanun", "meclis", "oylamak"]
+    }
+  ],
+  "literature": [
+    {
+      "turkish": "betimleme",
+      "english": "description",
+      "example": "Yazarın doğa betimlemeleri okuyucuyu adeta oraya götürüyor.",
+      "frequency": 2,
+      "decomposition": ["betim", "leme"],
+      "decompositionMeaning": ["depict", "noun suffix"],
+      "connectedWords": ["tasvir", "anlatım", "edebi"]
+    },
+    {
+      "turkish": "metafor",
+      "english": "metaphor",
+      "example": "Şair, yaşamı bir yolculuk metaforuyla anlatıyor.",
+      "frequency": 2,
+      "decomposition": ["metafor"],
+      "decompositionMeaning": ["figurative comparison"],
+      "connectedWords": ["benzetme", "simge", "imge"]
+    }
+  ],
+  "technology": [
+    {
+      "turkish": "yapay zeka",
+      "english": "artificial intelligence",
+      "example": "Yapay zeka teknolojileri sağlık sektöründe devrim yapıyor.",
+      "frequency": 3,
+      "decomposition": ["yapay", "zeka"],
+      "decompositionMeaning": ["artificial", "intelligence"],
+      "connectedWords": ["makine öğrenmesi", "algoritma", "otomasyon"]
+    },
+    {
+      "turkish": "veri madenciliği",
+      "english": "data mining",
+      "example": "Veri madenciliği sayesinde tüketici davranışlarını analiz edebiliyoruz.",
+      "frequency": 2,
+      "decomposition": ["veri", "madencilik", "iği"],
+      "decompositionMeaning": ["data", "mining", "noun suffix"],
+      "connectedWords": ["büyük veri", "analitik", "desen"]
+    }
+  ]
+}

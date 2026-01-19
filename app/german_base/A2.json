@@ -1,0 +1,4342 @@
+[
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/abschlie%C3%9Fen",
+    "sch": [{ "lemma": "abschließen", "hidx": null }],
+    "pos": "Verb"
+  },
+  {
+    "articles": ["die"],
+    "genera": ["fem."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Ahnung",
+    "sch": [{ "hidx": null, "lemma": "Ahnung" }]
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/aktiv",
+    "sch": [{ "hidx": null, "lemma": "aktiv" }],
+    "pos": "Adjektiv",
+    "genera": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/aktuell",
+    "sch": [{ "lemma": "aktuell", "hidx": null }],
+    "pos": "Adjektiv"
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/als",
+    "sch": [{ "lemma": "als", "hidx": null }],
+    "pos": "Konjunktion"
+  },
+  {
+    "articles": ["die"],
+    "genera": ["fem."],
+    "sch": [{ "lemma": "Ampel", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Ampel",
+    "pos": "Substantiv"
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "pos": "Adverb",
+    "url": "https://www.dwds.de/wb/anders",
+    "sch": [{ "lemma": "anders", "hidx": null }]
+  },
+  {
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Angst",
+    "sch": [{ "lemma": "Angst", "hidx": null }],
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "url": "https://www.dwds.de/wb/ansehen",
+    "sch": [{ "hidx": null, "lemma": "ansehen" }],
+    "pos": "Verb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "genera": ["mask."],
+    "sch": [{ "hidx": null, "lemma": "Anzug" }],
+    "url": "https://www.dwds.de/wb/Anzug",
+    "pos": "Substantiv",
+    "articles": ["der"]
+  },
+  {
+    "articles": ["die"],
+    "url": "https://www.dwds.de/wb/Apotheke",
+    "sch": [{ "hidx": null, "lemma": "Apotheke" }],
+    "pos": "Substantiv",
+    "genera": ["fem."]
+  },
+  {
+    "articles": ["der"],
+    "genera": ["mask."],
+    "sch": [{ "lemma": "Apparat", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Apparat",
+    "pos": "Substantiv"
+  },
+  {
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "arm" }],
+    "url": "https://www.dwds.de/wb/arm",
+    "pos": "Adjektiv",
+    "articles": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/Artikel",
+    "sch": [{ "lemma": "Artikel", "hidx": null }],
+    "pos": "Substantiv",
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "url": "https://www.dwds.de/wb/auf%20jeden%20Fall",
+    "sch": [{ "lemma": "auf jeden Fall", "hidx": null }],
+    "pos": "Mehrwortausdruck",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/auf%20keinen%20Fall",
+    "pos": "Mehrwortausdruck",
+    "sch": [{ "hidx": null, "lemma": "auf keinen Fall" }],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/aufmachen",
+    "pos": "Verb",
+    "sch": [{ "hidx": null, "lemma": "aufmachen" }],
+    "genera": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/aufpassen",
+    "pos": "Verb",
+    "sch": [{ "lemma": "aufpassen", "hidx": null }],
+    "genera": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "aufregen" }],
+    "url": "https://www.dwds.de/wb/aufregen",
+    "pos": "Verb"
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/aufr%C3%A4umen",
+    "sch": [{ "hidx": null, "lemma": "aufräumen" }]
+  },
+  {
+    "url": "https://www.dwds.de/wb/Ausbildung",
+    "sch": [{ "hidx": null, "lemma": "Ausbildung" }],
+    "pos": "Substantiv",
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "url": "https://www.dwds.de/wb/ausgeben",
+    "sch": [{ "lemma": "ausgeben", "hidx": null }],
+    "pos": "Verb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "sch": [{ "lemma": "ausgehen", "hidx": null }],
+    "url": "https://www.dwds.de/wb/ausgehen",
+    "pos": "Verb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/auspacken",
+    "sch": [{ "hidx": null, "lemma": "auspacken" }],
+    "pos": "Verb"
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/ausruhen",
+    "pos": "Verb",
+    "sch": [{ "hidx": null, "lemma": "ausruhen" }]
+  },
+  {
+    "genera": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/aussprechen",
+    "sch": [{ "hidx": null, "lemma": "aussprechen" }],
+    "articles": []
+  },
+  {
+    "articles": ["die"],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Ausstellung",
+    "sch": [{ "lemma": "Ausstellung", "hidx": null }],
+    "genera": ["fem."]
+  },
+  {
+    "sch": [{ "hidx": null, "lemma": "austauschen" }],
+    "url": "https://www.dwds.de/wb/austauschen",
+    "pos": "Verb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/austragen",
+    "pos": "Verb",
+    "sch": [{ "lemma": "austragen", "hidx": null }],
+    "genera": []
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/au%C3%9Fer#1",
+    "sch": [{ "hidx": "1", "lemma": "außer" }],
+    "pos": "Präposition",
+    "articles": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/au%C3%9Ferdem",
+    "sch": [{ "lemma": "außerdem", "hidx": null }],
+    "pos": "Adverb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "sch": [{ "lemma": "außerhalb", "hidx": "2" }],
+    "url": "https://www.dwds.de/wb/au%C3%9Ferhalb#2",
+    "pos": "Adverb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": ["der"],
+    "sch": [{ "hidx": null, "lemma": "Babysitter" }],
+    "url": "https://www.dwds.de/wb/Babysitter",
+    "pos": "Substantiv",
+    "genera": ["mask."]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "lemma": "backen", "hidx": "1" }],
+    "url": "https://www.dwds.de/wb/backen#1",
+    "pos": "Verb"
+  },
+  {
+    "url": "https://www.dwds.de/wb/Ball#1",
+    "sch": [{ "hidx": "1", "lemma": "Ball" }],
+    "pos": "Substantiv",
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "url": "https://www.dwds.de/wb/Band#3",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Band", "hidx": "3" }],
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "articles": ["der"],
+    "url": "https://www.dwds.de/wb/Basketball",
+    "sch": [{ "hidx": null, "lemma": "Basketball" }],
+    "pos": "Substantiv",
+    "genera": ["mask.", "neutr."]
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/basteln",
+    "pos": "Verb",
+    "sch": [{ "lemma": "basteln", "hidx": null }],
+    "genera": []
+  },
+  {
+    "articles": [],
+    "sch": [{ "lemma": "bauen", "hidx": "1" }],
+    "url": "https://www.dwds.de/wb/bauen#1",
+    "pos": "Verb",
+    "genera": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/Baustelle",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Baustelle", "hidx": null }],
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/beantworten",
+    "sch": [{ "hidx": null, "lemma": "beantworten" }],
+    "pos": "Verb"
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/bedanken",
+    "pos": "Verb",
+    "sch": [{ "hidx": null, "lemma": "bedanken" }],
+    "genera": []
+  },
+  {
+    "genera": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/beeilen",
+    "sch": [{ "lemma": "beeilen", "hidx": null }],
+    "articles": []
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/beenden",
+    "sch": [{ "lemma": "beenden", "hidx": null }],
+    "pos": "Verb",
+    "articles": []
+  },
+  {
+    "articles": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/begr%C3%BCnden",
+    "sch": [{ "lemma": "begründen", "hidx": null }],
+    "genera": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/beliebt",
+    "pos": "partizipiales Adjektiv",
+    "sch": [{ "lemma": "beliebt", "hidx": null }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/bequem",
+    "pos": "Adjektiv",
+    "sch": [{ "hidx": null, "lemma": "bequem" }],
+    "genera": []
+  },
+  {
+    "genera": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/beraten",
+    "sch": [{ "lemma": "beraten", "hidx": null }],
+    "articles": []
+  },
+  {
+    "sch": [{ "lemma": "Berg", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Berg",
+    "pos": "Substantiv",
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "url": "https://www.dwds.de/wb/berichten",
+    "pos": "Verb",
+    "sch": [{ "lemma": "berichten", "hidx": null }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "pos": "partizipiales Adjektiv",
+    "url": "https://www.dwds.de/wb/ber%C3%BChmt",
+    "sch": [{ "hidx": null, "lemma": "berühmt" }],
+    "genera": []
+  },
+  {
+    "articles": ["der"],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Bescheid",
+    "sch": [{ "lemma": "Bescheid", "hidx": null }],
+    "genera": ["mask."]
+  },
+  {
+    "url": "https://www.dwds.de/wb/beschreiben",
+    "sch": [{ "lemma": "beschreiben", "hidx": null }],
+    "pos": "Verb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "genera": [],
+    "sch": [{ "lemma": "beschweren", "hidx": "2" }],
+    "url": "https://www.dwds.de/wb/beschweren#2",
+    "pos": "Verb",
+    "articles": []
+  },
+  {
+    "genera": [],
+    "pos": "Adverb",
+    "url": "https://www.dwds.de/wb/besonders",
+    "sch": [{ "lemma": "besonders", "hidx": null }],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/bestehen",
+    "sch": [{ "lemma": "bestehen", "hidx": null }],
+    "pos": "Verb",
+    "genera": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/best%C3%A4tigen",
+    "pos": "Verb",
+    "sch": [{ "lemma": "bestätigen", "hidx": null }],
+    "genera": []
+  },
+  {
+    "genera": ["mask."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Besuch",
+    "sch": [{ "hidx": null, "lemma": "Besuch" }],
+    "articles": ["der"]
+  },
+  {
+    "genera": [],
+    "pos": "partizipiales Adjektiv",
+    "url": "https://www.dwds.de/wb/besucht",
+    "sch": [{ "hidx": null, "lemma": "besucht" }],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/bewerben",
+    "sch": [{ "hidx": null, "lemma": "bewerben" }],
+    "genera": []
+  },
+  {
+    "genera": ["fem."],
+    "url": "https://www.dwds.de/wb/Bewerbung",
+    "sch": [{ "hidx": null, "lemma": "Bewerbung" }],
+    "pos": "Substantiv",
+    "articles": ["die"]
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/bew%C3%B6lkt",
+    "pos": "partizipiales Adjektiv",
+    "sch": [{ "lemma": "bewölkt", "hidx": null }],
+    "articles": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/Bibliothek",
+    "sch": [{ "hidx": null, "lemma": "Bibliothek" }],
+    "pos": "Substantiv",
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "articles": ["das"],
+    "genera": ["neutr."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Blatt",
+    "sch": [{ "hidx": null, "lemma": "Blatt" }]
+  },
+  {
+    "url": "https://www.dwds.de/wb/Blog",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Blog" }],
+    "genera": ["neutr.", "mask."],
+    "articles": ["das", "der"]
+  },
+  {
+    "articles": [],
+    "pos": "Adjektiv",
+    "url": "https://www.dwds.de/wb/blond",
+    "sch": [{ "hidx": null, "lemma": "blond" }],
+    "genera": []
+  },
+  {
+    "articles": ["die"],
+    "url": "https://www.dwds.de/wb/Bluse",
+    "sch": [{ "lemma": "Bluse", "hidx": null }],
+    "pos": "Substantiv",
+    "genera": ["fem."]
+  },
+  {
+    "genera": [],
+    "pos": "Adjektiv",
+    "url": "https://www.dwds.de/wb/bl%C3%B6d",
+    "sch": [{ "lemma": "blöd", "hidx": null }],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/bl%C3%B6de",
+    "pos": "Adjektiv",
+    "sch": [{ "lemma": "blöde", "hidx": null }]
+  },
+  {
+    "articles": ["die"],
+    "sch": [{ "lemma": "Bohne", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Bohne",
+    "pos": "Substantiv",
+    "genera": ["fem."]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "lemma": "braten", "hidx": null }],
+    "url": "https://www.dwds.de/wb/braten",
+    "pos": "Verb"
+  },
+  {
+    "articles": ["die"],
+    "genera": ["fem."],
+    "sch": [{ "hidx": null, "lemma": "Brille" }],
+    "url": "https://www.dwds.de/wb/Brille",
+    "pos": "Substantiv"
+  },
+  {
+    "genera": ["fem."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Br%C3%BCcke",
+    "sch": [{ "lemma": "Brücke", "hidx": null }],
+    "articles": ["die"]
+  },
+  {
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/buchen",
+    "sch": [{ "lemma": "buchen", "hidx": null }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "sch": [{ "hidx": null, "lemma": "bunt" }],
+    "url": "https://www.dwds.de/wb/bunt",
+    "pos": "Adjektiv",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": ["das"],
+    "genera": ["neutr."],
+    "sch": [{ "hidx": null, "lemma": "Büro" }],
+    "url": "https://www.dwds.de/wb/B%C3%BCro",
+    "pos": "Substantiv"
+  },
+  {
+    "sch": [{ "lemma": "Cafeteria", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Cafeteria",
+    "pos": "Substantiv",
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "url": "https://www.dwds.de/wb/chatten",
+    "pos": "Verb",
+    "sch": [{ "hidx": null, "lemma": "chatten" }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": ["die"],
+    "url": "https://www.dwds.de/wb/Chefin",
+    "sch": [{ "lemma": "Chefin", "hidx": null }],
+    "pos": "Substantiv",
+    "genera": ["fem."]
+  },
+  {
+    "genera": ["mask."],
+    "url": "https://www.dwds.de/wb/Comic",
+    "sch": [{ "hidx": null, "lemma": "Comic" }],
+    "pos": "Substantiv",
+    "articles": ["der"]
+  },
+  {
+    "articles": ["die"],
+    "url": "https://www.dwds.de/wb/Creme",
+    "pos": "Substantiv",
+    "sch": [
+      { "hidx": null, "lemma": "Creme" },
+      { "lemma": "Crème", "hidx": null }
+    ],
+    "genera": ["fem."]
+  },
+  {
+    "articles": [],
+    "pos": "Pronominaladverb",
+    "url": "https://www.dwds.de/wb/dabei",
+    "sch": [{ "hidx": null, "lemma": "dabei" }],
+    "genera": []
+  },
+  {
+    "pos": "Pronominaladverb",
+    "url": "https://www.dwds.de/wb/daf%C3%BCr",
+    "sch": [{ "hidx": null, "lemma": "dafür" }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "pos": "Pronominaladverb",
+    "url": "https://www.dwds.de/wb/dagegen",
+    "sch": [{ "lemma": "dagegen", "hidx": null }]
+  },
+  {
+    "pos": "Adverb",
+    "url": "https://www.dwds.de/wb/damals",
+    "sch": [{ "lemma": "damals", "hidx": null }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": ["die"],
+    "genera": ["fem."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Dame",
+    "sch": [{ "lemma": "Dame", "hidx": null }]
+  },
+  {
+    "url": "https://www.dwds.de/wb/darauf",
+    "sch": [{ "lemma": "darauf", "hidx": null }],
+    "pos": "Pronominaladverb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "sch": [{ "hidx": null, "lemma": "darüber" }],
+    "url": "https://www.dwds.de/wb/dar%C3%BCber",
+    "pos": "Pronominaladverb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "pos": "Konjunktion",
+    "url": "https://www.dwds.de/wb/dass",
+    "sch": [{ "lemma": "dass", "hidx": null }],
+    "genera": []
+  },
+  {
+    "sch": [{ "hidx": null, "lemma": "Datei" }],
+    "url": "https://www.dwds.de/wb/Datei",
+    "pos": "Substantiv",
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/denken",
+    "sch": [{ "lemma": "denken", "hidx": null }],
+    "pos": "Verb",
+    "articles": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/deshalb",
+    "pos": "Konjunktion",
+    "sch": [{ "lemma": "deshalb", "hidx": null }]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/deutlich",
+    "sch": [{ "lemma": "deutlich", "hidx": null }],
+    "pos": "Adjektiv"
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/dick",
+    "sch": [{ "lemma": "dick", "hidx": null }],
+    "pos": "Adjektiv",
+    "genera": []
+  },
+  {
+    "articles": ["das"],
+    "url": "https://www.dwds.de/wb/Ding#1",
+    "sch": [{ "hidx": "1", "lemma": "Ding" }],
+    "pos": "Substantiv",
+    "genera": ["neutr."]
+  },
+  {
+    "url": "https://www.dwds.de/wb/direkt",
+    "sch": [{ "lemma": "direkt", "hidx": null }],
+    "pos": "Adjektiv",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/Disco#1",
+    "sch": [
+      { "lemma": "Disco", "hidx": "1" },
+      { "hidx": "1", "lemma": "Disko" }
+    ],
+    "pos": "Substantiv",
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "genera": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/diskutieren",
+    "sch": [{ "lemma": "diskutieren", "hidx": null }],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "sch": [{ "lemma": "doch", "hidx": "2" }],
+    "url": "https://www.dwds.de/wb/doch#2",
+    "pos": "Adverb",
+    "genera": []
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/dorther",
+    "pos": "Pronominaladverb",
+    "sch": [{ "hidx": null, "lemma": "dorther" }],
+    "articles": []
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/dorthin",
+    "pos": "Pronominaladverb",
+    "sch": [{ "hidx": null, "lemma": "dorthin" }],
+    "articles": []
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/dringend",
+    "sch": [{ "hidx": null, "lemma": "dringend" }],
+    "pos": "partizipiales Adjektiv",
+    "articles": []
+  },
+  {
+    "genera": [],
+    "pos": "Adverb",
+    "url": "https://www.dwds.de/wb/drinnen",
+    "sch": [{ "hidx": null, "lemma": "drinnen" }],
+    "articles": []
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/dr%C3%BCben",
+    "pos": "Adverb",
+    "sch": [{ "lemma": "drüben", "hidx": null }],
+    "articles": []
+  },
+  {
+    "sch": [{ "lemma": "dumm", "hidx": null }],
+    "url": "https://www.dwds.de/wb/dumm",
+    "pos": "Adjektiv",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/dunkel",
+    "sch": [{ "hidx": null, "lemma": "dunkel" }],
+    "pos": "Adjektiv",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "pos": "Adjektiv",
+    "url": "https://www.dwds.de/wb/d%C3%BCnn",
+    "sch": [{ "lemma": "dünn", "hidx": null }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/E-Book",
+    "sch": [{ "hidx": null, "lemma": "E-Book" }],
+    "pos": "Substantiv",
+    "genera": ["neutr."],
+    "articles": ["das"]
+  },
+  {
+    "url": "https://www.dwds.de/wb/echt",
+    "sch": [{ "lemma": "echt", "hidx": null }],
+    "pos": "Adjektiv",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "pos": "Adjektiv",
+    "url": "https://www.dwds.de/wb/egal#1",
+    "sch": [{ "lemma": "egal", "hidx": "1" }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": ["der"],
+    "url": "https://www.dwds.de/wb/Ehepartner",
+    "sch": [{ "lemma": "Ehepartner", "hidx": null }],
+    "pos": "Substantiv",
+    "genera": ["mask."]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/eigen",
+    "sch": [{ "hidx": null, "lemma": "eigen" }],
+    "pos": "Adjektiv"
+  },
+  {
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "eigentlich" }],
+    "url": "https://www.dwds.de/wb/eigentlich",
+    "pos": "Adjektiv",
+    "articles": []
+  },
+  {
+    "genera": [],
+    "pos": "Adverb",
+    "url": "https://www.dwds.de/wb/ein%20Mal",
+    "sch": [
+      { "hidx": null, "lemma": "ein Mal" },
+      { "lemma": "einmal", "hidx": null }
+    ],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/einige",
+    "pos": "Indefinitpronomen",
+    "sch": [{ "lemma": "einige", "hidx": null }],
+    "genera": []
+  },
+  {
+    "articles": ["das"],
+    "sch": [{ "lemma": "Einkaufszentrum", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Einkaufszentrum",
+    "pos": "Substantiv",
+    "genera": ["neutr."]
+  },
+  {
+    "articles": [],
+    "sch": [{ "lemma": "einpacken", "hidx": null }],
+    "url": "https://www.dwds.de/wb/einpacken",
+    "pos": "Verb",
+    "genera": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/eintragen",
+    "pos": "Verb",
+    "sch": [{ "lemma": "eintragen", "hidx": null }]
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/einverstanden",
+    "pos": "partizipiales Adjektiv",
+    "sch": [{ "lemma": "einverstanden", "hidx": null }],
+    "genera": []
+  },
+  {
+    "pos": "Adjektiv",
+    "url": "https://www.dwds.de/wb/einzeln",
+    "sch": [{ "hidx": null, "lemma": "einzeln" }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/einziehen",
+    "sch": [{ "lemma": "einziehen", "hidx": null }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": ["das"],
+    "url": "https://www.dwds.de/wb/Eis#1",
+    "sch": [{ "hidx": "1", "lemma": "Eis" }],
+    "pos": "Substantiv",
+    "genera": ["neutr."]
+  },
+  {
+    "articles": [],
+    "pos": "Adverb",
+    "url": "https://www.dwds.de/wb/endlich",
+    "sch": [{ "lemma": "endlich", "hidx": null }],
+    "genera": []
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/eng",
+    "sch": [{ "lemma": "eng", "hidx": null }],
+    "pos": "Adjektiv",
+    "articles": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/Erdgeschoss",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Erdgeschoss" }],
+    "genera": ["neutr."],
+    "articles": ["das"]
+  },
+  {
+    "sch": [{ "lemma": "Erfahrung", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Erfahrung",
+    "pos": "Substantiv",
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/erinnern",
+    "pos": "Verb",
+    "sch": [{ "hidx": null, "lemma": "erinnern" }]
+  },
+  {
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Erlaubnis",
+    "sch": [{ "hidx": null, "lemma": "Erlaubnis" }],
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "url": "https://www.dwds.de/wb/Erm%C3%A4%C3%9Figung",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Ermäßigung" }],
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "erreichen" }],
+    "url": "https://www.dwds.de/wb/erreichen",
+    "pos": "Verb",
+    "articles": []
+  },
+  {
+    "sch": [{ "lemma": "erst", "hidx": null }],
+    "url": "https://www.dwds.de/wb/erst",
+    "pos": "Adverb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "lemma": "etwas", "hidx": null }],
+    "url": "https://www.dwds.de/wb/etwas",
+    "pos": "Indefinitpronomen"
+  },
+  {
+    "genera": ["neutr."],
+    "sch": [{ "lemma": "Fach", "hidx": "2" }],
+    "url": "https://www.dwds.de/wb/Fach#2",
+    "pos": "Substantiv",
+    "articles": ["das"]
+  },
+  {
+    "articles": ["der"],
+    "genera": ["mask."],
+    "url": "https://www.dwds.de/wb/Fahrplan",
+    "sch": [{ "hidx": null, "lemma": "Fahrplan" }],
+    "pos": "Substantiv"
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/fallen",
+    "sch": [{ "hidx": null, "lemma": "fallen" }],
+    "pos": "Verb"
+  },
+  {
+    "url": "https://www.dwds.de/wb/Fan",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Fan" }],
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "articles": [],
+    "pos": "Adjektiv",
+    "url": "https://www.dwds.de/wb/fantastisch",
+    "sch": [
+      { "lemma": "fantastisch", "hidx": null },
+      { "lemma": "phantastisch", "hidx": null }
+    ],
+    "genera": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/fast",
+    "sch": [{ "hidx": null, "lemma": "fast" }],
+    "pos": "Adverb",
+    "genera": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/faul",
+    "pos": "Adjektiv",
+    "sch": [{ "hidx": null, "lemma": "faul" }],
+    "genera": []
+  },
+  {
+    "genera": ["fem."],
+    "sch": [{ "hidx": null, "lemma": "Feier" }],
+    "url": "https://www.dwds.de/wb/Feier",
+    "pos": "Substantiv",
+    "articles": ["die"]
+  },
+  {
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Fenster",
+    "sch": [{ "lemma": "Fenster", "hidx": null }],
+    "genera": ["neutr."],
+    "articles": ["das"]
+  },
+  {
+    "onlypl": "nur im Plural",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Ferien", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Ferien",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Fest",
+    "sch": [{ "hidx": null, "lemma": "Fest" }],
+    "genera": ["neutr."],
+    "articles": ["das"]
+  },
+  {
+    "genera": ["neutr."],
+    "sch": [{ "hidx": null, "lemma": "Festival" }],
+    "url": "https://www.dwds.de/wb/Festival",
+    "pos": "Substantiv",
+    "articles": ["das"]
+  },
+  {
+    "articles": [],
+    "sch": [{ "hidx": null, "lemma": "fett" }],
+    "url": "https://www.dwds.de/wb/fett",
+    "pos": "Adjektiv",
+    "genera": []
+  },
+  {
+    "sch": [{ "hidx": null, "lemma": "fit" }],
+    "url": "https://www.dwds.de/wb/fit",
+    "pos": "Adjektiv",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "fleißig" }],
+    "url": "https://www.dwds.de/wb/flei%C3%9Fig",
+    "pos": "Adjektiv",
+    "articles": []
+  },
+  {
+    "genera": ["mask."],
+    "url": "https://www.dwds.de/wb/Flohmarkt",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Flohmarkt" }],
+    "articles": ["der"]
+  },
+  {
+    "url": "https://www.dwds.de/wb/Flug",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Flug", "hidx": null }],
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Fluss",
+    "sch": [{ "lemma": "Fluss", "hidx": null }],
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "genera": ["mask."],
+    "url": "https://www.dwds.de/wb/Fotoapparat",
+    "sch": [{ "hidx": null, "lemma": "Fotoapparat" }],
+    "pos": "Substantiv",
+    "articles": ["der"]
+  },
+  {
+    "genera": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/fotografieren",
+    "sch": [{ "hidx": null, "lemma": "fotografieren" }],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/freiwillig",
+    "pos": "Adjektiv",
+    "sch": [{ "lemma": "freiwillig", "hidx": null }],
+    "genera": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/Freundin",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Freundin", "hidx": null }],
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "genera": [],
+    "pos": "Adjektiv",
+    "url": "https://www.dwds.de/wb/freundlich",
+    "sch": [{ "lemma": "freundlich", "hidx": null }],
+    "articles": []
+  },
+  {
+    "sch": [{ "lemma": "frisch", "hidx": null }],
+    "url": "https://www.dwds.de/wb/frisch",
+    "pos": "Adjektiv",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "sch": [{ "hidx": null, "lemma": "froh" }],
+    "url": "https://www.dwds.de/wb/froh",
+    "pos": "Adjektiv",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "früh" }],
+    "url": "https://www.dwds.de/wb/fr%C3%BCh",
+    "pos": "Adjektiv",
+    "articles": []
+  },
+  {
+    "articles": ["die"],
+    "sch": [{ "hidx": null, "lemma": "Fundsache" }],
+    "url": "https://www.dwds.de/wb/Fundsache",
+    "pos": "Substantiv",
+    "genera": ["fem."]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/furchtbar",
+    "pos": "Adjektiv",
+    "sch": [{ "lemma": "furchtbar", "hidx": null }]
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/f%C3%BChlen",
+    "pos": "Verb",
+    "sch": [{ "hidx": null, "lemma": "fühlen" }],
+    "genera": []
+  },
+  {
+    "genera": ["mask."],
+    "url": "https://www.dwds.de/wb/F%C3%BChrerschein",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Führerschein" }],
+    "articles": ["der"]
+  },
+  {
+    "articles": ["die"],
+    "genera": ["fem."],
+    "url": "https://www.dwds.de/wb/Gabel",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Gabel", "hidx": null }]
+  },
+  {
+    "sch": [{ "hidx": null, "lemma": "ganz" }],
+    "url": "https://www.dwds.de/wb/ganz",
+    "pos": "Adjektiv",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "genera": ["fem."],
+    "url": "https://www.dwds.de/wb/Garage",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Garage" }],
+    "articles": ["die"]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "lemma": "gefährlich", "hidx": null }],
+    "url": "https://www.dwds.de/wb/gef%C3%A4hrlich",
+    "pos": "Adjektiv"
+  },
+  {
+    "articles": ["das"],
+    "genera": ["neutr."],
+    "sch": [{ "lemma": "Gegenteil", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Gegenteil",
+    "pos": "Substantiv"
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/gegen%C3%BCber#1",
+    "sch": [{ "hidx": "1", "lemma": "gegenüber" }],
+    "pos": "Präposition"
+  },
+  {
+    "articles": [],
+    "sch": [{ "lemma": "gegenüber", "hidx": "2" }],
+    "url": "https://www.dwds.de/wb/gegen%C3%BCber#2",
+    "pos": "Adverb",
+    "genera": []
+  },
+  {
+    "articles": ["das"],
+    "genera": ["neutr.", "mask."],
+    "url": "https://www.dwds.de/wb/Gehalt#2",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Gehalt", "hidx": "2" }]
+  },
+  {
+    "sch": [{ "lemma": "Geldbörse", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Geldb%C3%B6rse",
+    "pos": "Substantiv",
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "genau" }],
+    "url": "https://www.dwds.de/wb/genau",
+    "pos": "Adjektiv"
+  },
+  {
+    "articles": [],
+    "sch": [{ "lemma": "genug", "hidx": null }],
+    "url": "https://www.dwds.de/wb/genug",
+    "pos": "Indefinitpronomen",
+    "genera": []
+  },
+  {
+    "articles": ["das"],
+    "genera": ["neutr."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Gericht#1",
+    "sch": [{ "hidx": "1", "lemma": "Gericht" }]
+  },
+  {
+    "genera": ["neutr."],
+    "sch": [{ "hidx": null, "lemma": "Gerät" }],
+    "url": "https://www.dwds.de/wb/Ger%C3%A4t",
+    "pos": "Substantiv",
+    "articles": ["das"]
+  },
+  {
+    "articles": ["die"],
+    "url": "https://www.dwds.de/wb/Geschichte",
+    "sch": [{ "hidx": null, "lemma": "Geschichte" }],
+    "pos": "Substantiv",
+    "genera": ["fem."]
+  },
+  {
+    "genera": ["neutr."],
+    "url": "https://www.dwds.de/wb/Geschirr#1",
+    "sch": [{ "lemma": "Geschirr", "hidx": "1" }],
+    "pos": "Substantiv",
+    "articles": ["das"]
+  },
+  {
+    "pos": "Adjektiv",
+    "url": "https://www.dwds.de/wb/gesund",
+    "sch": [{ "lemma": "gesund", "hidx": null }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": ["die"],
+    "sch": [{ "lemma": "Gesundheit", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Gesundheit",
+    "pos": "Substantiv",
+    "genera": ["fem."]
+  },
+  {
+    "articles": ["das"],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Gewitter",
+    "sch": [{ "hidx": null, "lemma": "Gewitter" }],
+    "genera": ["neutr."]
+  },
+  {
+    "genera": ["fem."],
+    "url": "https://www.dwds.de/wb/Gitarre",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Gitarre" }],
+    "articles": ["die"]
+  },
+  {
+    "genera": ["fem."],
+    "url": "https://www.dwds.de/wb/Grippe",
+    "sch": [{ "lemma": "Grippe", "hidx": null }],
+    "pos": "Substantiv",
+    "articles": ["die"]
+  },
+  {
+    "articles": ["der"],
+    "genera": ["mask."],
+    "sch": [{ "hidx": "1", "lemma": "Hals" }],
+    "url": "https://www.dwds.de/wb/Hals#1",
+    "pos": "Substantiv"
+  },
+  {
+    "articles": ["der"],
+    "genera": ["mask."],
+    "sch": [{ "lemma": "Hamburger", "hidx": "3" }],
+    "url": "https://www.dwds.de/wb/Hamburger#3",
+    "pos": "Substantiv"
+  },
+  {
+    "articles": ["das"],
+    "genera": ["neutr."],
+    "url": "https://www.dwds.de/wb/Handtuch",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Handtuch", "hidx": null }]
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/hart#1",
+    "pos": "Adjektiv",
+    "sch": [{ "lemma": "hart", "hidx": "1" }],
+    "genera": []
+  },
+  {
+    "genera": ["fem."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Hauptstadt",
+    "sch": [{ "lemma": "Hauptstadt", "hidx": null }],
+    "articles": ["die"]
+  },
+  {
+    "url": "https://www.dwds.de/wb/Haushalt",
+    "sch": [{ "hidx": null, "lemma": "Haushalt" }],
+    "pos": "Substantiv",
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "articles": ["das"],
+    "sch": [{ "lemma": "Heft", "hidx": "1" }],
+    "url": "https://www.dwds.de/wb/Heft#1",
+    "pos": "Substantiv",
+    "genera": ["neutr."]
+  },
+  {
+    "genera": ["fem."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Heizung",
+    "sch": [{ "lemma": "Heizung", "hidx": null }],
+    "articles": ["die"]
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/hei%C3%9F",
+    "sch": [{ "hidx": null, "lemma": "heiß" }],
+    "pos": "Adjektiv",
+    "articles": []
+  },
+  {
+    "articles": ["das"],
+    "genera": ["neutr."],
+    "url": "https://www.dwds.de/wb/Hemd",
+    "sch": [{ "lemma": "Hemd", "hidx": null }],
+    "pos": "Substantiv"
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/her",
+    "pos": "Adverb",
+    "sch": [{ "lemma": "her", "hidx": null }]
+  },
+  {
+    "sch": [{ "lemma": "her-", "hidx": null }],
+    "url": "https://www.dwds.de/wb/her-",
+    "pos": "Affix",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "heraus" }],
+    "url": "https://www.dwds.de/wb/heraus",
+    "pos": "Adverb"
+  },
+  {
+    "sch": [{ "lemma": "herein", "hidx": null }],
+    "url": "https://www.dwds.de/wb/herein",
+    "pos": "Adverb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/herstellen#2",
+    "sch": [{ "lemma": "herstellen", "hidx": "2" }],
+    "pos": "Verb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/herunterladen",
+    "sch": [{ "hidx": null, "lemma": "herunterladen" }]
+  },
+  {
+    "genera": ["mask."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Himmel",
+    "sch": [{ "hidx": null, "lemma": "Himmel" }],
+    "articles": ["der"]
+  },
+  {
+    "genera": [],
+    "pos": "Adverb",
+    "url": "https://www.dwds.de/wb/hin",
+    "sch": [{ "lemma": "hin", "hidx": null }],
+    "articles": []
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/hin-",
+    "pos": "Affix",
+    "sch": [{ "hidx": null, "lemma": "hin-" }],
+    "articles": []
+  },
+  {
+    "pos": "Präposition",
+    "url": "https://www.dwds.de/wb/hinter#1",
+    "sch": [{ "lemma": "hinter", "hidx": "1" }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/hoffen",
+    "sch": [{ "hidx": null, "lemma": "hoffen" }],
+    "genera": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/hoffentlich",
+    "pos": "Adverb",
+    "sch": [{ "hidx": null, "lemma": "hoffentlich" }]
+  },
+  {
+    "genera": ["fem."],
+    "url": "https://www.dwds.de/wb/Homepage",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Homepage", "hidx": null }],
+    "articles": ["die"]
+  },
+  {
+    "articles": ["die"],
+    "url": "https://www.dwds.de/wb/Hose",
+    "sch": [{ "hidx": null, "lemma": "Hose" }],
+    "pos": "Substantiv",
+    "genera": ["fem."]
+  },
+  {
+    "articles": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/husten",
+    "sch": [{ "hidx": null, "lemma": "husten" }],
+    "genera": []
+  },
+  {
+    "articles": ["das"],
+    "genera": ["neutr."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/H%C3%A4ndetuch",
+    "sch": [{ "hidx": null, "lemma": "Händetuch" }]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/h%C3%A4ngen#1",
+    "sch": [{ "lemma": "hängen", "hidx": "1" }]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/h%C3%A4ngen#2",
+    "pos": "Verb",
+    "sch": [{ "hidx": "2", "lemma": "hängen" }]
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/h%C3%A4sslich",
+    "sch": [{ "lemma": "hässlich", "hidx": null }],
+    "pos": "Adjektiv",
+    "genera": []
+  },
+  {
+    "genera": ["fem."],
+    "sch": [{ "lemma": "Idee", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Idee",
+    "pos": "Substantiv",
+    "articles": ["die"]
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/informieren",
+    "pos": "Verb",
+    "sch": [{ "lemma": "informieren", "hidx": null }],
+    "genera": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/Insel",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Insel" }],
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "articles": ["das"],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Instrument",
+    "sch": [{ "hidx": null, "lemma": "Instrument" }],
+    "genera": ["neutr."]
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/intelligent",
+    "pos": "Adjektiv",
+    "sch": [{ "hidx": null, "lemma": "intelligent" }],
+    "articles": []
+  },
+  {
+    "articles": ["das"],
+    "genera": ["neutr."],
+    "url": "https://www.dwds.de/wb/Interesse",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Interesse", "hidx": null }]
+  },
+  {
+    "articles": [],
+    "sch": [{ "hidx": null, "lemma": "interessieren" }],
+    "url": "https://www.dwds.de/wb/interessieren",
+    "pos": "Verb",
+    "genera": []
+  },
+  {
+    "articles": ["das"],
+    "genera": ["neutr."],
+    "url": "https://www.dwds.de/wb/Interview",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Interview", "hidx": null }]
+  },
+  {
+    "genera": ["fem."],
+    "url": "https://www.dwds.de/wb/Jeans",
+    "sch": [{ "lemma": "Jeans", "hidx": null }],
+    "pos": "Substantiv",
+    "articles": ["die"]
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/jemand",
+    "pos": "Indefinitpronomen",
+    "sch": [{ "lemma": "jemand", "hidx": null }],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/joggen",
+    "pos": "Verb",
+    "sch": [{ "lemma": "joggen", "hidx": null }],
+    "genera": []
+  },
+  {
+    "sch": [{ "lemma": "Jugendherberge", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Jugendherberge",
+    "pos": "Substantiv",
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "genera": ["mask."],
+    "sch": [{ "lemma": "Kalender", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Kalender",
+    "pos": "Substantiv",
+    "articles": ["der"]
+  },
+  {
+    "articles": [],
+    "sch": [{ "lemma": "kalt", "hidx": null }],
+    "url": "https://www.dwds.de/wb/kalt",
+    "pos": "Adjektiv",
+    "genera": []
+  },
+  {
+    "genera": ["fem."],
+    "url": "https://www.dwds.de/wb/Kamera",
+    "sch": [{ "hidx": null, "lemma": "Kamera" }],
+    "pos": "Substantiv",
+    "articles": ["die"]
+  },
+  {
+    "url": "https://www.dwds.de/wb/Katze",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Katze" }],
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "articles": ["das"],
+    "genera": ["neutr."],
+    "url": "https://www.dwds.de/wb/Kaufhaus",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Kaufhaus" }]
+  },
+  {
+    "articles": ["der"],
+    "url": "https://www.dwds.de/wb/Keller",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Keller", "hidx": null }],
+    "genera": ["mask."]
+  },
+  {
+    "url": "https://www.dwds.de/wb/Kenntnis",
+    "sch": [{ "hidx": null, "lemma": "Kenntnis" }],
+    "pos": "Substantiv",
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "genera": ["fem."],
+    "url": "https://www.dwds.de/wb/Kette",
+    "sch": [{ "lemma": "Kette", "hidx": null }],
+    "pos": "Substantiv",
+    "articles": ["die"]
+  },
+  {
+    "articles": ["die"],
+    "genera": ["fem."],
+    "sch": [{ "hidx": null, "lemma": "Kirche" }],
+    "url": "https://www.dwds.de/wb/Kirche",
+    "pos": "Substantiv"
+  },
+  {
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/klappen",
+    "sch": [{ "hidx": null, "lemma": "klappen" }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Klavier",
+    "sch": [{ "hidx": null, "lemma": "Klavier" }],
+    "genera": ["neutr."],
+    "articles": ["das"]
+  },
+  {
+    "articles": ["das"],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Kleid",
+    "sch": [{ "hidx": null, "lemma": "Kleid" }],
+    "genera": ["neutr."]
+  },
+  {
+    "sch": [
+      { "lemma": "Klub", "hidx": null },
+      { "lemma": "Club", "hidx": null }
+    ],
+    "url": "https://www.dwds.de/wb/Klub",
+    "pos": "Substantiv",
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "articles": [],
+    "pos": "Adjektiv",
+    "url": "https://www.dwds.de/wb/klug",
+    "sch": [{ "lemma": "klug", "hidx": null }],
+    "genera": []
+  },
+  {
+    "genera": ["fem."],
+    "url": "https://www.dwds.de/wb/Kollegin",
+    "sch": [{ "lemma": "Kollegin", "hidx": null }],
+    "pos": "Substantiv",
+    "articles": ["die"]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "komisch" }],
+    "url": "https://www.dwds.de/wb/komisch",
+    "pos": "Adjektiv"
+  },
+  {
+    "articles": ["der"],
+    "url": "https://www.dwds.de/wb/Kontakt",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Kontakt" }],
+    "genera": ["mask."]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/kontrollieren",
+    "sch": [{ "hidx": null, "lemma": "kontrollieren" }]
+  },
+  {
+    "genera": ["neutr."],
+    "sch": [{ "hidx": null, "lemma": "Konzert" }],
+    "url": "https://www.dwds.de/wb/Konzert",
+    "pos": "Substantiv",
+    "articles": ["das"]
+  },
+  {
+    "articles": ["die"],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Kosmetik",
+    "sch": [{ "hidx": null, "lemma": "Kosmetik" }],
+    "genera": ["fem."]
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/kostenlos",
+    "pos": "Adjektiv",
+    "sch": [{ "lemma": "kostenlos", "hidx": null }],
+    "articles": []
+  },
+  {
+    "articles": ["das"],
+    "url": "https://www.dwds.de/wb/Krankenhaus",
+    "sch": [{ "lemma": "Krankenhaus", "hidx": null }],
+    "pos": "Substantiv",
+    "genera": ["neutr."]
+  },
+  {
+    "genera": ["fem."],
+    "url": "https://www.dwds.de/wb/Krankenkasse",
+    "sch": [{ "lemma": "Krankenkasse", "hidx": null }],
+    "pos": "Substantiv",
+    "articles": ["die"]
+  },
+  {
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Krankheit",
+    "sch": [{ "lemma": "Krankheit", "hidx": null }],
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "genera": ["mask."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Kredit#1",
+    "sch": [{ "lemma": "Kredit", "hidx": "1" }],
+    "articles": ["der"]
+  },
+  {
+    "articles": ["die"],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Kreuzung",
+    "sch": [{ "lemma": "Kreuzung", "hidx": null }],
+    "genera": ["fem."]
+  },
+  {
+    "genera": ["mask."],
+    "url": "https://www.dwds.de/wb/Krimi",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Krimi", "hidx": null }],
+    "articles": ["der"]
+  },
+  {
+    "url": "https://www.dwds.de/wb/Kultur",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Kultur", "hidx": null }],
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "url": "https://www.dwds.de/wb/Kunst",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Kunst" }],
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "genera": ["mask."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/K%C3%A4se",
+    "sch": [{ "lemma": "Käse", "hidx": null }],
+    "articles": ["der"]
+  },
+  {
+    "articles": ["der"],
+    "url": "https://www.dwds.de/wb/K%C3%B6rper",
+    "sch": [{ "hidx": null, "lemma": "Körper" }],
+    "pos": "Substantiv",
+    "genera": ["mask."]
+  },
+  {
+    "url": "https://www.dwds.de/wb/k%C3%BChl",
+    "pos": "Adjektiv",
+    "sch": [{ "lemma": "kühl", "hidx": null }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/k%C3%BCndigen",
+    "sch": [{ "hidx": null, "lemma": "kündigen" }],
+    "pos": "Verb",
+    "genera": []
+  },
+  {
+    "articles": ["die"],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Lampe#1",
+    "sch": [{ "lemma": "Lampe", "hidx": "1" }],
+    "genera": ["fem."]
+  },
+  {
+    "articles": ["die"],
+    "url": "https://www.dwds.de/wb/Landschaft",
+    "sch": [{ "hidx": null, "lemma": "Landschaft" }],
+    "pos": "Substantiv",
+    "genera": ["fem."]
+  },
+  {
+    "genera": [],
+    "pos": "Adjektiv",
+    "url": "https://www.dwds.de/wb/langweilig",
+    "sch": [{ "lemma": "langweilig", "hidx": null }],
+    "articles": []
+  },
+  {
+    "genera": ["mask.", "neutr."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Laptop",
+    "sch": [{ "lemma": "Laptop", "hidx": null }],
+    "articles": ["der"]
+  },
+  {
+    "url": "https://www.dwds.de/wb/lassen",
+    "pos": "Verb",
+    "sch": [{ "hidx": null, "lemma": "lassen" }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/leer",
+    "sch": [{ "hidx": null, "lemma": "leer" }],
+    "pos": "Adjektiv"
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/leidtun",
+    "sch": [{ "hidx": null, "lemma": "leidtun" }]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/leihen",
+    "sch": [{ "lemma": "leihen", "hidx": null }],
+    "pos": "Verb"
+  },
+  {
+    "genera": ["fem."],
+    "sch": [{ "lemma": "Liebe", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Liebe",
+    "pos": "Substantiv",
+    "articles": ["die"]
+  },
+  {
+    "articles": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/liefern",
+    "sch": [{ "hidx": null, "lemma": "liefern" }],
+    "genera": []
+  },
+  {
+    "articles": ["der"],
+    "sch": [{ "hidx": null, "lemma": "Link" }],
+    "url": "https://www.dwds.de/wb/Link",
+    "pos": "Substantiv",
+    "genera": ["mask.", "neutr."]
+  },
+  {
+    "articles": ["die"],
+    "genera": ["fem."],
+    "sch": [{ "lemma": "Lust", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Lust",
+    "pos": "Substantiv"
+  },
+  {
+    "url": "https://www.dwds.de/wb/L%C3%B6ffel",
+    "sch": [{ "lemma": "Löffel", "hidx": null }],
+    "pos": "Substantiv",
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "url": "https://www.dwds.de/wb/L%C3%BCge",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Lüge", "hidx": null }],
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "url": "https://www.dwds.de/wb/l%C3%BCgen",
+    "pos": "Verb",
+    "sch": [{ "lemma": "lügen", "hidx": null }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": ["der"],
+    "url": "https://www.dwds.de/wb/Magen",
+    "sch": [{ "lemma": "Magen", "hidx": null }],
+    "pos": "Substantiv",
+    "genera": ["mask."]
+  },
+  {
+    "articles": ["die"],
+    "url": "https://www.dwds.de/wb/Mail",
+    "sch": [{ "hidx": null, "lemma": "Mail" }],
+    "pos": "Substantiv",
+    "genera": ["fem.", "neutr."]
+  },
+  {
+    "sch": [{ "lemma": "Mailbox", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Mailbox",
+    "pos": "Substantiv",
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "pos": "Adverb",
+    "url": "https://www.dwds.de/wb/mal",
+    "sch": [{ "hidx": null, "lemma": "mal" }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/malen",
+    "sch": [{ "lemma": "malen", "hidx": null }],
+    "pos": "Verb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "pos": "Indefinitpronomen",
+    "url": "https://www.dwds.de/wb/manch",
+    "sch": [{ "lemma": "manch", "hidx": null }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "pos": "Adverb",
+    "url": "https://www.dwds.de/wb/manchmal",
+    "sch": [{ "hidx": null, "lemma": "manchmal" }],
+    "genera": []
+  },
+  {
+    "articles": ["die"],
+    "url": "https://www.dwds.de/wb/Mannschaft",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Mannschaft" }],
+    "genera": ["fem."]
+  },
+  {
+    "genera": ["mask."],
+    "sch": [{ "lemma": "Mantel", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Mantel",
+    "pos": "Substantiv",
+    "articles": ["der"]
+  },
+  {
+    "sch": [{ "lemma": "Markt", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Markt",
+    "pos": "Substantiv",
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "genera": ["neutr."],
+    "url": "https://www.dwds.de/wb/Medikament",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Medikament", "hidx": null }],
+    "articles": ["das"]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/meinen",
+    "sch": [{ "lemma": "meinen", "hidx": null }],
+    "pos": "Verb"
+  },
+  {
+    "articles": ["die"],
+    "url": "https://www.dwds.de/wb/Meinung",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Meinung" }],
+    "genera": ["fem."]
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/meistens",
+    "sch": [{ "hidx": null, "lemma": "meistens" }],
+    "pos": "Adverb",
+    "genera": []
+  },
+  {
+    "articles": ["die"],
+    "sch": [{ "hidx": null, "lemma": "Menge" }],
+    "url": "https://www.dwds.de/wb/Menge",
+    "pos": "Substantiv",
+    "genera": ["fem."]
+  },
+  {
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/merken",
+    "sch": [{ "lemma": "merken", "hidx": null }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "sch": [{ "lemma": "Messe", "hidx": "1" }],
+    "url": "https://www.dwds.de/wb/Messe#1",
+    "pos": "Substantiv",
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "genera": ["neutr."],
+    "url": "https://www.dwds.de/wb/Messer#1",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Messer", "hidx": "1" }],
+    "articles": ["das"]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "lemma": "mindestens", "hidx": null }],
+    "url": "https://www.dwds.de/wb/mindestens",
+    "pos": "Adverb"
+  },
+  {
+    "articles": ["das"],
+    "sch": [{ "lemma": "Mineralwasser", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Mineralwasser",
+    "pos": "Substantiv",
+    "genera": ["neutr."]
+  },
+  {
+    "articles": ["der"],
+    "genera": ["mask."],
+    "url": "https://www.dwds.de/wb/Mitarbeiter",
+    "sch": [{ "lemma": "Mitarbeiter", "hidx": null }],
+    "pos": "Substantiv"
+  },
+  {
+    "genera": ["neutr."],
+    "url": "https://www.dwds.de/wb/Mittagessen",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Mittagessen", "hidx": null }],
+    "articles": ["das"]
+  },
+  {
+    "articles": ["das"],
+    "sch": [{ "lemma": "Mittel", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Mittel",
+    "pos": "Substantiv",
+    "genera": ["neutr."]
+  },
+  {
+    "genera": ["neutr."],
+    "url": "https://www.dwds.de/wb/Mobiltelefon",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Mobiltelefon" }],
+    "articles": ["das"]
+  },
+  {
+    "genera": ["fem."],
+    "url": "https://www.dwds.de/wb/Mode",
+    "sch": [{ "lemma": "Mode", "hidx": null }],
+    "pos": "Substantiv",
+    "articles": ["die"]
+  },
+  {
+    "articles": [],
+    "sch": [{ "hidx": "1", "lemma": "modern" }],
+    "url": "https://www.dwds.de/wb/modern#1",
+    "pos": "Adjektiv",
+    "genera": []
+  },
+  {
+    "articles": ["der"],
+    "genera": ["mask."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Motor",
+    "sch": [{ "hidx": null, "lemma": "Motor" }]
+  },
+  {
+    "genera": ["mask."],
+    "url": "https://www.dwds.de/wb/Motorroller",
+    "sch": [{ "hidx": null, "lemma": "Motorroller" }],
+    "pos": "Substantiv",
+    "articles": ["der"]
+  },
+  {
+    "genera": ["neutr."],
+    "url": "https://www.dwds.de/wb/Museum",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Museum" }],
+    "articles": ["das"]
+  },
+  {
+    "articles": ["die"],
+    "genera": ["fem."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Musik",
+    "sch": [{ "hidx": null, "lemma": "Musik" }]
+  },
+  {
+    "articles": ["der"],
+    "sch": [{ "hidx": null, "lemma": "Müll" }],
+    "url": "https://www.dwds.de/wb/M%C3%BCll",
+    "pos": "Substantiv",
+    "genera": ["mask."]
+  },
+  {
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/M%C3%BCtze",
+    "sch": [{ "hidx": null, "lemma": "Mütze" }],
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "sch": [{ "lemma": "Nachbar", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Nachbar",
+    "pos": "Substantiv",
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "articles": ["die"],
+    "url": "https://www.dwds.de/wb/Nachbarin",
+    "sch": [{ "lemma": "Nachbarin", "hidx": null }],
+    "pos": "Substantiv",
+    "genera": ["fem."]
+  },
+  {
+    "url": "https://www.dwds.de/wb/Nachricht",
+    "sch": [{ "hidx": null, "lemma": "Nachricht" }],
+    "pos": "Substantiv",
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "genera": [],
+    "sch": [{ "lemma": "nass", "hidx": null }],
+    "url": "https://www.dwds.de/wb/nass",
+    "pos": "Adjektiv",
+    "articles": []
+  },
+  {
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Natur",
+    "sch": [{ "lemma": "Natur", "hidx": null }],
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/nat%C3%BCrlich",
+    "pos": "Adjektiv",
+    "sch": [{ "hidx": null, "lemma": "natürlich" }]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "pos": "Adjektiv",
+    "url": "https://www.dwds.de/wb/nebelig",
+    "sch": [{ "hidx": null, "lemma": "nebelig" }]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/neben",
+    "pos": "Präposition",
+    "sch": [{ "lemma": "neben", "hidx": null }]
+  },
+  {
+    "url": "https://www.dwds.de/wb/nebenan",
+    "pos": "Adverb",
+    "sch": [{ "lemma": "nebenan", "hidx": null }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "pos": "Adjektiv",
+    "url": "https://www.dwds.de/wb/neblig",
+    "sch": [{ "lemma": "neblig", "hidx": null }]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/nennen",
+    "pos": "Verb",
+    "sch": [{ "lemma": "nennen", "hidx": null }]
+  },
+  {
+    "url": "https://www.dwds.de/wb/nerv%C3%B6s",
+    "sch": [{ "lemma": "nervös", "hidx": null }],
+    "pos": "Adjektiv",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/nett",
+    "pos": "Adjektiv",
+    "sch": [{ "hidx": null, "lemma": "nett" }],
+    "articles": []
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/niemand",
+    "sch": [{ "hidx": null, "lemma": "niemand" }],
+    "pos": "Indefinitpronomen",
+    "articles": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/nirgends",
+    "pos": "Adverb",
+    "sch": [{ "lemma": "nirgends", "hidx": null }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/Note",
+    "sch": [{ "hidx": null, "lemma": "Note" }],
+    "pos": "Substantiv",
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "notieren" }],
+    "url": "https://www.dwds.de/wb/notieren",
+    "pos": "Verb",
+    "articles": []
+  },
+  {
+    "genera": ["fem."],
+    "sch": [{ "lemma": "Notiz", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Notiz",
+    "pos": "Substantiv",
+    "articles": ["die"]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/notwendig",
+    "sch": [{ "hidx": null, "lemma": "notwendig" }],
+    "pos": "Adjektiv"
+  },
+  {
+    "articles": ["die"],
+    "genera": ["fem."],
+    "sch": [{ "hidx": null, "lemma": "Nudel" }],
+    "url": "https://www.dwds.de/wb/Nudel",
+    "pos": "Substantiv"
+  },
+  {
+    "genera": ["mask."],
+    "url": "https://www.dwds.de/wb/N%C3%A4chste",
+    "sch": [
+      { "lemma": "Nächste", "hidx": null },
+      { "hidx": null, "lemma": "nächste" }
+    ],
+    "pos": "Substantiv",
+    "articles": ["der"]
+  },
+  {
+    "articles": ["die"],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/N%C3%A4he",
+    "sch": [{ "hidx": null, "lemma": "Nähe" }],
+    "genera": ["fem."]
+  },
+  {
+    "sch": [{ "lemma": "nützlich", "hidx": null }],
+    "url": "https://www.dwds.de/wb/n%C3%BCtzlich",
+    "pos": "Adjektiv",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/offen",
+    "sch": [{ "lemma": "offen", "hidx": null }],
+    "pos": "Adjektiv",
+    "genera": []
+  },
+  {
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Ohr",
+    "sch": [{ "hidx": null, "lemma": "Ohr" }],
+    "genera": ["neutr."],
+    "articles": ["das"]
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/online",
+    "pos": "Adverb",
+    "sch": [{ "hidx": null, "lemma": "online" }],
+    "articles": []
+  },
+  {
+    "sch": [{ "hidx": "1", "lemma": "Orange" }],
+    "url": "https://www.dwds.de/wb/Orange#1",
+    "pos": "Substantiv",
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "sch": [{ "hidx": null, "lemma": "organisieren" }],
+    "url": "https://www.dwds.de/wb/organisieren",
+    "pos": "Verb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "genera": [],
+    "pos": "Indefinitpronomen",
+    "url": "https://www.dwds.de/wb/paar",
+    "sch": [{ "lemma": "paar", "hidx": null }],
+    "articles": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/Paar",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Paar", "hidx": null }],
+    "genera": ["neutr."],
+    "articles": ["das"]
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/packen",
+    "pos": "Verb",
+    "sch": [{ "hidx": null, "lemma": "packen" }],
+    "articles": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/Paket",
+    "sch": [{ "hidx": null, "lemma": "Paket" }],
+    "pos": "Substantiv",
+    "genera": ["neutr."],
+    "articles": ["das"]
+  },
+  {
+    "articles": ["das"],
+    "url": "https://www.dwds.de/wb/Parf%C3%BCm",
+    "pos": "Substantiv",
+    "sch": [
+      { "lemma": "Parfüm", "hidx": null },
+      { "lemma": "Parfum", "hidx": null }
+    ],
+    "genera": ["neutr."]
+  },
+  {
+    "articles": ["der"],
+    "url": "https://www.dwds.de/wb/Park",
+    "sch": [{ "lemma": "Park", "hidx": null }],
+    "pos": "Substantiv",
+    "genera": ["mask."]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "parken" }],
+    "url": "https://www.dwds.de/wb/parken",
+    "pos": "Verb"
+  },
+  {
+    "url": "https://www.dwds.de/wb/passen",
+    "sch": [{ "hidx": null, "lemma": "passen" }],
+    "pos": "Verb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "genera": [],
+    "sch": [{ "hidx": "2", "lemma": "passieren" }],
+    "url": "https://www.dwds.de/wb/passieren#2",
+    "pos": "Verb",
+    "articles": []
+  },
+  {
+    "articles": ["das"],
+    "url": "https://www.dwds.de/wb/Passwort",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Passwort" }],
+    "genera": ["neutr."]
+  },
+  {
+    "articles": ["die"],
+    "genera": ["fem."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Person",
+    "sch": [{ "lemma": "Person", "hidx": null }]
+  },
+  {
+    "articles": ["das"],
+    "genera": ["neutr."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Pferd",
+    "sch": [{ "hidx": null, "lemma": "Pferd" }]
+  },
+  {
+    "articles": ["die"],
+    "url": "https://www.dwds.de/wb/Pflanze",
+    "sch": [{ "hidx": null, "lemma": "Pflanze" }],
+    "pos": "Substantiv",
+    "genera": ["fem."]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "lemma": "photographieren", "hidx": null }],
+    "url": "https://www.dwds.de/wb/photographieren",
+    "pos": "Verb"
+  },
+  {
+    "genera": ["fem."],
+    "url": "https://www.dwds.de/wb/Pizza",
+    "sch": [{ "hidx": null, "lemma": "Pizza" }],
+    "pos": "Substantiv",
+    "articles": ["die"]
+  },
+  {
+    "articles": ["das"],
+    "genera": ["neutr."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Plakat",
+    "sch": [{ "hidx": null, "lemma": "Plakat" }]
+  },
+  {
+    "url": "https://www.dwds.de/wb/planen",
+    "pos": "Verb",
+    "sch": [{ "hidx": null, "lemma": "planen" }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "lemma": "plötzlich", "hidx": null }],
+    "url": "https://www.dwds.de/wb/pl%C3%B6tzlich",
+    "pos": "Adjektiv"
+  },
+  {
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Portion",
+    "sch": [{ "lemma": "Portion", "hidx": null }],
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "articles": ["das"],
+    "url": "https://www.dwds.de/wb/Poster#1",
+    "sch": [{ "hidx": "1", "lemma": "Poster" }],
+    "pos": "Substantiv",
+    "genera": ["neutr.", "mask."]
+  },
+  {
+    "genera": ["fem."],
+    "sch": [{ "lemma": "Postkarte", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Postkarte",
+    "pos": "Substantiv",
+    "articles": ["die"]
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/praktisch",
+    "sch": [{ "hidx": null, "lemma": "praktisch" }],
+    "pos": "Adjektiv",
+    "articles": []
+  },
+  {
+    "sch": [{ "lemma": "preiswert", "hidx": null }],
+    "url": "https://www.dwds.de/wb/preiswert",
+    "pos": "Adjektiv",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/privat",
+    "pos": "Adjektiv",
+    "sch": [{ "hidx": null, "lemma": "privat" }]
+  },
+  {
+    "sch": [{ "lemma": "pro", "hidx": "1" }],
+    "url": "https://www.dwds.de/wb/pro#1",
+    "pos": "Präposition",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/probieren",
+    "pos": "Verb",
+    "sch": [{ "lemma": "probieren", "hidx": null }],
+    "articles": []
+  },
+  {
+    "genera": ["neutr."],
+    "sch": [{ "lemma": "Produkt", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Produkt",
+    "pos": "Substantiv",
+    "articles": ["das"]
+  },
+  {
+    "articles": ["das"],
+    "genera": ["neutr."],
+    "sch": [{ "lemma": "Programm", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Programm",
+    "pos": "Substantiv"
+  },
+  {
+    "articles": ["das"],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Projekt",
+    "sch": [{ "lemma": "Projekt", "hidx": null }],
+    "genera": ["neutr."]
+  },
+  {
+    "genera": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/pr%C3%BCfen",
+    "sch": [{ "hidx": null, "lemma": "prüfen" }],
+    "articles": []
+  },
+  {
+    "articles": ["der"],
+    "url": "https://www.dwds.de/wb/Pullover",
+    "sch": [{ "hidx": null, "lemma": "Pullover" }],
+    "pos": "Substantiv",
+    "genera": ["mask."]
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/putzen",
+    "sch": [{ "lemma": "putzen", "hidx": null }],
+    "pos": "Verb",
+    "genera": []
+  },
+  {
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Qualit%C3%A4t",
+    "sch": [{ "lemma": "Qualität", "hidx": null }],
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "articles": ["das"],
+    "url": "https://www.dwds.de/wb/Quiz",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Quiz", "hidx": null }],
+    "genera": ["neutr."]
+  },
+  {
+    "articles": ["das"],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Rad",
+    "sch": [{ "hidx": null, "lemma": "Rad" }],
+    "genera": ["neutr."]
+  },
+  {
+    "articles": ["das"],
+    "genera": ["neutr.", "mask."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Radio",
+    "sch": [{ "lemma": "Radio", "hidx": null }]
+  },
+  {
+    "url": "https://www.dwds.de/wb/raten#1",
+    "sch": [{ "hidx": "1", "lemma": "raten" }],
+    "pos": "Verb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "genera": [],
+    "sch": [{ "lemma": "raten", "hidx": "2" }],
+    "url": "https://www.dwds.de/wb/raten#2",
+    "pos": "Verb",
+    "articles": []
+  },
+  {
+    "genera": ["neutr."],
+    "url": "https://www.dwds.de/wb/Rathaus",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Rathaus" }],
+    "articles": ["das"]
+  },
+  {
+    "sch": [{ "hidx": null, "lemma": "raus" }],
+    "url": "https://www.dwds.de/wb/raus",
+    "pos": "Adverb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/rechnen",
+    "pos": "Verb",
+    "sch": [{ "hidx": null, "lemma": "rechnen" }],
+    "genera": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "lemma": "recht", "hidx": "2" }],
+    "url": "https://www.dwds.de/wb/recht#2",
+    "pos": "Adjektiv"
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "lemma": "reden", "hidx": null }],
+    "url": "https://www.dwds.de/wb/reden",
+    "pos": "Verb"
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/reich",
+    "sch": [{ "lemma": "reich", "hidx": null }],
+    "pos": "Adjektiv",
+    "genera": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/Reifen",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Reifen" }],
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "genera": ["fem."],
+    "url": "https://www.dwds.de/wb/Reihe",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Reihe" }],
+    "articles": ["die"]
+  },
+  {
+    "sch": [{ "lemma": "rein", "hidx": "2" }],
+    "url": "https://www.dwds.de/wb/rein#2",
+    "pos": "Adverb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/Reinigung",
+    "sch": [{ "hidx": null, "lemma": "Reinigung" }],
+    "pos": "Substantiv",
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/reiten",
+    "pos": "Verb",
+    "sch": [{ "lemma": "reiten", "hidx": null }],
+    "genera": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "renovieren" }],
+    "url": "https://www.dwds.de/wb/renovieren",
+    "pos": "Verb"
+  },
+  {
+    "articles": ["der"],
+    "genera": ["mask."],
+    "url": "https://www.dwds.de/wb/Rentner",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Rentner" }]
+  },
+  {
+    "url": "https://www.dwds.de/wb/Rentnerin",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Rentnerin" }],
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "url": "https://www.dwds.de/wb/reservieren",
+    "pos": "Verb",
+    "sch": [{ "hidx": null, "lemma": "reservieren" }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": ["der"],
+    "url": "https://www.dwds.de/wb/Rest",
+    "sch": [{ "lemma": "Rest", "hidx": null }],
+    "pos": "Substantiv",
+    "genera": ["mask."]
+  },
+  {
+    "articles": ["das"],
+    "url": "https://www.dwds.de/wb/Rezept",
+    "sch": [{ "lemma": "Rezept", "hidx": null }],
+    "pos": "Substantiv",
+    "genera": ["neutr."]
+  },
+  {
+    "articles": ["das"],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Rind",
+    "sch": [{ "lemma": "Rind", "hidx": null }],
+    "genera": ["neutr."]
+  },
+  {
+    "genera": ["mask."],
+    "url": "https://www.dwds.de/wb/Ring",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Ring", "hidx": null }],
+    "articles": ["der"]
+  },
+  {
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Rock#1",
+    "sch": [{ "lemma": "Rock", "hidx": "1" }],
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "sch": [{ "lemma": "romantisch", "hidx": null }],
+    "url": "https://www.dwds.de/wb/romantisch",
+    "pos": "Adjektiv",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": ["die"],
+    "sch": [{ "hidx": null, "lemma": "Rose" }],
+    "url": "https://www.dwds.de/wb/Rose",
+    "pos": "Substantiv",
+    "genera": ["fem."]
+  },
+  {
+    "genera": ["mask."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Rucksack",
+    "sch": [{ "lemma": "Rucksack", "hidx": null }],
+    "articles": ["der"]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/rufen",
+    "sch": [{ "lemma": "rufen", "hidx": null }],
+    "pos": "Verb"
+  },
+  {
+    "articles": ["die"],
+    "sch": [{ "lemma": "Ruhe", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Ruhe",
+    "pos": "Substantiv",
+    "genera": ["fem."]
+  },
+  {
+    "articles": [],
+    "sch": [{ "lemma": "rund", "hidx": null }],
+    "url": "https://www.dwds.de/wb/rund",
+    "pos": "Adjektiv",
+    "genera": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/Rundgang",
+    "sch": [{ "hidx": null, "lemma": "Rundgang" }],
+    "pos": "Substantiv",
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "articles": ["das"],
+    "url": "https://www.dwds.de/wb/R%C3%A4tsel",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Rätsel" }],
+    "genera": ["neutr."]
+  },
+  {
+    "articles": ["der"],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/R%C3%BCcken#1",
+    "sch": [{ "lemma": "Rücken", "hidx": "1" }],
+    "genera": ["mask."]
+  },
+  {
+    "articles": ["die"],
+    "url": "https://www.dwds.de/wb/Sache",
+    "sch": [{ "lemma": "Sache", "hidx": null }],
+    "pos": "Substantiv",
+    "genera": ["fem."]
+  },
+  {
+    "url": "https://www.dwds.de/wb/sammeln",
+    "pos": "Verb",
+    "sch": [{ "hidx": null, "lemma": "sammeln" }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/sauber",
+    "pos": "Adjektiv",
+    "sch": [{ "hidx": null, "lemma": "sauber" }],
+    "articles": []
+  },
+  {
+    "sch": [{ "hidx": null, "lemma": "sauer" }],
+    "url": "https://www.dwds.de/wb/sauer",
+    "pos": "Adjektiv",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/schade",
+    "sch": [{ "lemma": "schade", "hidx": null }],
+    "pos": "Adjektiv",
+    "genera": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/schaffen",
+    "pos": "Verb",
+    "sch": [{ "hidx": null, "lemma": "schaffen" }]
+  },
+  {
+    "genera": [],
+    "pos": "Adjektiv",
+    "url": "https://www.dwds.de/wb/scharf",
+    "sch": [{ "hidx": null, "lemma": "scharf" }],
+    "articles": []
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/schenken",
+    "pos": "Verb",
+    "sch": [{ "lemma": "schenken", "hidx": null }],
+    "articles": []
+  },
+  {
+    "genera": ["fem."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Schere",
+    "sch": [{ "hidx": null, "lemma": "Schere" }],
+    "articles": ["die"]
+  },
+  {
+    "articles": ["das"],
+    "url": "https://www.dwds.de/wb/Schiff",
+    "sch": [{ "lemma": "Schiff", "hidx": null }],
+    "pos": "Substantiv",
+    "genera": ["neutr."]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/schimpfen",
+    "pos": "Verb",
+    "sch": [{ "hidx": null, "lemma": "schimpfen" }]
+  },
+  {
+    "genera": ["mask."],
+    "url": "https://www.dwds.de/wb/Schirm",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Schirm" }],
+    "articles": ["der"]
+  },
+  {
+    "genera": ["neutr."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Schlafzimmer",
+    "sch": [{ "lemma": "Schlafzimmer", "hidx": null }],
+    "articles": ["das"]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/schlimm",
+    "pos": "Adjektiv",
+    "sch": [{ "lemma": "schlimm", "hidx": null }]
+  },
+  {
+    "articles": ["das"],
+    "genera": ["neutr."],
+    "sch": [{ "lemma": "Schloss", "hidx": "1" }],
+    "url": "https://www.dwds.de/wb/Schloss#1",
+    "pos": "Substantiv"
+  },
+  {
+    "articles": ["das"],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Schloss#2",
+    "sch": [{ "lemma": "Schloss", "hidx": "2" }],
+    "genera": ["neutr."]
+  },
+  {
+    "articles": ["der"],
+    "genera": ["mask."],
+    "url": "https://www.dwds.de/wb/Schmerz",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Schmerz" }]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "lemma": "schmutzig", "hidx": null }],
+    "url": "https://www.dwds.de/wb/schmutzig",
+    "pos": "Adjektiv"
+  },
+  {
+    "articles": ["der"],
+    "genera": ["mask."],
+    "url": "https://www.dwds.de/wb/Schnee",
+    "sch": [{ "lemma": "Schnee", "hidx": null }],
+    "pos": "Substantiv"
+  },
+  {
+    "sch": [{ "hidx": null, "lemma": "schneiden" }],
+    "url": "https://www.dwds.de/wb/schneiden",
+    "pos": "Verb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/schneien",
+    "sch": [{ "hidx": null, "lemma": "schneien" }],
+    "genera": []
+  },
+  {
+    "genera": ["fem."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Schokolade",
+    "sch": [{ "lemma": "Schokolade", "hidx": null }],
+    "articles": ["die"]
+  },
+  {
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "schrecklich" }],
+    "url": "https://www.dwds.de/wb/schrecklich",
+    "pos": "Adjektiv",
+    "articles": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/schriftlich",
+    "sch": [{ "hidx": null, "lemma": "schriftlich" }],
+    "pos": "Adjektiv"
+  },
+  {
+    "pos": "Adjektiv",
+    "url": "https://www.dwds.de/wb/schwach",
+    "sch": [{ "hidx": null, "lemma": "schwach" }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/schwanger",
+    "pos": "Adjektiv",
+    "sch": [{ "hidx": null, "lemma": "schwanger" }],
+    "articles": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/Schwein",
+    "sch": [{ "lemma": "Schwein", "hidx": null }],
+    "pos": "Substantiv",
+    "genera": ["neutr."],
+    "articles": ["das"]
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/schwierig",
+    "pos": "Adjektiv",
+    "sch": [{ "lemma": "schwierig", "hidx": null }],
+    "articles": []
+  },
+  {
+    "pos": "Adjektiv",
+    "url": "https://www.dwds.de/wb/sch%C3%A4dlich",
+    "sch": [{ "lemma": "schädlich", "hidx": null }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": ["die"],
+    "genera": ["fem."],
+    "url": "https://www.dwds.de/wb/Sch%C3%BClerin",
+    "sch": [{ "lemma": "Schülerin", "hidx": null }],
+    "pos": "Substantiv"
+  },
+  {
+    "articles": ["die"],
+    "url": "https://www.dwds.de/wb/Seife#1",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": "1", "lemma": "Seife" }],
+    "genera": ["fem."]
+  },
+  {
+    "sch": [{ "lemma": "Seite", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Seite",
+    "pos": "Substantiv",
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/selbst#1",
+    "sch": [{ "lemma": "selbst", "hidx": "1" }],
+    "pos": "Pronomen",
+    "articles": []
+  },
+  {
+    "articles": ["die"],
+    "genera": ["fem."],
+    "url": "https://www.dwds.de/wb/Sendung",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Sendung" }]
+  },
+  {
+    "articles": ["der"],
+    "sch": [{ "lemma": "Service", "hidx": "2" }],
+    "url": "https://www.dwds.de/wb/Service#2",
+    "pos": "Substantiv",
+    "genera": ["mask.", "neutr."]
+  },
+  {
+    "articles": [],
+    "sch": [{ "hidx": null, "lemma": "setzen" }],
+    "url": "https://www.dwds.de/wb/setzen",
+    "pos": "Verb",
+    "genera": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/singen",
+    "pos": "Verb",
+    "sch": [{ "lemma": "singen", "hidx": null }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": ["die"],
+    "sch": [{ "hidx": null, "lemma": "Situation" }],
+    "url": "https://www.dwds.de/wb/Situation",
+    "pos": "Substantiv",
+    "genera": ["fem."]
+  },
+  {
+    "articles": [],
+    "pos": "Adverb",
+    "url": "https://www.dwds.de/wb/sogar",
+    "sch": [{ "hidx": null, "lemma": "sogar" }],
+    "genera": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/sonnig",
+    "sch": [{ "hidx": null, "lemma": "sonnig" }],
+    "pos": "Adjektiv",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/sonst",
+    "pos": "Adverb",
+    "sch": [{ "lemma": "sonst", "hidx": null }],
+    "genera": []
+  },
+  {
+    "pos": "partizipiales Adjektiv",
+    "url": "https://www.dwds.de/wb/spannend",
+    "sch": [{ "hidx": null, "lemma": "spannend" }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/sparen",
+    "pos": "Verb",
+    "sch": [{ "hidx": null, "lemma": "sparen" }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": ["der"],
+    "url": "https://www.dwds.de/wb/Spass",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Spass" }],
+    "genera": ["mask."]
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/spazieren",
+    "sch": [{ "lemma": "spazieren", "hidx": null }],
+    "pos": "Verb",
+    "articles": []
+  },
+  {
+    "genera": ["mask."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Spaziergang",
+    "sch": [{ "lemma": "Spaziergang", "hidx": null }],
+    "articles": ["der"]
+  },
+  {
+    "genera": ["mask."],
+    "url": "https://www.dwds.de/wb/Spa%C3%9F",
+    "sch": [{ "lemma": "Spaß", "hidx": null }],
+    "pos": "Substantiv",
+    "articles": ["der"]
+  },
+  {
+    "articles": ["das"],
+    "genera": ["neutr."],
+    "sch": [{ "lemma": "Spiel", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Spiel",
+    "pos": "Substantiv"
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "lemma": "sportlich", "hidx": null }],
+    "url": "https://www.dwds.de/wb/sportlich",
+    "pos": "Adjektiv"
+  },
+  {
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Sportplatz",
+    "sch": [{ "hidx": null, "lemma": "Sportplatz" }],
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "articles": ["die"],
+    "genera": ["fem."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Sprechstunde",
+    "sch": [{ "lemma": "Sprechstunde", "hidx": null }]
+  },
+  {
+    "articles": ["der"],
+    "genera": ["mask."],
+    "url": "https://www.dwds.de/wb/Stadtplan",
+    "sch": [{ "hidx": null, "lemma": "Stadtplan" }],
+    "pos": "Substantiv"
+  },
+  {
+    "articles": ["der"],
+    "genera": ["mask."],
+    "url": "https://www.dwds.de/wb/Star#3",
+    "sch": [{ "lemma": "Star", "hidx": "3" }],
+    "pos": "Substantiv"
+  },
+  {
+    "sch": [{ "lemma": "stark", "hidx": null }],
+    "url": "https://www.dwds.de/wb/stark",
+    "pos": "Adjektiv",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/stattfinden",
+    "sch": [{ "lemma": "stattfinden", "hidx": null }],
+    "pos": "Verb",
+    "articles": []
+  },
+  {
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "sterben" }],
+    "url": "https://www.dwds.de/wb/sterben",
+    "pos": "Verb",
+    "articles": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/Stiefel",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Stiefel" }],
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "genera": ["mask."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Stift#1",
+    "sch": [{ "lemma": "Stift", "hidx": "1" }],
+    "articles": ["der"]
+  },
+  {
+    "sch": [{ "lemma": "Stipendium", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Stipendium",
+    "pos": "Substantiv",
+    "genera": ["neutr."],
+    "articles": ["das"]
+  },
+  {
+    "genera": ["neutr."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Stockwerk",
+    "sch": [{ "lemma": "Stockwerk", "hidx": null }],
+    "articles": ["das"]
+  },
+  {
+    "genera": ["mask."],
+    "sch": [{ "hidx": null, "lemma": "Strand" }],
+    "url": "https://www.dwds.de/wb/Strand",
+    "pos": "Substantiv",
+    "articles": ["der"]
+  },
+  {
+    "articles": [],
+    "sch": [{ "hidx": null, "lemma": "streiten" }],
+    "url": "https://www.dwds.de/wb/streiten",
+    "pos": "Verb",
+    "genera": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/streng",
+    "pos": "Adjektiv",
+    "sch": [{ "hidx": null, "lemma": "streng" }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/Stress",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Stress", "hidx": null }],
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "genera": [],
+    "pos": "Adjektiv",
+    "url": "https://www.dwds.de/wb/stressig",
+    "sch": [{ "lemma": "stressig", "hidx": null }],
+    "articles": []
+  },
+  {
+    "articles": ["die"],
+    "url": "https://www.dwds.de/wb/Studentin",
+    "sch": [{ "lemma": "Studentin", "hidx": null }],
+    "pos": "Substantiv",
+    "genera": ["fem."]
+  },
+  {
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Stuhl",
+    "sch": [{ "lemma": "Stuhl", "hidx": null }],
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/st%C3%B6ren",
+    "pos": "Verb",
+    "sch": [{ "hidx": null, "lemma": "stören" }]
+  },
+  {
+    "articles": ["das"],
+    "sch": [{ "hidx": null, "lemma": "Stück" }],
+    "url": "https://www.dwds.de/wb/St%C3%BCck",
+    "pos": "Substantiv",
+    "genera": ["neutr."]
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/super",
+    "pos": "Adjektiv",
+    "sch": [{ "lemma": "super", "hidx": null }],
+    "genera": []
+  },
+  {
+    "articles": ["der"],
+    "genera": ["mask."],
+    "sch": [{ "hidx": null, "lemma": "Supermarkt" }],
+    "url": "https://www.dwds.de/wb/Supermarkt",
+    "pos": "Substantiv"
+  },
+  {
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Suppe",
+    "sch": [{ "hidx": null, "lemma": "Suppe" }],
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "articles": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/surfen",
+    "sch": [{ "hidx": null, "lemma": "surfen" }],
+    "genera": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/sympathisch",
+    "sch": [{ "lemma": "sympathisch", "hidx": null }],
+    "pos": "Adjektiv",
+    "genera": []
+  },
+  {
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "süß" }],
+    "url": "https://www.dwds.de/wb/s%C3%BC%C3%9F",
+    "pos": "Adjektiv",
+    "articles": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/S%C3%BC%C3%9Figkeit",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Süßigkeit" }],
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "articles": ["das"],
+    "genera": ["neutr."],
+    "url": "https://www.dwds.de/wb/T-Shirt",
+    "sch": [{ "hidx": null, "lemma": "T-Shirt" }],
+    "pos": "Substantiv"
+  },
+  {
+    "articles": ["das", "der"],
+    "genera": ["neutr.", "mask."],
+    "url": "https://www.dwds.de/wb/Tablet",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Tablet", "hidx": null }]
+  },
+  {
+    "articles": ["die"],
+    "sch": [{ "hidx": null, "lemma": "Tablette" }],
+    "url": "https://www.dwds.de/wb/Tablette",
+    "pos": "Substantiv",
+    "genera": ["fem."]
+  },
+  {
+    "articles": ["die"],
+    "genera": ["fem."],
+    "url": "https://www.dwds.de/wb/Tafel",
+    "sch": [{ "lemma": "Tafel", "hidx": null }],
+    "pos": "Substantiv"
+  },
+  {
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Taschengeld",
+    "sch": [{ "hidx": null, "lemma": "Taschengeld" }],
+    "genera": ["neutr."],
+    "articles": ["das"]
+  },
+  {
+    "url": "https://www.dwds.de/wb/Tasse",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Tasse" }],
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/tauschen",
+    "sch": [{ "hidx": null, "lemma": "tauschen" }],
+    "pos": "Verb"
+  },
+  {
+    "articles": ["das"],
+    "genera": ["neutr."],
+    "sch": [{ "hidx": null, "lemma": "Team" }],
+    "url": "https://www.dwds.de/wb/Team",
+    "pos": "Substantiv"
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/teilen",
+    "sch": [{ "lemma": "teilen", "hidx": null }],
+    "pos": "Verb",
+    "articles": []
+  },
+  {
+    "articles": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/teilnehmen",
+    "sch": [{ "hidx": null, "lemma": "teilnehmen" }],
+    "genera": []
+  },
+  {
+    "articles": ["der"],
+    "url": "https://www.dwds.de/wb/Teller",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Teller" }],
+    "genera": ["mask."]
+  },
+  {
+    "genera": ["neutr."],
+    "sch": [{ "lemma": "Tennis", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Tennis",
+    "pos": "Substantiv",
+    "articles": ["das"]
+  },
+  {
+    "url": "https://www.dwds.de/wb/Theater",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Theater", "hidx": null }],
+    "genera": ["neutr."],
+    "articles": ["das"]
+  },
+  {
+    "genera": [],
+    "sch": [{ "lemma": "tief", "hidx": null }],
+    "url": "https://www.dwds.de/wb/tief",
+    "pos": "Adjektiv",
+    "articles": []
+  },
+  {
+    "sch": [{ "hidx": null, "lemma": "Tier" }],
+    "url": "https://www.dwds.de/wb/Tier",
+    "pos": "Substantiv",
+    "genera": ["neutr."],
+    "articles": ["das"]
+  },
+  {
+    "genera": ["mask."],
+    "sch": [{ "hidx": "1", "lemma": "Tipp" }],
+    "url": "https://www.dwds.de/wb/Tipp#1",
+    "pos": "Substantiv",
+    "articles": ["der"]
+  },
+  {
+    "url": "https://www.dwds.de/wb/Titel",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Titel", "hidx": null }],
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "genera": [],
+    "pos": "Adjektiv",
+    "url": "https://www.dwds.de/wb/toll",
+    "sch": [{ "lemma": "toll", "hidx": null }],
+    "articles": []
+  },
+  {
+    "articles": ["der"],
+    "sch": [{ "hidx": null, "lemma": "Topf" }],
+    "url": "https://www.dwds.de/wb/Topf",
+    "pos": "Substantiv",
+    "genera": ["mask."]
+  },
+  {
+    "genera": ["fem."],
+    "sch": [{ "lemma": "Torte", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Torte",
+    "pos": "Substantiv",
+    "articles": ["die"]
+  },
+  {
+    "articles": [],
+    "sch": [{ "lemma": "total", "hidx": null }],
+    "url": "https://www.dwds.de/wb/total",
+    "pos": "Adjektiv",
+    "genera": []
+  },
+  {
+    "articles": ["die"],
+    "url": "https://www.dwds.de/wb/Tour",
+    "sch": [{ "lemma": "Tour", "hidx": null }],
+    "pos": "Substantiv",
+    "genera": ["fem."]
+  },
+  {
+    "articles": ["der"],
+    "url": "https://www.dwds.de/wb/Tourist",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Tourist", "hidx": null }],
+    "genera": ["mask."]
+  },
+  {
+    "articles": ["die"],
+    "genera": ["fem."],
+    "sch": [{ "lemma": "Touristin", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Touristin",
+    "pos": "Substantiv"
+  },
+  {
+    "url": "https://www.dwds.de/wb/tragen",
+    "pos": "Verb",
+    "sch": [{ "hidx": null, "lemma": "tragen" }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/trainieren",
+    "pos": "Verb",
+    "sch": [{ "hidx": null, "lemma": "trainieren" }],
+    "genera": []
+  },
+  {
+    "articles": ["das"],
+    "genera": ["neutr."],
+    "url": "https://www.dwds.de/wb/Training",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Training" }]
+  },
+  {
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Traum",
+    "sch": [{ "hidx": null, "lemma": "Traum" }],
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "sch": [{ "hidx": null, "lemma": "traurig" }],
+    "url": "https://www.dwds.de/wb/traurig",
+    "pos": "Adjektiv",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "sch": [{ "hidx": null, "lemma": "trocken" }],
+    "url": "https://www.dwds.de/wb/trocken",
+    "pos": "Adjektiv",
+    "genera": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/tr%C3%A4umen",
+    "sch": [{ "lemma": "träumen", "hidx": null }],
+    "pos": "Verb"
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/Tsch%C3%BCss",
+    "pos": "Interjektion",
+    "sch": [{ "hidx": null, "lemma": "Tschüss" }],
+    "genera": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/tsch%C3%BCss",
+    "pos": "Interjektion",
+    "sch": [{ "lemma": "tschüss", "hidx": null }]
+  },
+  {
+    "sch": [{ "hidx": null, "lemma": "typisch" }],
+    "url": "https://www.dwds.de/wb/typisch",
+    "pos": "Adjektiv",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "genera": ["fem."],
+    "url": "https://www.dwds.de/wb/T%C3%BCr",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Tür", "hidx": null }],
+    "articles": ["die"]
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/umsteigen",
+    "sch": [{ "hidx": null, "lemma": "umsteigen" }],
+    "pos": "Verb",
+    "articles": []
+  },
+  {
+    "articles": ["der"],
+    "genera": ["mask."],
+    "url": "https://www.dwds.de/wb/Umzug",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Umzug" }]
+  },
+  {
+    "genera": [],
+    "pos": "Adjektiv",
+    "url": "https://www.dwds.de/wb/unbedingt",
+    "sch": [{ "hidx": null, "lemma": "unbedingt" }],
+    "articles": []
+  },
+  {
+    "articles": ["der"],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Unfall",
+    "sch": [{ "lemma": "Unfall", "hidx": null }],
+    "genera": ["mask."]
+  },
+  {
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Universit%C3%A4t",
+    "sch": [{ "lemma": "Universität", "hidx": null }],
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "articles": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/unterhalten#1",
+    "sch": [{ "hidx": "1", "lemma": "unterhalten" }],
+    "genera": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "hidx": "2", "lemma": "unterhalten" }],
+    "url": "https://www.dwds.de/wb/unterhalten#2",
+    "pos": "Verb"
+  },
+  {
+    "genera": ["fem."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Unterkunft",
+    "sch": [{ "lemma": "Unterkunft", "hidx": null }],
+    "articles": ["die"]
+  },
+  {
+    "genera": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/unternehmen",
+    "sch": [{ "lemma": "unternehmen", "hidx": null }],
+    "articles": []
+  },
+  {
+    "articles": ["der"],
+    "url": "https://www.dwds.de/wb/Unterschied",
+    "sch": [{ "lemma": "Unterschied", "hidx": null }],
+    "pos": "Substantiv",
+    "genera": ["mask."]
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/untersuchen",
+    "pos": "Verb",
+    "sch": [{ "hidx": null, "lemma": "untersuchen" }],
+    "genera": []
+  },
+  {
+    "sch": [{ "lemma": "unterwegs", "hidx": null }],
+    "url": "https://www.dwds.de/wb/unterwegs",
+    "pos": "Adverb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/verabreden",
+    "sch": [{ "hidx": null, "lemma": "verabreden" }]
+  },
+  {
+    "genera": ["fem."],
+    "sch": [{ "hidx": null, "lemma": "Veranstaltung" }],
+    "url": "https://www.dwds.de/wb/Veranstaltung",
+    "pos": "Substantiv",
+    "articles": ["die"]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "lemma": "verbieten", "hidx": null }],
+    "url": "https://www.dwds.de/wb/verbieten",
+    "pos": "Verb"
+  },
+  {
+    "articles": [],
+    "sch": [{ "lemma": "vereinbaren", "hidx": null }],
+    "url": "https://www.dwds.de/wb/vereinbaren",
+    "pos": "Verb",
+    "genera": []
+  },
+  {
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/vergessen",
+    "sch": [{ "lemma": "vergessen", "hidx": null }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "sch": [{ "lemma": "vergleichen", "hidx": null }],
+    "url": "https://www.dwds.de/wb/vergleichen",
+    "pos": "Verb",
+    "genera": []
+  },
+  {
+    "genera": ["mask."],
+    "url": "https://www.dwds.de/wb/Verkehr",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Verkehr", "hidx": null }],
+    "articles": ["der"]
+  },
+  {
+    "articles": ["das"],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Verkehrsmittel",
+    "sch": [{ "hidx": null, "lemma": "Verkehrsmittel" }],
+    "genera": ["neutr."]
+  },
+  {
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "verletzen" }],
+    "url": "https://www.dwds.de/wb/verletzen",
+    "pos": "Verb",
+    "articles": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/verlieben",
+    "sch": [{ "hidx": null, "lemma": "verlieben" }],
+    "pos": "Verb",
+    "genera": []
+  },
+  {
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/verlieren",
+    "sch": [{ "lemma": "verlieren", "hidx": null }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": ["die"],
+    "genera": ["fem."],
+    "sch": [{ "hidx": null, "lemma": "Vermieterin" }],
+    "url": "https://www.dwds.de/wb/Vermieterin",
+    "pos": "Substantiv"
+  },
+  {
+    "genera": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/verpassen",
+    "sch": [{ "lemma": "verpassen", "hidx": null }],
+    "articles": []
+  },
+  {
+    "genera": [],
+    "sch": [{ "lemma": "verreisen", "hidx": null }],
+    "url": "https://www.dwds.de/wb/verreisen",
+    "pos": "Verb",
+    "articles": []
+  },
+  {
+    "sch": [{ "hidx": null, "lemma": "verschieben" }],
+    "url": "https://www.dwds.de/wb/verschieben",
+    "pos": "Verb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "genera": [],
+    "pos": "Adjektiv",
+    "url": "https://www.dwds.de/wb/verschieden",
+    "sch": [{ "hidx": null, "lemma": "verschieden" }],
+    "articles": []
+  },
+  {
+    "genera": ["fem."],
+    "url": "https://www.dwds.de/wb/Versp%C3%A4tung",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Verspätung", "hidx": null }],
+    "articles": ["die"]
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/versuchen",
+    "pos": "Verb",
+    "sch": [{ "hidx": null, "lemma": "versuchen" }],
+    "genera": []
+  },
+  {
+    "articles": ["der"],
+    "url": "https://www.dwds.de/wb/Vertrag",
+    "sch": [{ "lemma": "Vertrag", "hidx": null }],
+    "pos": "Substantiv",
+    "genera": ["mask."]
+  },
+  {
+    "articles": ["der"],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Vogel",
+    "sch": [{ "lemma": "Vogel", "hidx": null }],
+    "genera": ["mask."]
+  },
+  {
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "voll" }],
+    "url": "https://www.dwds.de/wb/voll",
+    "pos": "Adjektiv",
+    "articles": []
+  },
+  {
+    "articles": ["der", "das"],
+    "url": "https://www.dwds.de/wb/Volleyball",
+    "sch": [{ "hidx": null, "lemma": "Volleyball" }],
+    "pos": "Substantiv",
+    "genera": ["mask.", "neutr."]
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/vorbei",
+    "sch": [{ "hidx": null, "lemma": "vorbei" }],
+    "pos": "Adverb",
+    "genera": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "vorbereiten" }],
+    "url": "https://www.dwds.de/wb/vorbereiten",
+    "pos": "Verb"
+  },
+  {
+    "url": "https://www.dwds.de/wb/vorgestern",
+    "sch": [{ "hidx": null, "lemma": "vorgestern" }],
+    "pos": "Adverb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/vorher",
+    "sch": [{ "hidx": null, "lemma": "vorher" }],
+    "pos": "Adverb",
+    "genera": []
+  },
+  {
+    "pos": "Adverb",
+    "url": "https://www.dwds.de/wb/vorn",
+    "sch": [{ "lemma": "vorn", "hidx": null }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/vorne",
+    "pos": "Adverb",
+    "sch": [{ "hidx": null, "lemma": "vorne" }]
+  },
+  {
+    "sch": [{ "hidx": null, "lemma": "Vorschlag" }],
+    "url": "https://www.dwds.de/wb/Vorschlag",
+    "pos": "Substantiv",
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "genera": [],
+    "pos": "Adverb",
+    "url": "https://www.dwds.de/wb/vorw%C3%A4rts",
+    "sch": [{ "lemma": "vorwärts", "hidx": null }],
+    "articles": []
+  },
+  {
+    "genera": [],
+    "pos": "Adjektiv",
+    "url": "https://www.dwds.de/wb/wach",
+    "sch": [{ "lemma": "wach", "hidx": null }],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/wahr",
+    "sch": [{ "lemma": "wahr", "hidx": null }],
+    "pos": "Adjektiv",
+    "genera": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/wahrscheinlich",
+    "pos": "Adjektiv",
+    "sch": [{ "lemma": "wahrscheinlich", "hidx": null }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": ["der"],
+    "url": "https://www.dwds.de/wb/Wald",
+    "sch": [{ "hidx": null, "lemma": "Wald" }],
+    "pos": "Substantiv",
+    "genera": ["mask."]
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/warm",
+    "sch": [{ "hidx": null, "lemma": "warm" }],
+    "pos": "Adjektiv",
+    "articles": []
+  },
+  {
+    "articles": ["die"],
+    "genera": ["fem."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Webseite",
+    "sch": [
+      { "hidx": null, "lemma": "Webseite" },
+      { "hidx": null, "lemma": "Web-Seite" }
+    ]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/wechseln",
+    "pos": "Verb",
+    "sch": [{ "lemma": "wechseln", "hidx": null }]
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/wecken",
+    "sch": [{ "lemma": "wecken", "hidx": null }],
+    "pos": "Verb",
+    "genera": []
+  },
+  {
+    "articles": ["der"],
+    "url": "https://www.dwds.de/wb/Weg",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Weg" }],
+    "genera": ["mask."]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/weg",
+    "sch": [{ "lemma": "weg", "hidx": null }],
+    "pos": "Adverb"
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "wegen" }],
+    "url": "https://www.dwds.de/wb/wegen",
+    "pos": "Präposition"
+  },
+  {
+    "genera": [],
+    "pos": "Adjektiv",
+    "url": "https://www.dwds.de/wb/weich",
+    "sch": [{ "lemma": "weich", "hidx": null }],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "weil" }],
+    "url": "https://www.dwds.de/wb/weil",
+    "pos": "Konjunktion"
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/weinen",
+    "sch": [{ "lemma": "weinen", "hidx": null }],
+    "pos": "Verb",
+    "articles": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "pos": "Adverb",
+    "url": "https://www.dwds.de/wb/wenigstens",
+    "sch": [{ "hidx": null, "lemma": "wenigstens" }]
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/wenn",
+    "sch": [{ "hidx": null, "lemma": "wenn" }],
+    "pos": "Konjunktion",
+    "genera": []
+  },
+  {
+    "articles": ["die"],
+    "genera": ["fem."],
+    "sch": [{ "lemma": "Werkstatt", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Werkstatt",
+    "pos": "Substantiv"
+  },
+  {
+    "articles": ["der"],
+    "sch": [{ "lemma": "Wettbewerb", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Wettbewerb",
+    "pos": "Substantiv",
+    "genera": ["mask."]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/windig",
+    "pos": "Adjektiv",
+    "sch": [{ "hidx": null, "lemma": "windig" }]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/wirklich",
+    "pos": "Adjektiv",
+    "sch": [{ "hidx": null, "lemma": "wirklich" }]
+  },
+  {
+    "articles": ["der"],
+    "url": "https://www.dwds.de/wb/Witz",
+    "sch": [{ "lemma": "Witz", "hidx": null }],
+    "pos": "Substantiv",
+    "genera": ["mask."]
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/witzig",
+    "pos": "Adjektiv",
+    "sch": [{ "hidx": null, "lemma": "witzig" }],
+    "articles": []
+  },
+  {
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Wohnzimmer",
+    "sch": [{ "hidx": null, "lemma": "Wohnzimmer" }],
+    "genera": ["neutr."],
+    "articles": ["das"]
+  },
+  {
+    "url": "https://www.dwds.de/wb/Wolke",
+    "sch": [{ "hidx": null, "lemma": "Wolke" }],
+    "pos": "Substantiv",
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "genera": ["mask."],
+    "url": "https://www.dwds.de/wb/Workshop",
+    "sch": [{ "lemma": "Workshop", "hidx": null }],
+    "pos": "Substantiv",
+    "articles": ["der"]
+  },
+  {
+    "genera": ["mask."],
+    "url": "https://www.dwds.de/wb/Wunsch",
+    "sch": [{ "hidx": null, "lemma": "Wunsch" }],
+    "pos": "Substantiv",
+    "articles": ["der"]
+  },
+  {
+    "pos": "Adjektiv",
+    "url": "https://www.dwds.de/wb/wurscht",
+    "sch": [{ "lemma": "wurscht", "hidx": null }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "genera": ["fem."],
+    "sch": [{ "hidx": null, "lemma": "Wurst" }],
+    "url": "https://www.dwds.de/wb/Wurst",
+    "pos": "Substantiv",
+    "articles": ["die"]
+  },
+  {
+    "sch": [{ "hidx": null, "lemma": "wurst" }],
+    "url": "https://www.dwds.de/wb/wurst",
+    "pos": "Adjektiv",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/w%C3%A4hlen",
+    "sch": [{ "lemma": "wählen", "hidx": null }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/W%C3%A4sche",
+    "sch": [{ "hidx": null, "lemma": "Wäsche" }],
+    "pos": "Substantiv",
+    "genera": ["fem."],
+    "articles": ["die"]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/w%C3%BCnschen",
+    "pos": "Verb",
+    "sch": [{ "lemma": "wünschen", "hidx": null }]
+  },
+  {
+    "genera": ["fem."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Zahl",
+    "sch": [{ "lemma": "Zahl", "hidx": null }],
+    "articles": ["die"]
+  },
+  {
+    "url": "https://www.dwds.de/wb/Zahn",
+    "sch": [{ "hidx": null, "lemma": "Zahn" }],
+    "pos": "Substantiv",
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/zeichnen",
+    "sch": [{ "hidx": null, "lemma": "zeichnen" }],
+    "pos": "Verb",
+    "genera": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/zeigen",
+    "pos": "Verb",
+    "sch": [{ "hidx": null, "lemma": "zeigen" }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "genera": ["fem."],
+    "url": "https://www.dwds.de/wb/Zeitschrift",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Zeitschrift" }],
+    "articles": ["die"]
+  },
+  {
+    "articles": ["das"],
+    "genera": ["neutr."],
+    "url": "https://www.dwds.de/wb/Zelt",
+    "sch": [{ "hidx": null, "lemma": "Zelt" }],
+    "pos": "Substantiv"
+  },
+  {
+    "articles": ["das"],
+    "url": "https://www.dwds.de/wb/Zentrum",
+    "pos": "Substantiv",
+    "sch": [{ "lemma": "Zentrum", "hidx": null }],
+    "genera": ["neutr."]
+  },
+  {
+    "articles": ["der"],
+    "genera": ["mask."],
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Zettel#1",
+    "sch": [{ "lemma": "Zettel", "hidx": "1" }]
+  },
+  {
+    "genera": ["neutr."],
+    "url": "https://www.dwds.de/wb/Zeugnis",
+    "sch": [{ "lemma": "Zeugnis", "hidx": null }],
+    "pos": "Substantiv",
+    "articles": ["das"]
+  },
+  {
+    "sch": [{ "lemma": "ziehen", "hidx": null }],
+    "url": "https://www.dwds.de/wb/ziehen",
+    "pos": "Verb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/Ziel",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Ziel" }],
+    "genera": ["neutr."],
+    "articles": ["das"]
+  },
+  {
+    "articles": ["der"],
+    "url": "https://www.dwds.de/wb/Zirkus",
+    "sch": [
+      { "hidx": null, "lemma": "Zirkus" },
+      { "lemma": "Circus", "hidx": null }
+    ],
+    "pos": "Substantiv",
+    "genera": ["mask."]
+  },
+  {
+    "genera": ["fem."],
+    "url": "https://www.dwds.de/wb/Zitrone",
+    "pos": "Substantiv",
+    "sch": [{ "hidx": null, "lemma": "Zitrone" }],
+    "articles": ["die"]
+  },
+  {
+    "pos": "Substantiv",
+    "url": "https://www.dwds.de/wb/Zoo",
+    "sch": [{ "lemma": "Zoo", "hidx": null }],
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "sch": [{ "lemma": "Zucker", "hidx": null }],
+    "url": "https://www.dwds.de/wb/Zucker",
+    "pos": "Substantiv",
+    "genera": ["mask."],
+    "articles": ["der"]
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "pos": "Adverb",
+    "url": "https://www.dwds.de/wb/zuerst",
+    "sch": [{ "hidx": null, "lemma": "zuerst" }]
+  },
+  {
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "zuhören" }],
+    "url": "https://www.dwds.de/wb/zuh%C3%B6ren",
+    "pos": "Verb",
+    "articles": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "zuletzt" }],
+    "url": "https://www.dwds.de/wb/zuletzt",
+    "pos": "Adverb"
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "url": "https://www.dwds.de/wb/zum%20Beispiel",
+    "pos": "Mehrwortausdruck",
+    "sch": [{ "lemma": "zum Beispiel", "hidx": null }]
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/zumachen",
+    "pos": "Verb",
+    "sch": [{ "lemma": "zumachen", "hidx": null }],
+    "genera": []
+  },
+  {
+    "articles": [],
+    "sch": [{ "hidx": null, "lemma": "zurück-" }],
+    "url": "https://www.dwds.de/wb/zur%C3%BCck-",
+    "pos": "Affix",
+    "genera": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/zur%C3%BCckfahren",
+    "pos": "Verb",
+    "sch": [{ "hidx": null, "lemma": "zurückfahren" }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/zur%C3%BCckgeben",
+    "sch": [{ "hidx": null, "lemma": "zurückgeben" }],
+    "genera": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/zur%C3%BCckgehen",
+    "pos": "Verb",
+    "sch": [{ "lemma": "zurückgehen", "hidx": null }],
+    "genera": []
+  },
+  {
+    "articles": [],
+    "sch": [{ "hidx": null, "lemma": "zurückkommen" }],
+    "url": "https://www.dwds.de/wb/zur%C3%BCckkommen",
+    "pos": "Verb",
+    "genera": []
+  },
+  {
+    "sch": [{ "lemma": "zurücklaufen", "hidx": null }],
+    "url": "https://www.dwds.de/wb/zur%C3%BCcklaufen",
+    "pos": "Verb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "articles": [],
+    "url": "https://www.dwds.de/wb/%C3%A4ndern",
+    "sch": [{ "lemma": "ändern", "hidx": null }],
+    "pos": "Verb",
+    "genera": []
+  },
+  {
+    "articles": [],
+    "genera": [],
+    "pos": "Verb",
+    "url": "https://www.dwds.de/wb/%C3%A4rgern",
+    "sch": [{ "lemma": "ärgern", "hidx": null }]
+  },
+  {
+    "genera": [],
+    "url": "https://www.dwds.de/wb/%C3%BCben",
+    "sch": [{ "lemma": "üben", "hidx": null }],
+    "pos": "Verb",
+    "articles": []
+  },
+  {
+    "genera": [],
+    "sch": [{ "hidx": null, "lemma": "überall" }],
+    "url": "https://www.dwds.de/wb/%C3%BCberall",
+    "pos": "Adverb",
+    "articles": []
+  },
+  {
+    "sch": [{ "hidx": null, "lemma": "übermorgen" }],
+    "url": "https://www.dwds.de/wb/%C3%BCbermorgen",
+    "pos": "Adverb",
+    "genera": [],
+    "articles": []
+  },
+  {
+    "url": "https://www.dwds.de/wb/%C3%BCbersetzen",
+    "pos": "Verb",
+    "sch": [{ "lemma": "übersetzen", "hidx": null }],
+    "genera": [],
+    "articles": []
+  },
+  {
+    "genera": ["fem."],
+    "sch": [{ "lemma": "Übersetzung", "hidx": null }],
+    "url": "https://www.dwds.de/wb/%C3%9Cbersetzung",
+    "pos": "Substantiv",
+    "articles": ["die"]
+  }
+]
