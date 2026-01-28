@@ -85,35 +85,11 @@ POS_MAPPING = {
 def translate_to_english(german_text, max_retries=3):
     """
     Translate German text to English using Google Translate.
-
-    Args:
-        german_text (str): German text to translate
-        max_retries (int): Maximum number of retry attempts
-
-    Returns:
-        str: English translation or original text if translation fails
+    Currently disabled - returns original German text.
     """
     if not german_text:
         return ""
-
-    # Clean the text - remove articles and extra formatting
-    clean_text = german_text.replace(", die", "").replace(", der", "").replace(", das", "")
-    clean_text = clean_text.strip()
-
-    for attempt in range(max_retries):
-        try:
-            result = translator.translate(clean_text)
-            time.sleep(0.5)  # Rate limiting
-            return result
-        except Exception as e:
-            print(f"  ⚠️  Translation attempt {attempt + 1} failed for '{clean_text[:30]}...': {e}")
-            if attempt < max_retries - 1:
-                time.sleep(2)  # Wait longer before retry
-            else:
-                print(f"  ❌ Failed to translate '{clean_text[:30]}...' after {max_retries} attempts")
-                return clean_text  # Return original text if all attempts fail
-
-    return clean_text
+    return german_text.strip()
 
 
 def fetch_dwds_page(url: str, max_retries: int = 3) -> Optional[BeautifulSoup]:
@@ -273,14 +249,14 @@ def extract_word_data_scraping(word: str, pos_data: Optional[Dict] = None, debug
                     # Translate to English
                     etymology = translate_to_english(etymology_text)
 
-        # Extract example sentences (2-3 examples)
+        # Extract example sentences (5-6 examples)
         examples = []
         # Find all example containers - both kompetenzbeispiel and beleg
-        example_containers = soup.find_all('div', class_=['dwdswb-kompetenzbeispiel', 'dwdswb-beleg'], limit=10)
+        example_containers = soup.find_all('div', class_=['dwdswb-kompetenzbeispiel', 'dwdswb-beleg'], limit=15)
 
         example_count = 0
         for container in example_containers:
-            if example_count >= 3:
+            if example_count >= 6:
                 break
             # Extract the text from dwdswb-belegtext span
             beleg_text = container.find('span', class_='dwdswb-belegtext')
@@ -319,28 +295,8 @@ def extract_word_data_scraping(word: str, pos_data: Optional[Dict] = None, debug
                             compounds.append(compound_word)
                 break  # Found Wortbildung section, no need to continue
 
-        # Extract connected/related words from "Typische Verbindungen" (collocations)
+        # Skip collocations - use empty array (will be filled with extra examples in app)
         connected_words = []
-        connected_words_set = set()  # Track already added words
-
-        # Find "Typische Verbindungen" section (wp-1, wp-2, etc.)
-        wp_header = soup.find('h2', id=lambda x: x and x.startswith('wp-'))
-        if wp_header:
-            # The collocations are in a 'row' div after the header
-            for sibling in wp_header.find_next_siblings('div', limit=5):
-                if 'row' in sibling.get('class', []):
-                    # Found the row with collocation links
-                    colloc_links = sibling.find_all('a', href=lambda x: x and x.startswith('/wb/'), limit=15)
-                    for link in colloc_links:
-                        german_word = link.get_text(strip=True)
-                        if german_word and german_word != clean_word and german_word not in connected_words_set:
-                            english_word = translate_to_english(german_word)
-                            connected_words.append({
-                                "german": german_word,
-                                "english": english_word
-                            })
-                            connected_words_set.add(german_word)
-                    break
 
         # Extract semantically related words from "Bedeutungsverwandte Ausdrücke" (synonyms/thesaurus)
         synonyms = []
@@ -394,7 +350,7 @@ def extract_word_data_scraping(word: str, pos_data: Optional[Dict] = None, debug
 
 
 def load_german_base_data(level="A1", base_dir=None):
-    """Load URLs and part of speech data from German base files"""
+    """Load URLs and part of speech data from German JSON files"""
     if base_dir is None:
         base_dir = Path(__file__).parent / "app" / "german_base"
     else:
@@ -409,20 +365,14 @@ def load_german_base_data(level="A1", base_dir=None):
         # Create mapping from word/lemma to pos and other data
         word_to_data = {}
         for item in data:
-            # Extract word from URL or use lemma
-            word = None
-            if 'url' in item:
-                # Extract lemma from URL (e.g., https://www.dwds.de/wb/Haus -> Haus)
-                url_parts = item['url'].rstrip('/').split('/')
-                word = url_parts[-1] if url_parts else None
-            elif 'lemma' in item:
-                word = item['lemma']
+            # Use lemma field directly
+            word = item.get('lemma')
 
             if word:
                 word_to_data[word] = {
-                    'pos': item.get('pos', 'unknown'),
-                    'articles': item.get('articles', []),
-                    'genera': item.get('genera', [])
+                    'pos': item.get('wortklasse', 'unknown'),
+                    'url': item.get('url', ''),
+                    'level': item.get('level', level)
                 }
 
         return word_to_data
@@ -493,8 +443,6 @@ def process_german_words(level="A1", max_words=None, output_dir=None, resume_fro
                 print(f"     - Compounds: {len(result['compounds'])} found")
             if result.get('examples'):
                 print(f"     - Examples: {len(result['examples'])} found")
-            if result.get('connected_words'):
-                print(f"     - Collocations: {len(result['connected_words'])} found")
             if result.get('synonyms'):
                 print(f"     - Synonyms: {len(result['synonyms'])} found")
             if result.get('frequency'):
@@ -510,7 +458,7 @@ def process_german_words(level="A1", max_words=None, output_dir=None, resume_fro
             print(f"  ❌ Failed to process: {word}")
 
         # Rate limiting to avoid overwhelming the server
-        time.sleep(1)
+        time.sleep(0.2)
 
     # Final save
     with open(output_file, 'w', encoding='utf-8') as f:
