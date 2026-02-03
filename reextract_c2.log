@@ -1,0 +1,256 @@
+Re-extracting levels: ['C2']
+Log: reextract_log_20260129_224925.log
+Started: 2026-01-29 22:49:25.053270
+============================================================
+
+============================================================
+Processing C2
+============================================================
+C2: 73563 total base entries, 73510 valid words (start with letter)
+C2: Randomly selected 3000 from 73510 words
+C2: Top 5 starting letters: [('S', 371), ('K', 242), ('B', 211), ('A', 209), ('M', 163)]
+  Worker 0: 500 words
+  Worker 1: 500 words
+  Worker 2: 500 words
+  Worker 3: 500 words
+  Worker 4: 500 words
+  Worker 5: 500 words
+
+Starting 6 workers for C2...
+  [Worker 3] 20/500 done (20 successful)
+  [Worker 0] 20/500 done (20 successful)
+  [Worker 5] 20/500 done (20 successful)
+  [Worker 4] 20/500 done (20 successful)
+  [Worker 2] 20/500 done (20 successful)
+  [Worker 1] 20/500 done (20 successful)
+  [Worker 3] 40/500 done (40 successful)
+  [Worker 0] 40/500 done (40 successful)
+  [Worker 2] 40/500 done (40 successful)
+  [Worker 5] 40/500 done (40 successful)
+  [Worker 4] 40/500 done (40 successful)
+  [Worker 1] 40/500 done (40 successful)
+  [Worker 3] 60/500 done (60 successful)
+  ❌ Error processing word 'Salchow': 'NoneType' object has no attribute 'lower'
+  [Worker 4] Failed: Salchow
+  [Worker 0] 60/500 done (60 successful)
+  [Worker 2] 60/500 done (60 successful)
+  [Worker 5] 60/500 done (60 successful)
+  [Worker 4] 60/500 done (59 successful)
+  [Worker 1] 60/500 done (60 successful)
+  [Worker 3] 80/500 done (80 successful)
+  [Worker 5] 80/500 done (80 successful)
+  [Worker 0] 80/500 done (80 successful)
+  [Worker 2] 80/500 done (80 successful)
+  [Worker 4] 80/500 done (79 successful)
+  [Worker 1] 80/500 done (80 successful)
+  [Worker 5] 100/500 done (100 successful)
+  [Worker 0] 100/500 done (100 successful)
+  [Worker 3] 100/500 done (100 successful)
+  ❌ Error processing word 'Leng': 'NoneType' object has no attribute 'lower'
+  [Worker 5] Failed: Leng
+  [Worker 4] 100/500 done (99 successful)
+  [Worker 2] 100/500 done (100 successful)
+  ❌ Error processing word 'Longa': 'NoneType' object has no attribute 'lower'
+  [Worker 0] Failed: Longa
+  [Worker 1] 100/500 done (100 successful)
+  ❌ Error processing word 'Poch': 'NoneType' object has no attribute 'lower'
+  [Worker 0] Failed: Poch
+  [Worker 0] 120/500 done (118 successful)
+  [Worker 2] 120/500 done (120 successful)
+  [Worker 3] 120/500 done (120 successful)
+  [Worker 4] 120/500 done (119 successful)
+  [Worker 5] 120/500 done (119 successful)
+  ❌ Error processing word 'Raft': 'NoneType' object has no attribute 'lower'
+  [Worker 1] Failed: Raft
+  [Worker 1] 120/500 done (119 successful)
+  ❌ Error processing word 'Lollo': 'NoneType' object has no attribute 'lower'
+  [Worker 2] Failed: Lollo
+  [Worker 0] 140/500 done (138 successful)
+  [Worker 2] 140/500 done (139 successful)
+  [Worker 3] 140/500 done (140 successful)
+  [Worker 4] 140/500 done (139 successful)
+  ❌ Error processing word 'pricken': 'NoneType' object has no attribute 'lower'
+  [Worker 2] Failed: pricken
+  [Worker 1] 140/500 done (139 successful)
+  [Worker 5] 140/500 done (139 successful)
+  ❌ Error processing word 'Scampi': 'NoneType' object has no attribute 'lower'
+  [Worker 5] Failed: Scampi
+  [Worker 0] 160/500 done (158 successful)
+  ❌ Error processing word 'Chedi': 'NoneType' object has no attribute 'lower'
+  [Worker 5] Failed: Chedi
+  [Worker 4] 160/500 done (159 successful)
+  [Worker 3] 160/500 done (160 successful)
+  ❌ Error processing word 'Stewardship': 'NoneType' object has no attribute 'lower'
+  [Worker 1] Failed: Stewardship
+  [Worker 1] 160/500 done (158 successful)
+  [Worker 5] 160/500 done (157 successful)
+  [Worker 2] 160/500 done (158 successful)
+  [Worker 0] 180/500 done (178 successful)
+  ❌ Error processing word 'Allemande': 'NoneType' object has no attribute 'lower'
+  [Worker 1] Failed: Allemande
+  ❌ Error processing word 'Signoria': 'NoneType' object has no attribute 'lower'
+  [Worker 3] Failed: Signoria
+  [Worker 4] 180/500 done (179 successful)
+  [Worker 3] 180/500 done (179 successful)
+  ❌ Error processing word 'Foramen': 'NoneType' object has no attribute 'lower'
+  [Worker 4] Failed: Foramen
+  [Worker 5] 180/500 done (177 successful)
+  ❌ Error processing word 'Bambule': 'NoneType' object has no attribute 'lower'
+  [Worker 5] Failed: Bambule
+  [Worker 1] 180/500 done (177 successful)
+  [Worker 2] 180/500 done (178 successful)
+  [Worker 0] 200/500 done (198 successful)
+  ❌ Error processing word 'Dunking': 'NoneType' object has no attribute 'lower'
+  [Worker 1] Failed: Dunking
+  [Worker 4] 200/500 done (198 successful)
+  [Worker 3] 200/500 done (199 successful)
+  [Worker 1] 200/500 done (196 successful)
+  ❌ Error processing word 'Thymol': 'NoneType' object has no attribute 'lower'
+  [Worker 1] Failed: Thymol
+  [Worker 2] 200/500 done (198 successful)
+  [Worker 5] 200/500 done (196 successful)
+  ❌ Error processing word 'Antares': 'NoneType' object has no attribute 'lower'
+  [Worker 2] Failed: Antares
+  ❌ Error processing word 'Guarneri': 'NoneType' object has no attribute 'lower'
+  [Worker 4] Failed: Guarneri
+  [Worker 0] 220/500 done (218 successful)
+  ❌ Error processing word 'Trickster': 'NoneType' object has no attribute 'lower'
+  [Worker 1] Failed: Trickster
+  [Worker 4] 220/500 done (217 successful)
+  ❌ Error processing word 'Quendel': 'NoneType' object has no attribute 'lower'
+  [Worker 0] Failed: Quendel
+  [Worker 3] 220/500 done (219 successful)
+  ❌ Error processing word 'Redwood': 'NoneType' object has no attribute 'lower'
+  [Worker 5] Failed: Redwood
+  [Worker 2] 220/500 done (217 successful)
+  [Worker 1] 220/500 done (214 successful)
+  [Worker 0] 240/500 done (237 successful)
+  [Worker 5] 220/500 done (215 successful)
+  ❌ Error processing word 'Litigation': 'NoneType' object has no attribute 'lower'
+  [Worker 1] Failed: Litigation
+  [Worker 4] 240/500 done (237 successful)
+  ❌ Error processing word 'Afghan': 'NoneType' object has no attribute 'lower'
+  [Worker 3] Failed: Afghan
+  [Worker 3] 240/500 done (238 successful)
+  [Worker 1] 240/500 done (233 successful)
+  [Worker 2] 240/500 done (237 successful)
+  [Worker 5] 240/500 done (235 successful)
+  [Worker 0] 260/500 done (257 successful)
+  [Worker 4] 260/500 done (257 successful)
+  ❌ Error processing word 'Dutchman': 'NoneType' object has no attribute 'lower'
+  [Worker 3] Failed: Dutchman
+  [Worker 3] 260/500 done (257 successful)
+  [Worker 5] 260/500 done (255 successful)
+  ❌ Error processing word 'Kasel': 'NoneType' object has no attribute 'lower'
+  [Worker 2] Failed: Kasel
+  [Worker 2] 260/500 done (256 successful)
+  [Worker 1] 260/500 done (253 successful)
+  [Worker 0] 280/500 done (277 successful)
+  [Worker 4] 280/500 done (277 successful)
+  [Worker 3] 280/500 done (277 successful)
+  [Worker 2] 280/500 done (276 successful)
+  [Worker 5] 280/500 done (275 successful)
+  [Worker 1] 280/500 done (273 successful)
+  [Worker 0] 300/500 done (297 successful)
+  [Worker 4] 300/500 done (297 successful)
+  ❌ Error processing word 'Stoma': 'NoneType' object has no attribute 'lower'
+  [Worker 5] Failed: Stoma
+  [Worker 3] 300/500 done (297 successful)
+  [Worker 2] 300/500 done (296 successful)
+  [Worker 1] 300/500 done (293 successful)
+  [Worker 5] 300/500 done (294 successful)
+  [Worker 0] 320/500 done (317 successful)
+  [Worker 4] 320/500 done (317 successful)
+  [Worker 3] 320/500 done (317 successful)
+  [Worker 2] 320/500 done (316 successful)
+  ❌ Error processing word 'Arboretum': 'NoneType' object has no attribute 'lower'
+  [Worker 3] Failed: Arboretum
+  [Worker 1] 320/500 done (313 successful)
+  [Worker 0] 340/500 done (337 successful)
+  [Worker 5] 320/500 done (314 successful)
+  [Worker 4] 340/500 done (337 successful)
+  [Worker 3] 340/500 done (336 successful)
+  ❌ Error processing word 'Gugel': 'NoneType' object has no attribute 'lower'
+  [Worker 2] Failed: Gugel
+  [Worker 2] 340/500 done (335 successful)
+  ❌ Error processing word 'Mahdi': 'NoneType' object has no attribute 'lower'
+  [Worker 1] Failed: Mahdi
+  [Worker 0] 360/500 done (357 successful)
+  [Worker 4] 360/500 done (357 successful)
+  [Worker 5] 340/500 done (334 successful)
+  [Worker 1] 340/500 done (332 successful)
+  ❌ Error processing word 'Rocaille': 'NoneType' object has no attribute 'lower'
+  [Worker 5] Failed: Rocaille
+  [Worker 3] 360/500 done (356 successful)
+  ❌ Error processing word 'Mylord': 'NoneType' object has no attribute 'lower'
+  [Worker 5] Failed: Mylord
+  [Worker 2] 360/500 done (355 successful)
+  [Worker 0] 380/500 done (377 successful)
+  [Worker 5] 360/500 done (352 successful)
+  [Worker 4] 380/500 done (377 successful)
+  [Worker 1] 360/500 done (352 successful)
+  [Worker 3] 380/500 done (376 successful)
+  [Worker 0] 400/500 done (397 successful)
+  [Worker 2] 380/500 done (375 successful)
+  [Worker 4] 400/500 done (397 successful)
+  [Worker 1] 380/500 done (372 successful)
+  [Worker 3] 400/500 done (396 successful)
+  [Worker 5] 380/500 done (372 successful)
+  [Worker 2] 400/500 done (395 successful)
+  [Worker 0] 420/500 done (417 successful)
+  [Worker 5] 400/500 done (392 successful)
+  [Worker 3] 420/500 done (416 successful)
+  [Worker 4] 420/500 done (417 successful)
+  ❌ Error processing word 'Konak': 'NoneType' object has no attribute 'lower'
+  [Worker 1] Failed: Konak
+  ❌ Error processing word 'Caterpillar': 'NoneType' object has no attribute 'lower'
+  [Worker 3] Failed: Caterpillar
+  [Worker 2] 420/500 done (415 successful)
+  [Worker 0] 440/500 done (437 successful)
+  [Worker 3] 440/500 done (435 successful)
+  ❌ Error processing word 'Cornichon': 'NoneType' object has no attribute 'lower'
+  [Worker 5] Failed: Cornichon
+  [Worker 5] 420/500 done (411 successful)
+  [Worker 1] 420/500 done (411 successful)
+  [Worker 4] 440/500 done (437 successful)
+  ❌ Error processing word 'Binokular': 'NoneType' object has no attribute 'lower'
+  [Worker 2] Failed: Binokular
+  [Worker 2] 440/500 done (434 successful)
+  [Worker 0] 460/500 done (457 successful)
+  [Worker 3] 460/500 done (455 successful)
+  [Worker 5] 440/500 done (431 successful)
+  ❌ Error processing word 'Notepad': 'NoneType' object has no attribute 'lower'
+  [Worker 5] Failed: Notepad
+  [Worker 1] 440/500 done (431 successful)
+  [Worker 4] 460/500 done (457 successful)
+  [Worker 2] 460/500 done (454 successful)
+  [Worker 0] 480/500 done (477 successful)
+  [Worker 3] 480/500 done (475 successful)
+  [Worker 5] 460/500 done (450 successful)
+  [Worker 4] 480/500 done (477 successful)
+  [Worker 2] 480/500 done (474 successful)
+  [Worker 1] 460/500 done (451 successful)
+  [Worker 3] 500/500 done (495 successful)
+  [Worker 3] Finished: 495/500 successful
+  [Worker 0] 500/500 done (497 successful)
+  [Worker 0] Finished: 497/500 successful
+  ❌ Error processing word 'Duce': 'NoneType' object has no attribute 'lower'
+  [Worker 5] Failed: Duce
+  [Worker 5] 480/500 done (469 successful)
+  [Worker 4] 500/500 done (497 successful)
+  [Worker 4] Finished: 497/500 successful
+  [Worker 1] 480/500 done (471 successful)
+  [Worker 2] 500/500 done (494 successful)
+  [Worker 2] Finished: 494/500 successful
+  ❌ Error processing word 'Käsch': 'NoneType' object has no attribute 'lower'
+  [Worker 5] Failed: Käsch
+  [Worker 5] 500/500 done (488 successful)
+  [Worker 5] Finished: 488/500 successful
+  [Worker 1] 500/500 done (491 successful)
+  [Worker 1] Finished: 491/500 successful
+
+C2 done: 2962 words scraped in 226s
+C2 final top 5 letters: [('S', 366), ('K', 239), ('B', 209), ('A', 205), ('M', 161)]
+C2: Saved 2962 words to app/german/C2.json
+
+All done: 2026-01-29 22:53:11.189606

@@ -1,0 +1,237 @@
+Re-extracting levels: ['C1']
+Log: reextract_log_20260129_205911.log
+Started: 2026-01-29 20:59:11.420210
+============================================================
+
+============================================================
+Processing C1
+============================================================
+C1: 36065 total base entries, 36045 valid words (start with letter)
+C1: Randomly selected 3000 from 36045 words
+C1: Top 5 starting letters: [('S', 330), ('B', 214), ('A', 204), ('K', 200), ('F', 177)]
+  Worker 0: 500 words
+  Worker 1: 500 words
+  Worker 2: 500 words
+  Worker 3: 500 words
+  Worker 4: 500 words
+  Worker 5: 500 words
+
+Starting 6 workers for C1...
+  ❌ Error processing word 'Isfahan': 'NoneType' object has no attribute 'lower'
+  [Worker 1] Failed: Isfahan
+  [Worker 2] 20/500 done (20 successful)
+  [Worker 0] 20/500 done (20 successful)
+  [Worker 1] 20/500 done (19 successful)
+  [Worker 4] 20/500 done (20 successful)
+  [Worker 3] 20/500 done (20 successful)
+  [Worker 5] 20/500 done (20 successful)
+  ❌ Error processing word 'Verkaufe': 'NoneType' object has no attribute 'lower'
+  [Worker 2] Failed: Verkaufe
+  ❌ Error processing word 'Wasserrohrbruch': 'NoneType' object has no attribute 'lower'
+  [Worker 4] Failed: Wasserrohrbruch
+  [Worker 0] 40/500 done (40 successful)
+  [Worker 1] 40/500 done (39 successful)
+  [Worker 3] 40/500 done (40 successful)
+  [Worker 2] 40/500 done (39 successful)
+  [Worker 4] 40/500 done (39 successful)
+  [Worker 5] 40/500 done (40 successful)
+  ❌ Error processing word 'Regular': 'NoneType' object has no attribute 'lower'
+  [Worker 0] Failed: Regular
+  ❌ Error processing word 'Pattern': 'NoneType' object has no attribute 'lower'
+  [Worker 5] Failed: Pattern
+  [Worker 1] 60/500 done (59 successful)
+  [Worker 3] 60/500 done (60 successful)
+  [Worker 2] 60/500 done (59 successful)
+  [Worker 5] 60/500 done (59 successful)
+  [Worker 4] 60/500 done (59 successful)
+  [Worker 0] 60/500 done (59 successful)
+  [Worker 1] 80/500 done (79 successful)
+  [Worker 2] 80/500 done (79 successful)
+  [Worker 3] 80/500 done (80 successful)
+  [Worker 4] 80/500 done (79 successful)
+  [Worker 0] 80/500 done (79 successful)
+  [Worker 5] 80/500 done (79 successful)
+  [Worker 1] 100/500 done (99 successful)
+  [Worker 2] 100/500 done (99 successful)
+  ❌ Error processing word 'Gene': 'NoneType' object has no attribute 'lower'
+  [Worker 4] Failed: Gene
+  [Worker 0] 100/500 done (99 successful)
+  [Worker 5] 100/500 done (99 successful)
+  [Worker 4] 100/500 done (98 successful)
+  [Worker 3] 100/500 done (100 successful)
+  ❌ Error processing word 'Shit': 'NoneType' object has no attribute 'lower'
+  [Worker 2] Failed: Shit
+  [Worker 1] 120/500 done (119 successful)
+  [Worker 2] 120/500 done (118 successful)
+  [Worker 5] 120/500 done (119 successful)
+  [Worker 0] 120/500 done (119 successful)
+  [Worker 4] 120/500 done (118 successful)
+  [Worker 3] 120/500 done (120 successful)
+  [Worker 1] 140/500 done (139 successful)
+  [Worker 2] 140/500 done (138 successful)
+  [Worker 5] 140/500 done (139 successful)
+  [Worker 0] 140/500 done (139 successful)
+  [Worker 3] 140/500 done (140 successful)
+  [Worker 4] 140/500 done (138 successful)
+  [Worker 1] 160/500 done (159 successful)
+  [Worker 2] 160/500 done (158 successful)
+  [Worker 0] 160/500 done (159 successful)
+  ❌ Error processing word 'Gnocchi': 'NoneType' object has no attribute 'lower'
+  [Worker 5] Failed: Gnocchi
+  ❌ Error processing word 'Benzyl': 'NoneType' object has no attribute 'lower'
+  [Worker 1] Failed: Benzyl
+  [Worker 5] 160/500 done (158 successful)
+  [Worker 3] 160/500 done (160 successful)
+  [Worker 4] 160/500 done (158 successful)
+  [Worker 1] 180/500 done (178 successful)
+  [Worker 5] 180/500 done (178 successful)
+  [Worker 2] 180/500 done (178 successful)
+  [Worker 0] 180/500 done (179 successful)
+  [Worker 3] 180/500 done (180 successful)
+  [Worker 4] 180/500 done (178 successful)
+  [Worker 5] 200/500 done (198 successful)
+  [Worker 2] 200/500 done (198 successful)
+  ❌ Error processing word 'qua': 'NoneType' object has no attribute 'lower'
+  [Worker 3] Failed: qua
+  [Worker 1] 200/500 done (198 successful)
+  [Worker 0] 200/500 done (199 successful)
+  [Worker 3] 200/500 done (199 successful)
+  ❌ Error processing word 'Donna': 'NoneType' object has no attribute 'lower'
+  [Worker 4] Failed: Donna
+  [Worker 4] 200/500 done (197 successful)
+  [Worker 0] 220/500 done (219 successful)
+  [Worker 1] 220/500 done (218 successful)
+  [Worker 3] 220/500 done (219 successful)
+  [Worker 2] 220/500 done (218 successful)
+  [Worker 5] 220/500 done (218 successful)
+  [Worker 4] 220/500 done (217 successful)
+  ❌ Error processing word 'Couscous': 'NoneType' object has no attribute 'lower'
+  [Worker 2] Failed: Couscous
+  [Worker 0] 240/500 done (239 successful)
+  [Worker 1] 240/500 done (238 successful)
+  [Worker 3] 240/500 done (239 successful)
+  [Worker 2] 240/500 done (237 successful)
+  [Worker 5] 240/500 done (238 successful)
+  ❌ Error processing word 'Mod': 'NoneType' object has no attribute 'lower'
+  [Worker 5] Failed: Mod
+  [Worker 4] 240/500 done (237 successful)
+  [Worker 0] 260/500 done (259 successful)
+  [Worker 2] 260/500 done (257 successful)
+  [Worker 1] 260/500 done (258 successful)
+  [Worker 5] 260/500 done (257 successful)
+  [Worker 3] 260/500 done (259 successful)
+  [Worker 4] 260/500 done (257 successful)
+  [Worker 2] 280/500 done (277 successful)
+  [Worker 5] 280/500 done (277 successful)
+  [Worker 0] 280/500 done (279 successful)
+  [Worker 3] 280/500 done (279 successful)
+  [Worker 1] 280/500 done (278 successful)
+  ❌ Error processing word 'Dust': 'NoneType' object has no attribute 'lower'
+  [Worker 4] Failed: Dust
+  [Worker 4] 280/500 done (276 successful)
+  [Worker 2] 300/500 done (297 successful)
+  [Worker 5] 300/500 done (297 successful)
+  [Worker 0] 300/500 done (299 successful)
+  [Worker 3] 300/500 done (299 successful)
+  [Worker 1] 300/500 done (298 successful)
+  ❌ Error processing word 'pardon': 'NoneType' object has no attribute 'lower'
+  [Worker 3] Failed: pardon
+  [Worker 4] 300/500 done (296 successful)
+  [Worker 5] 320/500 done (317 successful)
+  [Worker 3] 320/500 done (318 successful)
+  [Worker 1] 320/500 done (318 successful)
+  [Worker 2] 320/500 done (317 successful)
+  [Worker 0] 320/500 done (319 successful)
+  [Worker 4] 320/500 done (316 successful)
+  ❌ Error processing word 'Pipa': 'NoneType' object has no attribute 'lower'
+  [Worker 2] Failed: Pipa
+  [Worker 5] 340/500 done (337 successful)
+  [Worker 1] 340/500 done (338 successful)
+  [Worker 2] 340/500 done (336 successful)
+  [Worker 3] 340/500 done (338 successful)
+  [Worker 0] 340/500 done (339 successful)
+  [Worker 4] 340/500 done (336 successful)
+  ❌ Error processing word 'Falstaff': 'NoneType' object has no attribute 'lower'
+  [Worker 2] Failed: Falstaff
+  [Worker 5] 360/500 done (357 successful)
+  [Worker 2] 360/500 done (355 successful)
+  [Worker 1] 360/500 done (358 successful)
+  [Worker 3] 360/500 done (358 successful)
+  [Worker 0] 360/500 done (359 successful)
+  ❌ Error processing word 'Amigo': 'NoneType' object has no attribute 'lower'
+  [Worker 4] Failed: Amigo
+  ❌ Error processing word 'Rusch': 'NoneType' object has no attribute 'lower'
+  [Worker 0] Failed: Rusch
+  [Worker 4] 360/500 done (355 successful)
+  [Worker 2] 380/500 done (375 successful)
+  [Worker 5] 380/500 done (377 successful)
+  [Worker 1] 380/500 done (378 successful)
+  [Worker 0] 380/500 done (378 successful)
+  [Worker 3] 380/500 done (378 successful)
+  [Worker 4] 380/500 done (375 successful)
+  [Worker 5] 400/500 done (397 successful)
+  ❌ Error processing word 'Font': 'NoneType' object has no attribute 'lower'
+  [Worker 4] Failed: Font
+  [Worker 2] 400/500 done (395 successful)
+  [Worker 1] 400/500 done (398 successful)
+  [Worker 3] 400/500 done (398 successful)
+  [Worker 0] 400/500 done (398 successful)
+  [Worker 4] 400/500 done (394 successful)
+  [Worker 5] 420/500 done (417 successful)
+  [Worker 1] 420/500 done (418 successful)
+  [Worker 2] 420/500 done (415 successful)
+  [Worker 0] 420/500 done (418 successful)
+  [Worker 3] 420/500 done (418 successful)
+  [Worker 4] 420/500 done (414 successful)
+  ❌ Error processing word 'Barrique': 'NoneType' object has no attribute 'lower'
+  [Worker 1] Failed: Barrique
+  [Worker 5] 440/500 done (437 successful)
+  [Worker 1] 440/500 done (437 successful)
+  [Worker 0] 440/500 done (438 successful)
+  [Worker 2] 440/500 done (435 successful)
+  ❌ Error processing word 'Enduro': 'NoneType' object has no attribute 'lower'
+  [Worker 2] Failed: Enduro
+  ❌ Error processing word 'Streitkultur': 'NoneType' object has no attribute 'lower'
+  [Worker 1] Failed: Streitkultur
+  [Worker 4] 440/500 done (434 successful)
+  [Worker 3] 440/500 done (438 successful)
+  [Worker 5] 460/500 done (457 successful)
+  [Worker 1] 460/500 done (456 successful)
+  [Worker 2] 460/500 done (454 successful)
+  [Worker 4] 460/500 done (454 successful)
+  [Worker 0] 460/500 done (458 successful)
+  ❌ Error processing word 'floppen': 'NoneType' object has no attribute 'lower'
+  [Worker 0] Failed: floppen
+  [Worker 3] 460/500 done (458 successful)
+  ❌ Error processing word 'Noir': 'NoneType' object has no attribute 'lower'
+  [Worker 0] Failed: Noir
+  [Worker 5] 480/500 done (477 successful)
+  [Worker 1] 480/500 done (476 successful)
+  [Worker 4] 480/500 done (474 successful)
+  [Worker 2] 480/500 done (474 successful)
+  [Worker 0] 480/500 done (476 successful)
+  ❌ Error processing word 'Fidel': 'NoneType' object has no attribute 'lower'
+  [Worker 0] Failed: Fidel
+  [Worker 3] 480/500 done (478 successful)
+  [Worker 5] 500/500 done (497 successful)
+  [Worker 5] Finished: 497/500 successful
+  ❌ Error processing word 'Violetta': 'NoneType' object has no attribute 'lower'
+  [Worker 2] Failed: Violetta
+  [Worker 1] 500/500 done (496 successful)
+  [Worker 1] Finished: 496/500 successful
+  [Worker 2] 500/500 done (493 successful)
+  [Worker 2] Finished: 493/500 successful
+  [Worker 0] 500/500 done (495 successful)
+  [Worker 0] Finished: 495/500 successful
+  ❌ Error processing word 'Liberty': 'NoneType' object has no attribute 'lower'
+  [Worker 3] Failed: Liberty
+  [Worker 4] 500/500 done (494 successful)
+  [Worker 4] Finished: 494/500 successful
+  [Worker 3] 500/500 done (497 successful)
+  [Worker 3] Finished: 497/500 successful
+
+C1 done: 2972 words scraped in 230s
+C1 final top 5 letters: [('S', 328), ('B', 212), ('A', 203), ('K', 200), ('F', 173)]
+C1: Saved 2972 words to app/german/C1.json
+
+All done: 2026-01-29 21:03:01.501650

@@ -135,12 +135,13 @@ def extract_word_from_lemma(lemma: str) -> str:
     return word.strip()
 
 
-def get_word_composition(word: str) -> Tuple[List[str], List[str]]:
+def get_word_composition_from_soup(soup: BeautifulSoup, word: str) -> Tuple[List[str], List[str]]:
     """
-    Analyze word composition from morphemes.
+    Extract word composition from DWDS Wortzerlegung section.
 
     Args:
-        word: German word
+        soup: BeautifulSoup object of the DWDS page
+        word: German word (fallback)
 
     Returns:
         tuple: (composition list, decomposition meanings list)
@@ -148,35 +149,41 @@ def get_word_composition(word: str) -> Tuple[List[str], List[str]]:
     composition = []
     decomposition_meaning = []
 
-    # Simple prefix detection
-    for prefix in PREFIX_MEANINGS.keys():
-        if word.startswith(prefix) and len(word) > len(prefix):
-            composition.append(f"{prefix}-")
-            decomposition_meaning.append(f"prefix: {PREFIX_MEANINGS[prefix]}")
-            remaining = word[len(prefix):]
-            if remaining:
-                composition.append(remaining)
-                try:
-                    translated = translate_to_english(remaining)
-                    decomposition_meaning.append(f"root word: {translated}")
-                except:
-                    decomposition_meaning.append("root word")
+    # Find the Wortzerlegung section
+    ft_blocks = soup.find_all('div', class_='dwdswb-ft-block')
+    for block in ft_blocks:
+        label = block.find('span', class_='dwdswb-ft-blocklabel')
+        if label and 'Wortzerlegung' in label.get_text():
+            # Get the blocktext which contains the word parts
+            blocktext = block.find('span', class_='dwdswb-ft-blocktext')
+            if blocktext:
+                # Find all links to word parts
+                part_links = blocktext.find_all('a', href=lambda x: x and x.startswith('/wb/'))
+                for link in part_links:
+                    # Remove <sup> tags (disambiguation numbers like 1, 2)
+                    for sup in link.find_all('sup'):
+                        sup.decompose()
+                    part = link.get_text(strip=True)
+                    if part:
+                        composition.append(part)
+                        # Generate meaning based on prefix/suffix patterns
+                        clean_part = part.replace('-', '')
+                        if part.endswith('-'):
+                            # It's a prefix
+                            if clean_part in PREFIX_MEANINGS:
+                                decomposition_meaning.append(f"prefix: {PREFIX_MEANINGS[clean_part]}")
+                            else:
+                                decomposition_meaning.append(f"prefix: {clean_part}")
+                        elif part.startswith('-'):
+                            # It's a suffix
+                            if clean_part in SUFFIX_MEANINGS:
+                                decomposition_meaning.append(f"suffix: {SUFFIX_MEANINGS[clean_part]}")
+                            else:
+                                decomposition_meaning.append(f"suffix: {clean_part}")
+                        else:
+                            # It's a root word - mark for translation
+                            decomposition_meaning.append(f"root word: {part}")
             break
-
-    # Simple suffix detection if no prefix found
-    if not composition:
-        for suffix in SUFFIX_MEANINGS.keys():
-            if word.endswith(suffix) and len(word) > len(suffix):
-                remaining = word[:-len(suffix)]
-                composition.append(remaining)
-                composition.append(f"-{suffix}")
-                try:
-                    translated = translate_to_english(remaining)
-                    decomposition_meaning.append(f"root word: {translated}")
-                except:
-                    decomposition_meaning.append("root word")
-                decomposition_meaning.append(f"suffix: {SUFFIX_MEANINGS[suffix]}")
-                break
 
     return composition, decomposition_meaning
 
@@ -215,8 +222,8 @@ def extract_word_data_scraping(word: str, pos_data: Optional[Dict] = None, debug
             german_pos = pos_data['pos']
             part_of_speech = POS_MAPPING.get(german_pos, german_pos.lower())
 
-        # Get word composition
-        composition, decomposition_meaning = get_word_composition(clean_word)
+        # Get word composition from Wortzerlegung section
+        composition, decomposition_meaning = get_word_composition_from_soup(soup, clean_word)
 
         # Extract frequency (shown as visual dots)
         frequency = None

@@ -15,6 +15,9 @@ import A1Vocabulary from './german/A1.json';
 import A2Vocabulary from './german/A2.json';
 import B1Vocabulary from './german/B1.json';
 import B2Vocabulary from './german/B2.json';
+import C1Vocabulary from './german/C1.json';
+import C2Vocabulary from './german/C2.json';
+import MixVocabulary from './german/mix.json';
 
 // Define the vocabulary word type
 type WordItem = string | { german: string; english: string };
@@ -35,9 +38,19 @@ interface VocabWord {
 }
 
 type GameState = 'levelSelect' | 'playing' | 'gameOver';
-type Level = 'A1' | 'A2' | 'B1' | 'B2';
+type Level = 'A1' | 'A2' | 'B1' | 'B2' | 'C1' | 'C2' | 'Mix';
 
 const DEFAULT_FREQUENCY_TOTAL = 7;
+
+// Fisher-Yates shuffle algorithm
+const shuffleArray = <T,>(array: T[]): T[] => {
+  const shuffled = [...array];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled;
+};
 
 const GermanVocabGame = () => {
   const [gameState, setGameState] = useState<GameState>('levelSelect');
@@ -47,7 +60,8 @@ const GermanVocabGame = () => {
   const [timeLeft, setTimeLeft] = useState(180);
   const [feedback, setFeedback] = useState('');
   const [showEnhancedInfo, setShowEnhancedInfo] = useState(false);
-  const [usedWords, setUsedWords] = useState<string[]>([]);
+  const [shuffledWords, setShuffledWords] = useState<VocabWord[]>([]);
+  const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedLevel, setSelectedLevel] = useState<Level | null>(null);
   const [isLoading, setIsLoading] = useState(false);
   const inputRef = useRef<TextInput>(null);
@@ -61,22 +75,13 @@ const GermanVocabGame = () => {
       case 'A2': return Array.isArray(A2Vocabulary) ? A2Vocabulary : [];
       case 'B1': return Array.isArray(B1Vocabulary) ? B1Vocabulary : [];
       case 'B2': return Array.isArray(B2Vocabulary) ? B2Vocabulary : [];
+      case 'C1': return Array.isArray(C1Vocabulary) ? C1Vocabulary as VocabWord[] : [];
+      case 'C2': return Array.isArray(C2Vocabulary) ? C2Vocabulary as VocabWord[] : [];
+      case 'Mix': return Array.isArray(MixVocabulary) ? MixVocabulary as VocabWord[] : [];
       default: return [];
     }
   };
 
-  const getRandomWord = (words: VocabWord[]): VocabWord | null => {
-    if (!words || words.length === 0) return null;
-
-    const availableWords = words.filter(word => !usedWords.includes(word.word));
-
-    if (availableWords.length === 0) {
-      setUsedWords([]);
-      return words[Math.floor(Math.random() * words.length)];
-    }
-
-    return availableWords[Math.floor(Math.random() * availableWords.length)];
-  };
 
   const parseFrequency = (value: VocabWord['frequency']) => {
     if (value === null || value === undefined) return null;
@@ -110,17 +115,18 @@ const GermanVocabGame = () => {
       setUserAnswer('');
       setFeedback('');
       setShowEnhancedInfo(false);
-      setUsedWords([]);
-      
+
       const levelWords = getWords(level);
-      const firstWord = getRandomWord(levelWords);
-      
-      if (!firstWord) {
+      if (!levelWords || levelWords.length === 0) {
         console.error('No words found for level:', level);
         return;
       }
 
-      setCurrentWord(firstWord);
+      // Shuffle words at game start for true randomness
+      const shuffled = shuffleArray(levelWords);
+      setShuffledWords(shuffled);
+      setCurrentIndex(0);
+      setCurrentWord(shuffled[0]);
       setGameState('playing');
     } catch (error) {
       console.error('Error starting game:', error);
@@ -146,18 +152,24 @@ const GermanVocabGame = () => {
   };
 
   const nextWord = () => {
-    const levelWords = getWords(selectedLevel);
-    const nextWord = getRandomWord(levelWords);
+    const nextIndex = currentIndex + 1;
 
-    setCurrentWord(nextWord);
+    // If we've gone through all words, reshuffle and start over
+    if (nextIndex >= shuffledWords.length) {
+      const reshuffled = shuffleArray(shuffledWords);
+      setShuffledWords(reshuffled);
+      setCurrentIndex(0);
+      setCurrentWord(reshuffled[0]);
+    } else {
+      setCurrentIndex(nextIndex);
+      setCurrentWord(shuffledWords[nextIndex]);
+    }
+
     setUserAnswer('');
     setFeedback('');
     setShowEnhancedInfo(false);
     setAwaitNext(false);
     setIsPaused(false);
-    if (currentWord) {
-      setUsedWords(prev => [...prev, currentWord.word]);
-    }
 
     if (inputRef.current) inputRef.current.focus();
   };
@@ -233,7 +245,7 @@ const GermanVocabGame = () => {
                 )}
               </TouchableOpacity>
 
-              <TouchableOpacity 
+              <TouchableOpacity
                 style={[styles.levelButton, styles.b2Button]}
                 onPress={() => startGame('B2')}
                 disabled={isLoading}
@@ -242,6 +254,42 @@ const GermanVocabGame = () => {
                   <ActivityIndicator color="#fff" />
                 ) : (
                   <Text style={styles.levelButtonText}>B2 (Upper Intermediate)</Text>
+                )}
+              </TouchableOpacity>
+
+              <TouchableOpacity
+                style={[styles.levelButton, styles.c1Button]}
+                onPress={() => startGame('C1')}
+                disabled={isLoading}
+              >
+                {isLoading && selectedLevel === 'C1' ? (
+                  <ActivityIndicator color="#fff" />
+                ) : (
+                  <Text style={styles.levelButtonText}>C1 (Advanced)</Text>
+                )}
+              </TouchableOpacity>
+
+              <TouchableOpacity
+                style={[styles.levelButton, styles.c2Button]}
+                onPress={() => startGame('C2')}
+                disabled={isLoading}
+              >
+                {isLoading && selectedLevel === 'C2' ? (
+                  <ActivityIndicator color="#fff" />
+                ) : (
+                  <Text style={styles.levelButtonText}>C2 (Mastery)</Text>
+                )}
+              </TouchableOpacity>
+
+              <TouchableOpacity
+                style={[styles.levelButton, styles.mixButton]}
+                onPress={() => startGame('Mix')}
+                disabled={isLoading}
+              >
+                {isLoading && selectedLevel === 'Mix' ? (
+                  <ActivityIndicator color="#fff" />
+                ) : (
+                  <Text style={styles.levelButtonText}>Mix (All Levels)</Text>
                 )}
               </TouchableOpacity>
             </View>
@@ -382,6 +430,19 @@ const GermanVocabGame = () => {
 
             {showEnhancedInfo && currentWord && (
               <View style={styles.enhancedInfoContainer}>
+                {currentWord.examples && currentWord.examples.length > 0 && (
+                  <View style={styles.examplesEnhancedContainer}>
+                    <Text style={styles.examplesEnhancedTitle}>Examples:</Text>
+                    {currentWord.examples.slice(0, 3).map((example, index) => (
+                      <View key={index} style={styles.exampleEnhancedItem}>
+                        <Text style={styles.exampleGermanText}>"{example.german}"</Text>
+                        {example.english && example.english !== example.german && (
+                          <Text style={styles.exampleEnglishText}>→ "{example.english}"</Text>
+                        )}
+                      </View>
+                    ))}
+                  </View>
+                )}
                 {currentWord.composition && currentWord.composition.length > 0 && (
                   <View style={styles.decompositionContainer}>
                     <Text style={styles.decompositionTitle}>Word Breakdown:</Text>
@@ -523,6 +584,15 @@ const styles = StyleSheet.create({
   },
   b2Button: {
     backgroundColor: '#F44336',
+  },
+  c1Button: {
+    backgroundColor: '#9C27B0',
+  },
+  c2Button: {
+    backgroundColor: '#673AB7',
+  },
+  mixButton: {
+    backgroundColor: '#607D8B',
   },
   levelButtonText: {
     color: '#ffffff',
@@ -699,6 +769,34 @@ const styles = StyleSheet.create({
   },
   enhancedInfoContainer: {
     marginTop: 16,
+  },
+  examplesEnhancedContainer: {
+    backgroundColor: '#fef3c7',
+    borderLeftWidth: 4,
+    borderLeftColor: '#f59e0b',
+    borderRadius: 8,
+    padding: 12,
+    marginBottom: 12,
+  },
+  examplesEnhancedTitle: {
+    fontSize: 14,
+    fontWeight: 'bold',
+    color: '#b45309',
+    marginBottom: 8,
+  },
+  exampleEnhancedItem: {
+    marginBottom: 8,
+  },
+  exampleGermanText: {
+    fontSize: 13,
+    fontStyle: 'italic',
+    color: '#374151',
+    marginBottom: 2,
+  },
+  exampleEnglishText: {
+    fontSize: 12,
+    color: '#6b7280',
+    marginLeft: 12,
   },
   decompositionContainer: {
     backgroundColor: '#dcfce7',
