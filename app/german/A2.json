@@ -1,15 +1,15 @@
 [
   {
-    "word": "auf%20jeden%20Fall",
+    "word": "auf jeden Fall",
     "partOfSpeech": "mehrwortausdruck",
-    "english": "on%20every%20case",
+    "english": "on every case",
     "composition": [
       "auf-",
-      "%20jeden%20Fall"
+      " jeden Fall"
     ],
     "decompositionMeaning": [
       "prefix: up, open",
-      "%20every%20case"
+      " every case"
     ],
     "frequency": null,
     "connected_words": [],
@@ -111,7 +111,7 @@
     ],
     "etymology": null,
     "compounds": [],
-    "source_url": "https://www.dwds.de/wb/auf%20jeden%20Fall"
+    "source_url": "https://www.dwds.de/wb/auf jeden Fall"
   },
   {
     "word": "tragen",
@@ -1680,7 +1680,7 @@
     ],
     "decompositionMeaning": [
       "prefix: up, open",
-      "root word: regen"
+      "rain"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -2194,7 +2194,7 @@
     "source_url": "https://www.dwds.de/wb/passieren"
   },
   {
-    "word": "Tsch%C3%BCss",
+    "word": "Tschüss",
     "partOfSpeech": "interjection",
     "english": "Bye",
     "composition": [],
@@ -2706,8 +2706,8 @@
       "Mittel"
     ],
     "decompositionMeaning": [
-      "root word: Verkehr",
-      "root word: Mittel"
+      "Traffic",
+      "Medium"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -3049,8 +3049,8 @@
       "Platz"
     ],
     "decompositionMeaning": [
-      "root word: Sport",
-      "root word: Platz"
+      "Sports",
+      "Place"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -3219,7 +3219,7 @@
       "-ig"
     ],
     "decompositionMeaning": [
-      "root word: Trauer",
+      "Mourning",
       "suffix: quality"
     ],
     "frequency": "4 out of 7",
@@ -3542,7 +3542,7 @@
     ],
     "decompositionMeaning": [
       "prefix: around / derail",
-      "root word: steigen"
+      "rise"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -3702,8 +3702,8 @@
       "Partner"
     ],
     "decompositionMeaning": [
-      "root word: Ehe",
-      "root word: Partner"
+      "Marriage",
+      "Partners"
     ],
     "frequency": "3 out of 7",
     "connected_words": [
@@ -4055,15 +4055,15 @@
     "source_url": "https://www.dwds.de/wb/Tafel"
   },
   {
-    "word": "Versp%C3%A4tung",
+    "word": "Verspätung",
     "partOfSpeech": "noun",
-    "english": "Delay%C3%A4tion",
+    "english": "Delayätion",
     "composition": [
       "verspäten",
       "-ung"
     ],
     "decompositionMeaning": [
-      "root word: verspäten",
+      "late",
       "suffix: action/process"
     ],
     "frequency": "4 out of 7",
@@ -4124,7 +4124,7 @@
       "-er"
     ],
     "decompositionMeaning": [
-      "root word: posten",
+      "post",
       "suffix: agent/doer"
     ],
     "frequency": "4 out of 7",
@@ -4359,7 +4359,7 @@
     "source_url": "https://www.dwds.de/wb/Artikel"
   },
   {
-    "word": "d%C3%BCnn",
+    "word": "dünn",
     "partOfSpeech": "adjective",
     "english": "thin",
     "composition": [],
@@ -4541,7 +4541,7 @@
       "dünn bewimpert",
       "dünnbewohnt"
     ],
-    "source_url": "https://www.dwds.de/wb/d%C3%BCnn"
+    "source_url": "https://www.dwds.de/wb/dünn"
   },
   {
     "word": "dorther",
@@ -4552,8 +4552,8 @@
       "her"
     ],
     "decompositionMeaning": [
-      "root word: dort",
-      "root word: her"
+      "there",
+      "here"
     ],
     "frequency": "2 out of 7",
     "connected_words": [],
@@ -4717,7 +4717,7 @@
       "-ig"
     ],
     "decompositionMeaning": [
-      "root word: Stress",
+      "Stress",
       "suffix: quality"
     ],
     "frequency": "4 out of 7",
@@ -4989,7 +4989,7 @@
     "source_url": "https://www.dwds.de/wb/Band#3"
   },
   {
-    "word": "fr%C3%BCh",
+    "word": "früh",
     "partOfSpeech": "adjective",
     "english": "early",
     "composition": [],
@@ -5111,7 +5111,7 @@
       "frühbürgerlich",
       "frühchristlich"
     ],
-    "source_url": "https://www.dwds.de/wb/fr%C3%BCh"
+    "source_url": "https://www.dwds.de/wb/früh"
   },
   {
     "word": "zeigen",
@@ -5319,7 +5319,7 @@
     ],
     "decompositionMeaning": [
       "prefix: before, forward",
-      "root word: bereiten"
+      "prepare"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -6362,9 +6362,9 @@
     "source_url": "https://www.dwds.de/wb/Seite"
   },
   {
-    "word": "nerv%C3%B6s",
+    "word": "nervös",
     "partOfSpeech": "adjective",
-    "english": "nerve%C3%B6s",
+    "english": "nerveös",
     "composition": [],
     "decompositionMeaning": [],
     "frequency": "4 out of 7",
@@ -6546,8 +6546,8 @@
       "her"
     ],
     "decompositionMeaning": [
-      "root word: vor",
-      "root word: her"
+      "before",
+      "here"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -7220,7 +7220,7 @@
       "-er"
     ],
     "decompositionMeaning": [
-      "root word: Hamburg",
+      "Hamburg",
       "suffix: agent/doer"
     ],
     "frequency": "5 out of 7",
@@ -7481,7 +7481,7 @@
       "-er"
     ],
     "decompositionMeaning": [
-      "root word: messen",
+      "measure",
       "suffix: agent/doer"
     ],
     "frequency": "4 out of 7",
@@ -7725,15 +7725,15 @@
     "source_url": "https://www.dwds.de/wb/Jeans"
   },
   {
-    "word": "N%C3%A4he",
+    "word": "Nähe",
     "partOfSpeech": "noun",
     "english": "Proximity",
     "composition": [
-      "N%C3%A4h",
+      "Näh",
       "-e"
     ],
     "decompositionMeaning": [
-      "N%C3%A4h",
+      "Näh",
       "suffix: verb→noun"
     ],
     "frequency": "5 out of 7",
@@ -8197,7 +8197,7 @@
     "source_url": "https://www.dwds.de/wb/dumm"
   },
   {
-    "word": "Ger%C3%A4t",
+    "word": "Gerät",
     "partOfSpeech": "noun",
     "english": "Device",
     "composition": [],
@@ -8423,7 +8423,7 @@
       "Geräteschnur",
       "Geräteschuppen"
     ],
-    "source_url": "https://www.dwds.de/wb/Ger%C3%A4t"
+    "source_url": "https://www.dwds.de/wb/Gerät"
   },
   {
     "word": "Zucker",
@@ -8633,7 +8633,7 @@
     ],
     "decompositionMeaning": [
       "prefix: out, off",
-      "root word: sprechen"
+      "speak"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -8845,7 +8845,7 @@
     "source_url": "https://www.dwds.de/wb/aussprechen"
   },
   {
-    "word": "k%C3%BCndigen",
+    "word": "kündigen",
     "partOfSpeech": "verb",
     "english": "cancel",
     "composition": [],
@@ -9057,7 +9057,7 @@
     "source_url": "https://www.dwds.de/wb/kündigen"
   },
   {
-    "word": "f%C3%BChlen",
+    "word": "fühlen",
     "partOfSpeech": "verb",
     "english": "feel",
     "composition": [],
@@ -9239,7 +9239,7 @@
       "erfühlen",
       "Gefühl"
     ],
-    "source_url": "https://www.dwds.de/wb/f%C3%BChlen"
+    "source_url": "https://www.dwds.de/wb/fühlen"
   },
   {
     "word": "sauber",
@@ -10283,16 +10283,16 @@
     "source_url": "https://www.dwds.de/wb/schade"
   },
   {
-    "word": "abschlie%C3%9Fen",
+    "word": "abschließen",
     "partOfSpeech": "verb",
-    "english": "complete%C3%9Fen",
+    "english": "completeßen",
     "composition": [
       "ab-",
       "schließen"
     ],
     "decompositionMeaning": [
       "prefix: off, away",
-      "root word: schließen"
+      "close"
     ],
     "frequency": "5 out of 7",
     "connected_words": [
@@ -10456,7 +10456,7 @@
       "abgeschlossen",
       "Abschluss"
     ],
-    "source_url": "https://www.dwds.de/wb/abschlie%C3%9Fen"
+    "source_url": "https://www.dwds.de/wb/abschließen"
   },
   {
     "word": "sauer",
@@ -11052,7 +11052,7 @@
     ],
     "decompositionMeaning": [
       "prefix: up, open",
-      "root word: machen"
+      "make"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -11422,8 +11422,8 @@
       "Teil"
     ],
     "decompositionMeaning": [
-      "root word: gegen",
-      "root word: Teil"
+      "against",
+      "Part"
     ],
     "frequency": "5 out of 7",
     "connected_words": [
@@ -11705,9 +11705,9 @@
     "source_url": "https://www.dwds.de/wb/beliebt"
   },
   {
-    "word": "zum%20Beispiel",
+    "word": "zum Beispiel",
     "partOfSpeech": "mehrwortausdruck",
-    "english": "for %20 example",
+    "english": "for   example",
     "composition": [],
     "decompositionMeaning": [],
     "frequency": null,
@@ -12347,7 +12347,7 @@
     ],
     "decompositionMeaning": [
       "prefix: participle / past",
-      "root word: schirren"
+      "shirr"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -13042,7 +13042,7 @@
       "-ig"
     ],
     "decompositionMeaning": [
-      "root word: Nebel",
+      "Fog",
       "suffix: quality"
     ],
     "frequency": "3 out of 7",
@@ -13941,8 +13941,8 @@
       "Zimmer"
     ],
     "decompositionMeaning": [
-      "root word: schlafen",
-      "root word: Zimmer"
+      "sleep",
+      "Room"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -14261,7 +14261,7 @@
     "source_url": "https://www.dwds.de/wb/Notiz"
   },
   {
-    "word": "R%C3%BCcken",
+    "word": "Rücken",
     "partOfSpeech": "noun",
     "english": "Back",
     "composition": [],
@@ -14516,7 +14516,7 @@
     ],
     "decompositionMeaning": [
       "prefix: makes transitive",
-      "root word: schreiben"
+      "write"
     ],
     "frequency": "5 out of 7",
     "connected_words": [
@@ -14814,11 +14814,11 @@
       "Stelle"
     ],
     "decompositionMeaning": [
-      "root word: bauen",
-      "root word: Stelle",
-      "root word: ,",
-      "root word: Bau",
-      "root word: Stelle"
+      "build",
+      "position",
+      ",",
+      "Construction",
+      "position"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -15041,7 +15041,7 @@
       "-in"
     ],
     "decompositionMeaning": [
-      "root word: Kollege",
+      "Colleague",
       "suffix: feminine"
     ],
     "frequency": null,
@@ -15423,16 +15423,16 @@
     "source_url": "https://www.dwds.de/wb/Cafeteria"
   },
   {
-    "word": "Geldb%C3%B6rse",
+    "word": "Geldbörse",
     "partOfSpeech": "noun",
-    "english": "Wallet%C3%B6rse",
+    "english": "Walletörse",
     "composition": [
       "Geld",
       "Börse"
     ],
     "decompositionMeaning": [
-      "root word: Geld",
-      "root word: Börse"
+      "money",
+      "Stock market"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -15541,7 +15541,7 @@
     "compounds": [
       "Kellnergeldbörse"
     ],
-    "source_url": "https://www.dwds.de/wb/Geldb%C3%B6rse"
+    "source_url": "https://www.dwds.de/wb/Geldbörse"
   },
   {
     "word": "Menge",
@@ -15735,16 +15735,16 @@
     "source_url": "https://www.dwds.de/wb/Menge"
   },
   {
-    "word": "zur%C3%BCckgeben",
+    "word": "zurückgeben",
     "partOfSpeech": "verb",
-    "english": "give%C3%BCback",
+    "english": "giveüback",
     "composition": [
       "zurück-",
       "geben"
     ],
     "decompositionMeaning": [
       "prefix: zurück",
-      "root word: geben"
+      "give"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -15853,7 +15853,7 @@
     "source_url": "https://www.dwds.de/wb/zurückgeben"
   },
   {
-    "word": "gef%C3%A4hrlich",
+    "word": "gefährlich",
     "partOfSpeech": "adjective",
     "english": "dangerous",
     "composition": [
@@ -15861,7 +15861,7 @@
       "-lich"
     ],
     "decompositionMeaning": [
-      "root word: Gefahr",
+      "Danger",
       "suffix: characteristic"
     ],
     "frequency": "5 out of 7",
@@ -16041,7 +16041,7 @@
       "torgefährlich",
       "ungefährlich"
     ],
-    "source_url": "https://www.dwds.de/wb/gef%C3%A4hrlich"
+    "source_url": "https://www.dwds.de/wb/gefährlich"
   },
   {
     "word": "eigen",
@@ -16662,7 +16662,7 @@
     ],
     "decompositionMeaning": [
       "prefix: un",
-      "root word: bedingt"
+      "conditional"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -17088,8 +17088,8 @@
       "Apparat"
     ],
     "decompositionMeaning": [
-      "root word: Foto",
-      "root word: Apparat"
+      "Photo",
+      "Apparatus"
     ],
     "frequency": "3 out of 7",
     "connected_words": [
@@ -17364,16 +17364,16 @@
     "source_url": "https://www.dwds.de/wb/als"
   },
   {
-    "word": "auf%20keinen%20Fall",
+    "word": "auf keinen Fall",
     "partOfSpeech": "mehrwortausdruck",
-    "english": "on%20no%20case",
+    "english": "on no case",
     "composition": [
       "auf-",
-      "%20keinen%20Fall"
+      " keinen Fall"
     ],
     "decompositionMeaning": [
       "prefix: up, open",
-      "%20no%20case"
+      " no case"
     ],
     "frequency": null,
     "connected_words": [],
@@ -17463,7 +17463,7 @@
     ],
     "etymology": null,
     "compounds": [],
-    "source_url": "https://www.dwds.de/wb/auf%20keinen%20Fall"
+    "source_url": "https://www.dwds.de/wb/auf keinen Fall"
   },
   {
     "word": "Wald",
@@ -17930,7 +17930,7 @@
     ],
     "decompositionMeaning": [
       "prefix: excess, change",
-      "root word: schieben"
+      "push"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -18451,16 +18451,16 @@
     "source_url": "https://www.dwds.de/wb/Ampel"
   },
   {
-    "word": "zur%C3%BCckgehen",
+    "word": "zurückgehen",
     "partOfSpeech": "verb",
-    "english": "go back%C3%BCck",
+    "english": "go backück",
     "composition": [
       "zurück-",
       "gehen"
     ],
     "decompositionMeaning": [
       "prefix: zurück",
-      "root word: gehen"
+      "go"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -19241,15 +19241,15 @@
     "source_url": "https://www.dwds.de/wb/gesund"
   },
   {
-    "word": "%C3%9Cbersetzung",
+    "word": "Übersetzung",
     "partOfSpeech": "noun",
-    "english": "%C3%9Ctranslation",
+    "english": "Ütranslation",
     "composition": [
       "übersetzen",
       "-ung"
     ],
     "decompositionMeaning": [
-      "root word: übersetzen",
+      "translate",
       "suffix: action/process"
     ],
     "frequency": "4 out of 7",
@@ -19468,7 +19468,7 @@
     ],
     "decompositionMeaning": [
       "prefix: on, to",
-      "root word: sehen"
+      "see"
     ],
     "frequency": "5 out of 7",
     "connected_words": [
@@ -19944,7 +19944,7 @@
     ],
     "decompositionMeaning": [
       "prefix: makes transitive",
-      "root word: stehen"
+      "stand"
     ],
     "frequency": "5 out of 7",
     "connected_words": [
@@ -20124,7 +20124,7 @@
     ],
     "decompositionMeaning": [
       "prefix: out, off",
-      "root word: tauschen"
+      "swap"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -20430,16 +20430,16 @@
     "source_url": "https://www.dwds.de/wb/Blog"
   },
   {
-    "word": "bew%C3%B6lkt",
+    "word": "bewölkt",
     "partOfSpeech": "partizipiales adjektiv",
-    "english": "mov%C3%B6lkt",
+    "english": "movölkt",
     "composition": [
       "be-",
-      "w%C3%B6lkt"
+      "wölkt"
     ],
     "decompositionMeaning": [
       "prefix: makes transitive",
-      "w%C3%B6lkt"
+      "wölkt"
     ],
     "frequency": null,
     "connected_words": [],
@@ -20491,7 +20491,7 @@
       "stark bewölkt",
       "unbewölkt"
     ],
-    "source_url": "https://www.dwds.de/wb/bew%C3%B6lkt"
+    "source_url": "https://www.dwds.de/wb/bewölkt"
   },
   {
     "word": "mindestens",
@@ -20704,8 +20704,8 @@
       "Karte"
     ],
     "decompositionMeaning": [
-      "root word: Post",
-      "root word: Karte"
+      "Post",
+      "Map"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -20970,9 +20970,9 @@
     "source_url": "https://www.dwds.de/wb/Vogel"
   },
   {
-    "word": "%C3%A4ndern",
+    "word": "ändern",
     "partOfSpeech": "verb",
-    "english": "%C3%A4Change",
+    "english": "äChange",
     "composition": [],
     "decompositionMeaning": [],
     "frequency": "5 out of 7",
@@ -21085,7 +21085,7 @@
       "-nis"
     ],
     "decompositionMeaning": [
-      "root word: erlauben",
+      "allow",
       "suffix: result/state"
     ],
     "frequency": "4 out of 7",
@@ -21619,7 +21619,7 @@
       "-ig"
     ],
     "decompositionMeaning": [
-      "root word: Nebel",
+      "Fog",
       "suffix: quality"
     ],
     "frequency": "2 out of 7",
@@ -21777,10 +21777,10 @@
       "-isch"
     ],
     "decompositionMeaning": [
-      "root word: Typus",
+      "Type",
       "suffix: relating to",
-      "root word: ,",
-      "root word: Typ",
+      ",",
+      "Type",
       "suffix: relating to"
     ],
     "frequency": "5 out of 7",
@@ -22151,8 +22151,8 @@
       "Shirt"
     ],
     "decompositionMeaning": [
-      "root word: T",
-      "root word: Shirt"
+      "T",
+      "Shirt"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -22390,7 +22390,7 @@
     "source_url": "https://www.dwds.de/wb/Mailbox"
   },
   {
-    "word": "tr%C3%A4umen",
+    "word": "träumen",
     "partOfSpeech": "verb",
     "english": "dream",
     "composition": [],
@@ -22471,7 +22471,7 @@
       "-end"
     ],
     "decompositionMeaning": [
-      "root word: spannen",
+      "tension",
       "suffix: present participle"
     ],
     "frequency": "5 out of 7",
@@ -22588,16 +22588,16 @@
     "source_url": "https://www.dwds.de/wb/spannend"
   },
   {
-    "word": "gegen%C3%BCber#1",
+    "word": "gegenüber#1",
     "partOfSpeech": "preposition",
-    "english": "against%C3%BCber#1",
+    "english": "againstüber#1",
     "composition": [
       "gegen",
       "über"
     ],
     "decompositionMeaning": [
-      "root word: gegen",
-      "root word: über"
+      "against",
+      "about"
     ],
     "frequency": "5 out of 7",
     "connected_words": [
@@ -22647,7 +22647,7 @@
       "gegenüberstellen",
       "gegenübertreten"
     ],
-    "source_url": "https://www.dwds.de/wb/gegen%C3%BCber#1"
+    "source_url": "https://www.dwds.de/wb/gegenüber#1"
   },
   {
     "word": "wechseln",
@@ -23256,15 +23256,15 @@
     "source_url": "https://www.dwds.de/wb/Heft#1"
   },
   {
-    "word": "w%C3%BCnschen",
+    "word": "wünschen",
     "partOfSpeech": "verb",
     "english": "wish",
     "composition": [
-      "w%C3%BCns",
+      "wüns",
       "-chen"
     ],
     "decompositionMeaning": [
-      "w%C3%BCns",
+      "wüns",
       "suffix: diminutives"
     ],
     "frequency": "5 out of 7",
@@ -23397,7 +23397,7 @@
       "-ung"
     ],
     "decompositionMeaning": [
-      "root word: ausstellen",
+      "exhibit",
       "suffix: action/process"
     ],
     "frequency": "5 out of 7",
@@ -23576,7 +23576,7 @@
     "source_url": "https://www.dwds.de/wb/Ausstellung"
   },
   {
-    "word": "R%C3%A4tsel",
+    "word": "Rätsel",
     "partOfSpeech": "noun",
     "english": "Puzzle",
     "composition": [],
@@ -23720,8 +23720,8 @@
       "Ball"
     ],
     "decompositionMeaning": [
-      "root word: volley",
-      "root word: Ball"
+      "volley",
+      "Ball"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -23961,8 +23961,8 @@
       "Geld"
     ],
     "decompositionMeaning": [
-      "root word: Tasche",
-      "root word: Geld"
+      "Bag",
+      "money"
     ],
     "frequency": "3 out of 7",
     "connected_words": [],
@@ -24810,7 +24810,7 @@
       "-ieren"
     ],
     "decompositionMeaning": [
-      "root word: Fotografie",
+      "Photography",
       "suffix: ieren"
     ],
     "frequency": "4 out of 7",
@@ -24989,7 +24989,7 @@
       "-ig"
     ],
     "decompositionMeaning": [
-      "root word: Langeweile",
+      "Boredom",
       "suffix: quality"
     ],
     "frequency": "4 out of 7",
@@ -25479,7 +25479,7 @@
       "-ung"
     ],
     "decompositionMeaning": [
-      "root word: reinigen",
+      "clean",
       "suffix: action/process"
     ],
     "frequency": "4 out of 7",
@@ -26194,7 +26194,7 @@
     "source_url": "https://www.dwds.de/wb/her"
   },
   {
-    "word": "au%C3%9Ferhalb#2",
+    "word": "außerhalb#2",
     "partOfSpeech": "adverb",
     "english": "outside#2",
     "composition": [
@@ -26202,7 +26202,7 @@
       "-halb"
     ],
     "decompositionMeaning": [
-      "root word: außer",
+      "except",
       "suffix: halb"
     ],
     "frequency": "5 out of 7",
@@ -26229,7 +26229,7 @@
     ],
     "etymology": "outsideAdv. Prep. 'not in a certain area, not inside, outside'. For the method of education see half, half. The first component of the composition is the adjective ahd.ūʒaro, mhd.ūʒer (s.outer). The ahd.and mhd.forms still show remnants of the original inflectional ability of both parts of this connection (which grows out of an adjective and a noun) literally means 'on the outer side',ahd.ūʒarhalb,ūʒarūnhalbPrep. (around 1000),mhd.ūʒbehalf,-half,-halpAdv. prep.",
     "compounds": [],
-    "source_url": "https://www.dwds.de/wb/au%C3%9Ferhalb#2"
+    "source_url": "https://www.dwds.de/wb/außerhalb#2"
   },
   {
     "word": "Idee",
@@ -27144,7 +27144,7 @@
     ],
     "decompositionMeaning": [
       "prefix: makes transitive",
-      "root word: schwer"
+      "difficult"
     ],
     "frequency": null,
     "connected_words": [
@@ -27790,9 +27790,9 @@
     "source_url": "https://www.dwds.de/wb/wenigstens"
   },
   {
-    "word": "Universit%C3%A4t",
+    "word": "Universität",
     "partOfSpeech": "noun",
-    "english": "University%C3%A4t",
+    "english": "Universityät",
     "composition": [],
     "decompositionMeaning": [],
     "frequency": "5 out of 7",
@@ -28120,7 +28120,7 @@
     ],
     "decompositionMeaning": [
       "prefix: haupt",
-      "root word: Stadt"
+      "City"
     ],
     "frequency": "5 out of 7",
     "connected_words": [
@@ -28314,15 +28314,15 @@
     "source_url": "https://www.dwds.de/wb/Hauptstadt"
   },
   {
-    "word": "Sch%C3%BClerin",
+    "word": "Schülerin",
     "partOfSpeech": "noun",
-    "english": "Sch%C3%BCler",
+    "english": "Schüler",
     "composition": [
       "Schüler",
       "-in"
     ],
     "decompositionMeaning": [
-      "root word: Schüler",
+      "Students",
       "suffix: feminine"
     ],
     "frequency": "5 out of 7",
@@ -28666,15 +28666,15 @@
     "source_url": "https://www.dwds.de/wb/Grippe"
   },
   {
-    "word": "K%C3%B6rper",
+    "word": "Körper",
     "partOfSpeech": "noun",
-    "english": "K%C3%B6body",
+    "english": "Köbody",
     "composition": [
-      "K%C3%B6rp",
+      "Körp",
       "-er"
     ],
     "decompositionMeaning": [
-      "K%C3%B6rp",
+      "Körp",
       "suffix: noun-derived (adj.)"
     ],
     "frequency": "5 out of 7",
@@ -28837,7 +28837,7 @@
       "-schaft"
     ],
     "decompositionMeaning": [
-      "root word: Land",
+      "Country",
       "suffix: collective/state"
     ],
     "frequency": "5 out of 7",
@@ -29238,7 +29238,7 @@
     "source_url": "https://www.dwds.de/wb/Zelt"
   },
   {
-    "word": "zur%C3%BCckkommen",
+    "word": "zurückkommen",
     "partOfSpeech": "verb",
     "english": "come back",
     "composition": [
@@ -29247,7 +29247,7 @@
     ],
     "decompositionMeaning": [
       "prefix: zurück",
-      "root word: kommen"
+      "come"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -29391,8 +29391,8 @@
       "auf"
     ],
     "decompositionMeaning": [
-      "root word: da",
-      "root word: auf"
+      "there",
+      "on"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -29696,8 +29696,8 @@
       "Markt"
     ],
     "decompositionMeaning": [
-      "root word: Floh",
-      "root word: Markt"
+      "Flea",
+      "Market"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -29954,7 +29954,7 @@
     ],
     "decompositionMeaning": [
       "prefix: makes transitive",
-      "root word: enden"
+      "end"
     ],
     "frequency": "5 out of 7",
     "connected_words": [
@@ -31044,8 +31044,8 @@
       "Tuch"
     ],
     "decompositionMeaning": [
-      "root word: Hand",
-      "root word: Tuch"
+      "hand",
+      "Cloth"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -31443,8 +31443,8 @@
       "Weg"
     ],
     "decompositionMeaning": [
-      "root word: unter",
-      "root word: Weg"
+      "under",
+      "way"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -31752,16 +31752,16 @@
     "source_url": "https://www.dwds.de/wb/Zirkus"
   },
   {
-    "word": "%C3%BCberall",
+    "word": "überall",
     "partOfSpeech": "adverb",
-    "english": "%C3%BCeverywhere",
+    "english": "üeverywhere",
     "composition": [
       "über",
       "all"
     ],
     "decompositionMeaning": [
-      "root word: über",
-      "root word: all"
+      "about",
+      "all"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -33081,7 +33081,7 @@
       "-ung"
     ],
     "decompositionMeaning": [
-      "root word: heizen",
+      "heat",
       "suffix: action/process"
     ],
     "frequency": "4 out of 7",
@@ -33308,7 +33308,7 @@
       "-in"
     ],
     "decompositionMeaning": [
-      "root word: Chef",
+      "Boss",
       "suffix: feminine"
     ],
     "frequency": "4 out of 7",
@@ -33494,8 +33494,8 @@
       "Zimmer"
     ],
     "decompositionMeaning": [
-      "root word: wohnen",
-      "root word: Zimmer"
+      "live",
+      "Room"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -33614,7 +33614,7 @@
     "source_url": "https://www.dwds.de/wb/Wohnzimmer"
   },
   {
-    "word": "B%C3%BCro",
+    "word": "Büro",
     "partOfSpeech": "noun",
     "english": "Office",
     "composition": [],
@@ -33796,7 +33796,7 @@
       "Bürodiener",
       "Bürodrehstuhl"
     ],
-    "source_url": "https://www.dwds.de/wb/B%C3%BCro"
+    "source_url": "https://www.dwds.de/wb/Büro"
   },
   {
     "word": "dagegen",
@@ -33807,8 +33807,8 @@
       "gegen"
     ],
     "decompositionMeaning": [
-      "root word: da",
-      "root word: gegen"
+      "there",
+      "against"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -33911,15 +33911,15 @@
     "source_url": "https://www.dwds.de/wb/dagegen"
   },
   {
-    "word": "vorw%C3%A4rts",
+    "word": "vorwärts",
     "partOfSpeech": "adverb",
-    "english": "forward%C3%A4rts",
+    "english": "forwardärts",
     "composition": [
       "vor",
       "-wärts"
     ],
     "decompositionMeaning": [
-      "root word: vor",
+      "before",
       "suffix: wärts"
     ],
     "frequency": "4 out of 7",
@@ -34158,8 +34158,8 @@
       "erst"
     ],
     "decompositionMeaning": [
-      "root word: zu",
-      "root word: erst"
+      "to",
+      "first"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -34518,15 +34518,15 @@
     "source_url": "https://www.dwds.de/wb/husten"
   },
   {
-    "word": "nat%C3%BCrlich",
+    "word": "natürlich",
     "partOfSpeech": "adjective",
-    "english": "of course%C3%BCrlich",
+    "english": "of courseürlich",
     "composition": [
       "Natur",
       "-lich"
     ],
     "decompositionMeaning": [
-      "root word: Natur",
+      "Nature",
       "suffix: characteristic"
     ],
     "frequency": "6 out of 7",
@@ -34696,7 +34696,7 @@
       "-lich"
     ],
     "decompositionMeaning": [
-      "root word: Ende",
+      "End",
       "suffix: characteristic"
     ],
     "frequency": "5 out of 7",
@@ -35546,8 +35546,8 @@
       "wert"
     ],
     "decompositionMeaning": [
-      "root word: Preis",
-      "root word: wert"
+      "Price",
+      "worth"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -35668,7 +35668,7 @@
       "-los"
     ],
     "decompositionMeaning": [
-      "root word: Kosten",
+      "Costs",
       "suffix: without"
     ],
     "frequency": "5 out of 7",
@@ -35833,16 +35833,16 @@
     "source_url": "https://www.dwds.de/wb/kostenlos"
   },
   {
-    "word": "%C3%BCbermorgen",
+    "word": "übermorgen",
     "partOfSpeech": "adverb",
-    "english": "%C3%BCafter tomorrow",
+    "english": "üafter tomorrow",
     "composition": [
       "über",
       "morgen"
     ],
     "decompositionMeaning": [
-      "root word: über",
-      "root word: morgen"
+      "about",
+      "tomorrow"
     ],
     "frequency": "3 out of 7",
     "connected_words": [],
@@ -35864,16 +35864,16 @@
     "source_url": "https://www.dwds.de/wb/übermorgen"
   },
   {
-    "word": "zur%C3%BCcklaufen",
+    "word": "zurücklaufen",
     "partOfSpeech": "verb",
-    "english": "go back to%C3%BC",
+    "english": "go back toü",
     "composition": [
       "zurück-",
       "laufen"
     ],
     "decompositionMeaning": [
       "prefix: zurück",
-      "root word: laufen"
+      "run"
     ],
     "frequency": "2 out of 7",
     "connected_words": [],
@@ -35970,15 +35970,15 @@
     "source_url": "https://www.dwds.de/wb/zurücklaufen"
   },
   {
-    "word": "pl%C3%B6tzlich",
+    "word": "plötzlich",
     "partOfSpeech": "adjective",
     "english": "suddenly",
     "composition": [
-      "pl%C3%B6tz",
+      "plötz",
       "-lich"
     ],
     "decompositionMeaning": [
-      "pl%C3%B6tz",
+      "plötz",
       "suffix: characteristic/manner"
     ],
     "frequency": "5 out of 7",
@@ -36921,16 +36921,16 @@
     "source_url": "https://www.dwds.de/wb/ziehen"
   },
   {
-    "word": "zur%C3%BCckfahren",
+    "word": "zurückfahren",
     "partOfSpeech": "verb",
-    "english": "back%C3%BCow",
+    "english": "backüow",
     "composition": [
       "zurück-",
       "fahren"
     ],
     "decompositionMeaning": [
       "prefix: zurück",
-      "root word: fahren"
+      "drive"
     ],
     "frequency": "3 out of 7",
     "connected_words": [],
@@ -37067,8 +37067,8 @@
       "Haus"
     ],
     "decompositionMeaning": [
-      "root word: Rat",
-      "root word: Haus"
+      "Advice",
+      "House"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -37157,7 +37157,7 @@
     "source_url": "https://www.dwds.de/wb/Rathaus"
   },
   {
-    "word": "pr%C3%BCfen",
+    "word": "prüfen",
     "partOfSpeech": "verb",
     "english": "check",
     "composition": [],
@@ -37337,7 +37337,7 @@
       "-isch"
     ],
     "decompositionMeaning": [
-      "root word: Fantast",
+      "Fantastic",
       "suffix: relating to"
     ],
     "frequency": "4 out of 7",
@@ -38050,8 +38050,8 @@
       "gestern"
     ],
     "decompositionMeaning": [
-      "root word: vor",
-      "root word: gestern"
+      "before",
+      "yesterday"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -38234,7 +38234,7 @@
       "-er"
     ],
     "decompositionMeaning": [
-      "root word: mitarbeiten",
+      "collaborate",
       "suffix: agent/doer"
     ],
     "frequency": "5 out of 7",
@@ -38629,7 +38629,7 @@
     ],
     "decompositionMeaning": [
       "prefix: out, off",
-      "root word: geben"
+      "give"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -38788,7 +38788,7 @@
     ],
     "decompositionMeaning": [
       "prefix: under",
-      "root word: halten"
+      "hold"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -38838,7 +38838,7 @@
     ],
     "decompositionMeaning": [
       "prefix: excess, change",
-      "root word: passen"
+      "fit"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -38959,7 +38959,7 @@
       "-in"
     ],
     "decompositionMeaning": [
-      "root word: Vermieter",
+      "Landlord",
       "suffix: feminine"
     ],
     "frequency": "3 out of 7",
@@ -39220,7 +39220,7 @@
     "source_url": "https://www.dwds.de/wb/trocken"
   },
   {
-    "word": "aufr%C3%A4umen",
+    "word": "aufräumen",
     "partOfSpeech": "verb",
     "english": "tidy up the room",
     "composition": [
@@ -39229,7 +39229,7 @@
     ],
     "decompositionMeaning": [
       "prefix: up, open",
-      "root word: räumen"
+      "clear"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -39397,7 +39397,7 @@
       "Aufräumung",
       "aufgeräumt"
     ],
-    "source_url": "https://www.dwds.de/wb/aufr%C3%A4umen"
+    "source_url": "https://www.dwds.de/wb/aufräumen"
   },
   {
     "word": "Kontakt",
@@ -40020,7 +40020,7 @@
     ],
     "decompositionMeaning": [
       "prefix: makes transitive",
-      "root word: raten"
+      "guess"
     ],
     "frequency": "5 out of 7",
     "connected_words": [
@@ -40361,7 +40361,7 @@
     ],
     "decompositionMeaning": [
       "prefix: excess, change",
-      "root word: reisen"
+      "travel"
     ],
     "frequency": "3 out of 7",
     "connected_words": [],
@@ -40886,8 +40886,8 @@
       "Stunde"
     ],
     "decompositionMeaning": [
-      "root word: sprechen",
-      "root word: Stunde"
+      "speak",
+      "hour"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -41185,7 +41185,7 @@
     ],
     "decompositionMeaning": [
       "prefix: makes transitive",
-      "root word: eilen"
+      "rush"
     ],
     "frequency": "3 out of 7",
     "connected_words": [
@@ -41357,8 +41357,8 @@
       "Plan"
     ],
     "decompositionMeaning": [
-      "root word: fahren",
-      "root word: Plan"
+      "drive",
+      "plan"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -41564,7 +41564,7 @@
       "-in"
     ],
     "decompositionMeaning": [
-      "root word: Nachbar",
+      "Neighbor",
       "suffix: feminine"
     ],
     "frequency": "4 out of 7",
@@ -41650,7 +41650,7 @@
     "source_url": "https://www.dwds.de/wb/Nachbarin"
   },
   {
-    "word": "h%C3%A4sslich",
+    "word": "hässlich",
     "partOfSpeech": "adjective",
     "english": "ugly",
     "composition": [
@@ -41658,7 +41658,7 @@
       "-lich"
     ],
     "decompositionMeaning": [
-      "root word: Hass",
+      "Hate",
       "suffix: characteristic"
     ],
     "frequency": null,
@@ -41830,7 +41830,7 @@
       "potthässlich",
       "verhässlichen"
     ],
-    "source_url": "https://www.dwds.de/wb/h%C3%A4sslich"
+    "source_url": "https://www.dwds.de/wb/hässlich"
   },
   {
     "word": "aufpassen",
@@ -41842,7 +41842,7 @@
     ],
     "decompositionMeaning": [
       "prefix: up, open",
-      "root word: passen"
+      "fit"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -42127,7 +42127,7 @@
     "source_url": "https://www.dwds.de/wb/Vertrag"
   },
   {
-    "word": "au%C3%9Fer#1",
+    "word": "außer#1",
     "partOfSpeech": "preposition",
     "english": "except#1",
     "composition": [],
@@ -42166,7 +42166,7 @@
       "außer Stand",
       "außer-"
     ],
-    "source_url": "https://www.dwds.de/wb/au%C3%9Fer#1"
+    "source_url": "https://www.dwds.de/wb/außer#1"
   },
   {
     "word": "bewerben",
@@ -42178,7 +42178,7 @@
     ],
     "decompositionMeaning": [
       "prefix: makes transitive",
-      "root word: werben"
+      "advertise"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -42617,7 +42617,7 @@
     "source_url": "https://www.dwds.de/wb/wahr"
   },
   {
-    "word": "au%C3%9Ferdem",
+    "word": "außerdem",
     "partOfSpeech": "adverb",
     "english": "also",
     "composition": [
@@ -42625,8 +42625,8 @@
       "dem"
     ],
     "decompositionMeaning": [
-      "root word: außer",
-      "root word: dem"
+      "except",
+      "the"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -42728,7 +42728,7 @@
     ],
     "etymology": null,
     "compounds": [],
-    "source_url": "https://www.dwds.de/wb/au%C3%9Ferdem"
+    "source_url": "https://www.dwds.de/wb/außerdem"
   },
   {
     "word": "Sache",
@@ -42873,16 +42873,16 @@
     "source_url": "https://www.dwds.de/wb/Sache"
   },
   {
-    "word": "gegen%C3%BCber#2",
+    "word": "gegenüber#2",
     "partOfSpeech": "adverb",
-    "english": "against%C3%BCber#2",
+    "english": "againstüber#2",
     "composition": [
       "gegen",
       "über"
     ],
     "decompositionMeaning": [
-      "root word: gegen",
-      "root word: über"
+      "against",
+      "about"
     ],
     "frequency": "5 out of 7",
     "connected_words": [
@@ -42932,7 +42932,7 @@
       "gegenüberstellen",
       "gegenübertreten"
     ],
-    "source_url": "https://www.dwds.de/wb/gegen%C3%BCber#2"
+    "source_url": "https://www.dwds.de/wb/gegenüber#2"
   },
   {
     "word": "Pizza",
@@ -43065,7 +43065,7 @@
     ],
     "decompositionMeaning": [
       "prefix: from",
-      "root word: stellen"
+      "put"
     ],
     "frequency": "5 out of 7",
     "connected_words": [
@@ -43166,7 +43166,7 @@
     ],
     "decompositionMeaning": [
       "prefix: excess, change",
-      "root word: lieben"
+      "love"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -43316,7 +43316,7 @@
       "-nis"
     ],
     "decompositionMeaning": [
-      "root word: zeugen",
+      "procreate",
       "suffix: result/state"
     ],
     "frequency": "4 out of 7",
@@ -43461,10 +43461,10 @@
       "-lich"
     ],
     "decompositionMeaning": [
-      "root word: schrecken",
+      "scare",
       "suffix: characteristic",
-      "root word: ,",
-      "root word: Schreck",
+      ",",
+      "Shock",
       "suffix: characteristic"
     ],
     "frequency": "4 out of 7",
@@ -43993,7 +43993,7 @@
     "source_url": "https://www.dwds.de/wb/streiten"
   },
   {
-    "word": "M%C3%BCll",
+    "word": "Müll",
     "partOfSpeech": "noun",
     "english": "Garbage",
     "composition": [],
@@ -44591,7 +44591,7 @@
     ],
     "decompositionMeaning": [
       "prefix: to, closed",
-      "root word: machen"
+      "make"
     ],
     "frequency": "3 out of 7",
     "connected_words": [],
@@ -44733,8 +44733,8 @@
       "-ig"
     ],
     "decompositionMeaning": [
-      "root word: frei",
-      "root word: Wille",
+      "free",
+      "Will",
       "suffix: quality"
     ],
     "frequency": "5 out of 7",
@@ -45017,16 +45017,16 @@
     "source_url": "https://www.dwds.de/wb/romantisch"
   },
   {
-    "word": "%C3%BCbersetzen",
+    "word": "übersetzen",
     "partOfSpeech": "verb",
-    "english": "%C3%BC translate",
+    "english": "ü translate",
     "composition": [
       "über-",
       "setzen"
     ],
     "decompositionMeaning": [
       "prefix: over / translate",
-      "root word: setzen"
+      "set"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -45702,8 +45702,8 @@
       "Herberge"
     ],
     "decompositionMeaning": [
-      "root word: Jugend",
-      "root word: Herberge"
+      "Youth",
+      "Hostel"
     ],
     "frequency": "3 out of 7",
     "connected_words": [
@@ -46090,16 +46090,16 @@
     "source_url": "https://www.dwds.de/wb/hart#1"
   },
   {
-    "word": "F%C3%BChrerschein",
+    "word": "Führerschein",
     "partOfSpeech": "noun",
-    "english": "F%C3%BCherschein",
+    "english": "Füherschein",
     "composition": [
       "Führer",
       "Schein"
     ],
     "decompositionMeaning": [
-      "root word: Führer",
-      "root word: Schein"
+      "Guide",
+      "Appearance"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -46278,7 +46278,7 @@
       "Büchereiführerschein",
       "Busführerschein"
     ],
-    "source_url": "https://www.dwds.de/wb/F%C3%BChrerschein"
+    "source_url": "https://www.dwds.de/wb/Führerschein"
   },
   {
     "word": "Sendung",
@@ -46289,7 +46289,7 @@
       "-ung"
     ],
     "decompositionMeaning": [
-      "root word: senden",
+      "send",
       "suffix: action/process"
     ],
     "frequency": "4 out of 7",
@@ -46427,7 +46427,7 @@
       "-ung"
     ],
     "decompositionMeaning": [
-      "root word: ahnen",
+      "guess",
       "suffix: action/process"
     ],
     "frequency": "4 out of 7",
@@ -46608,8 +46608,8 @@
       "Telefon"
     ],
     "decompositionMeaning": [
-      "root word: mobil",
-      "root word: Telefon"
+      "mobile",
+      "Telephone"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -47386,7 +47386,7 @@
     ],
     "decompositionMeaning": [
       "prefix: in, into",
-      "root word: packen"
+      "pack"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -47607,7 +47607,7 @@
       "-ieren"
     ],
     "decompositionMeaning": [
-      "root word: Interesse",
+      "interest",
       "suffix: ieren"
     ],
     "frequency": "5 out of 7",
@@ -48549,7 +48549,7 @@
       "-heit"
     ],
     "decompositionMeaning": [
-      "root word: krank",
+      "sick",
       "suffix: abstract noun"
     ],
     "frequency": "5 out of 7",
@@ -48740,8 +48740,8 @@
       "Kasse"
     ],
     "decompositionMeaning": [
-      "root word: Kranke",
-      "root word: Kasse"
+      "Sick",
+      "Checkout"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -48919,7 +48919,7 @@
     "source_url": "https://www.dwds.de/wb/Krankenkasse"
   },
   {
-    "word": "st%C3%B6ren",
+    "word": "stören",
     "partOfSpeech": "verb",
     "english": "disturb",
     "composition": [],
@@ -49051,9 +49051,9 @@
     "source_url": "https://www.dwds.de/wb/stören"
   },
   {
-    "word": "ein%20Mal",
+    "word": "ein Mal",
     "partOfSpeech": "adverb",
-    "english": "one%20 times",
+    "english": "one  times",
     "composition": [
       "ein",
       "Mal",
@@ -49062,11 +49062,11 @@
       "mal"
     ],
     "decompositionMeaning": [
-      "root word: ein",
-      "root word: Mal",
-      "root word: ,",
-      "root word: ein",
-      "root word: mal"
+      "a",
+      "Times",
+      ",",
+      "a",
+      "times"
     ],
     "frequency": null,
     "connected_words": [],
@@ -49177,7 +49177,7 @@
       "Einmalzahlung",
       "irgendeinmal"
     ],
-    "source_url": "https://www.dwds.de/wb/ein%20Mal"
+    "source_url": "https://www.dwds.de/wb/ein Mal"
   },
   {
     "word": "unterhalten",
@@ -49189,7 +49189,7 @@
     ],
     "decompositionMeaning": [
       "prefix: under",
-      "root word: halten"
+      "hold"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -49238,8 +49238,8 @@
       "Gang"
     ],
     "decompositionMeaning": [
-      "root word: rund",
-      "root word: Gang"
+      "round",
+      "Gear"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -49802,7 +49802,7 @@
       "-schaft"
     ],
     "decompositionMeaning": [
-      "root word: Mann",
+      "Man",
       "suffix: collective/state"
     ],
     "frequency": "5 out of 7",
@@ -49985,7 +49985,7 @@
       "-in"
     ],
     "decompositionMeaning": [
-      "root word: Tourist",
+      "Tourist",
       "suffix: feminine"
     ],
     "frequency": "3 out of 7",
@@ -50362,7 +50362,7 @@
       "-ung"
     ],
     "decompositionMeaning": [
-      "root word: erfahren",
+      "learn",
       "suffix: action/process"
     ],
     "frequency": "5 out of 7",
@@ -50855,7 +50855,7 @@
     ],
     "decompositionMeaning": [
       "prefix: under",
-      "root word: suchen"
+      "search"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -51239,7 +51239,7 @@
     ],
     "decompositionMeaning": [
       "prefix: out, off",
-      "root word: tragen"
+      "wear"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -51590,8 +51590,8 @@
       "Seite"
     ],
     "decompositionMeaning": [
-      "root word: Web",
-      "root word: Seite"
+      "Web",
+      "Page"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -51706,9 +51706,9 @@
     "source_url": "https://www.dwds.de/wb/Webseite"
   },
   {
-    "word": "zur%C3%BCck-",
+    "word": "zurück-",
     "partOfSpeech": "affix",
-    "english": "to%C3%BCck-",
+    "english": "toück-",
     "composition": [],
     "decompositionMeaning": [],
     "frequency": null,
@@ -51934,7 +51934,7 @@
       "-ig"
     ],
     "decompositionMeaning": [
-      "root word: Witz",
+      "joke",
       "suffix: quality"
     ],
     "frequency": "4 out of 7",
@@ -52220,7 +52220,7 @@
       "-in"
     ],
     "decompositionMeaning": [
-      "root word: Freund",
+      "friend",
       "suffix: feminine"
     ],
     "frequency": "5 out of 7",
@@ -52503,9 +52503,9 @@
     "source_url": "https://www.dwds.de/wb/Fach#2"
   },
   {
-    "word": "%C3%A4rgern",
+    "word": "ärgern",
     "partOfSpeech": "verb",
-    "english": "%C3%A4anger",
+    "english": "äanger",
     "composition": [],
     "decompositionMeaning": [],
     "frequency": "4 out of 7",
@@ -52627,7 +52627,7 @@
       "-lich"
     ],
     "decompositionMeaning": [
-      "root word: wirken",
+      "work",
       "suffix: characteristic"
     ],
     "frequency": "5 out of 7",
@@ -52804,7 +52804,7 @@
       "-ung"
     ],
     "decompositionMeaning": [
-      "root word: veranstalten",
+      "organize",
       "suffix: action/process"
     ],
     "frequency": "5 out of 7",
@@ -53311,7 +53311,7 @@
       "-lich"
     ],
     "decompositionMeaning": [
-      "root word: Sport",
+      "sport",
       "suffix: characteristic"
     ],
     "frequency": "5 out of 7",
@@ -54091,7 +54091,7 @@
       "-lich"
     ],
     "decompositionMeaning": [
-      "root word: eigen",
+      "own",
       "suffix: characteristic"
     ],
     "frequency": "5 out of 7",
@@ -55269,15 +55269,15 @@
     "source_url": "https://www.dwds.de/wb/Spiel"
   },
   {
-    "word": "M%C3%BCtze",
+    "word": "Mütze",
     "partOfSpeech": "noun",
     "english": "Hat",
     "composition": [
-      "M%C3%BCtz",
+      "Mütz",
       "-e"
     ],
     "decompositionMeaning": [
-      "M%C3%BCtz",
+      "Mütz",
       "suffix: verb→noun"
     ],
     "frequency": "4 out of 7",
@@ -55515,7 +55515,7 @@
     "source_url": "https://www.dwds.de/wb/Rock"
   },
   {
-    "word": "h%C3%A4ngen#2",
+    "word": "hängen#2",
     "partOfSpeech": "verb",
     "english": "hang#2",
     "composition": [],
@@ -55616,18 +55616,18 @@
       "Hängegerüst",
       "Hängegleiter"
     ],
-    "source_url": "https://www.dwds.de/wb/h%C3%A4ngen#2"
+    "source_url": "https://www.dwds.de/wb/hängen#2"
   },
   {
-    "word": "bl%C3%B6de",
+    "word": "blöde",
     "partOfSpeech": "adjective",
     "english": "stupid",
     "composition": [
-      "bl%C3%B6d",
+      "blöd",
       "-e"
     ],
     "decompositionMeaning": [
-      "bl%C3%B6d",
+      "blöd",
       "suffix: verb→noun"
     ],
     "frequency": null,
@@ -55807,7 +55807,7 @@
       "halbblöde",
       "saublöd"
     ],
-    "source_url": "https://www.dwds.de/wb/bl%C3%B6de"
+    "source_url": "https://www.dwds.de/wb/blöde"
   },
   {
     "word": "Kultur",
@@ -55979,15 +55979,15 @@
     "source_url": "https://www.dwds.de/wb/Kultur"
   },
   {
-    "word": "Br%C3%BCcke",
+    "word": "Brücke",
     "partOfSpeech": "noun",
     "english": "Bridge",
     "composition": [
-      "Br%C3%BCck",
+      "Brück",
       "-e"
     ],
     "decompositionMeaning": [
-      "Br%C3%BCck",
+      "Brück",
       "suffix: verb→noun"
     ],
     "frequency": "5 out of 7",
@@ -56183,7 +56183,7 @@
       "Brückengegner",
       "Brückengeländer"
     ],
-    "source_url": "https://www.dwds.de/wb/Br%C3%BCcke"
+    "source_url": "https://www.dwds.de/wb/Brücke"
   },
   {
     "word": "Zoo",
@@ -56598,8 +56598,8 @@
       "Roller"
     ],
     "decompositionMeaning": [
-      "root word: Motor",
-      "root word: Roller"
+      "Engine",
+      "Scooter"
     ],
     "frequency": "3 out of 7",
     "connected_words": [
@@ -56725,7 +56725,7 @@
       "-ig"
     ],
     "decompositionMeaning": [
-      "root word: Schmutz",
+      "Dirt",
       "suffix: quality"
     ],
     "frequency": "4 out of 7",
@@ -56853,8 +56853,8 @@
       "Sache"
     ],
     "decompositionMeaning": [
-      "root word: Fund",
-      "root word: Sache"
+      "Find",
+      "thing"
     ],
     "frequency": "3 out of 7",
     "connected_words": [
@@ -56939,7 +56939,7 @@
     "source_url": "https://www.dwds.de/wb/Fundsache"
   },
   {
-    "word": "begr%C3%BCnden",
+    "word": "begründen",
     "partOfSpeech": "verb",
     "english": "justify",
     "composition": [
@@ -56948,7 +56948,7 @@
     ],
     "decompositionMeaning": [
       "prefix: makes transitive",
-      "root word: gründen"
+      "found"
     ],
     "frequency": "5 out of 7",
     "connected_words": [
@@ -57036,7 +57036,7 @@
       "mitbegründen",
       "begründet"
     ],
-    "source_url": "https://www.dwds.de/wb/begr%C3%BCnden"
+    "source_url": "https://www.dwds.de/wb/begründen"
   },
   {
     "word": "Kunst",
@@ -57364,8 +57364,8 @@
       "Haus"
     ],
     "decompositionMeaning": [
-      "root word: kaufen",
-      "root word: Haus"
+      "buy",
+      "House"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -57608,7 +57608,7 @@
     "source_url": "https://www.dwds.de/wb/Ding#1"
   },
   {
-    "word": "T%C3%BCr",
+    "word": "Tür",
     "partOfSpeech": "noun",
     "english": "door",
     "composition": [],
@@ -58256,7 +58256,7 @@
       "-ung"
     ],
     "decompositionMeaning": [
-      "root word: ausbilden",
+      "train",
       "suffix: action/process"
     ],
     "frequency": "5 out of 7",
@@ -58448,7 +58448,7 @@
     ],
     "decompositionMeaning": [
       "prefix: super",
-      "root word: Markt"
+      "Market"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -58554,9 +58554,9 @@
     "source_url": "https://www.dwds.de/wb/Supermarkt"
   },
   {
-    "word": "w%C3%A4hlen",
+    "word": "wählen",
     "partOfSpeech": "verb",
-    "english": "choose%C3%A4choose",
+    "english": "chooseächoose",
     "composition": [],
     "decompositionMeaning": [],
     "frequency": "5 out of 7",
@@ -58947,7 +58947,7 @@
     "source_url": "https://www.dwds.de/wb/nass"
   },
   {
-    "word": "k%C3%BChl",
+    "word": "kühl",
     "partOfSpeech": "adjective",
     "english": "cool",
     "composition": [],
@@ -59121,8 +59121,8 @@
       "Gang"
     ],
     "decompositionMeaning": [
-      "root word: spazieren",
-      "root word: Gang"
+      "for a walk",
+      "Gear"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -59445,7 +59445,7 @@
     ],
     "decompositionMeaning": [
       "prefix: under",
-      "root word: nehmen"
+      "take"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -59558,7 +59558,7 @@
     "source_url": "https://www.dwds.de/wb/unternehmen"
   },
   {
-    "word": "Spa%C3%9F",
+    "word": "Spaß",
     "partOfSpeech": "noun",
     "english": "Fun",
     "composition": [],
@@ -59719,7 +59719,7 @@
     ],
     "decompositionMeaning": [
       "prefix: excess, change",
-      "root word: bieten"
+      "offer"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -59844,7 +59844,7 @@
     ],
     "decompositionMeaning": [
       "prefix: excess, change",
-      "root word: abreden"
+      "to agree"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -59991,7 +59991,7 @@
       "-isch"
     ],
     "decompositionMeaning": [
-      "root word: Sympathie",
+      "Sympathy",
       "suffix: relating to"
     ],
     "frequency": "4 out of 7",
@@ -60109,7 +60109,7 @@
     "source_url": "https://www.dwds.de/wb/sympathisch"
   },
   {
-    "word": "St%C3%BCck",
+    "word": "Stück",
     "partOfSpeech": "noun",
     "english": "piece",
     "composition": [],
@@ -60245,7 +60245,7 @@
       "-ig"
     ],
     "decompositionMeaning": [
-      "root word: Sonne",
+      "Sun",
       "suffix: quality"
     ],
     "frequency": "4 out of 7",
@@ -60351,8 +60351,8 @@
       "gar"
     ],
     "decompositionMeaning": [
-      "root word: so",
-      "root word: gar"
+      "like this",
+      "even"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -60820,16 +60820,16 @@
     "source_url": "https://www.dwds.de/wb/Interesse"
   },
   {
-    "word": "best%C3%A4tigen",
+    "word": "bestätigen",
     "partOfSpeech": "verb",
     "english": "confirm",
     "composition": [
       "be-",
-      "st%C3%A4tigen"
+      "stätigen"
     ],
     "decompositionMeaning": [
       "prefix: makes transitive",
-      "st%C3%A4tigen"
+      "stätigen"
     ],
     "frequency": "5 out of 7",
     "connected_words": [
@@ -60980,7 +60980,7 @@
       "gegenbestätigen",
       "rückbestätigen"
     ],
-    "source_url": "https://www.dwds.de/wb/best%C3%A4tigen"
+    "source_url": "https://www.dwds.de/wb/bestätigen"
   },
   {
     "word": "Stift",
@@ -61269,7 +61269,7 @@
       "-ner"
     ],
     "decompositionMeaning": [
-      "root word: Rente",
+      "Pension",
       "suffix: ner"
     ],
     "frequency": "4 out of 7",
@@ -61545,16 +61545,16 @@
     "source_url": "https://www.dwds.de/wb/Tablette"
   },
   {
-    "word": "H%C3%A4ndetuch",
+    "word": "Händetuch",
     "partOfSpeech": "noun",
-    "english": "H%C3%A4nde cloth",
+    "english": "Hände cloth",
     "composition": [
       "Hand",
       "Tuch"
     ],
     "decompositionMeaning": [
-      "root word: Hand",
-      "root word: Tuch"
+      "hand",
+      "Cloth"
     ],
     "frequency": null,
     "connected_words": [
@@ -61689,7 +61689,7 @@
       "Papierhandtuch",
       "Saunahandtuch"
     ],
-    "source_url": "https://www.dwds.de/wb/H%C3%A4ndetuch"
+    "source_url": "https://www.dwds.de/wb/Händetuch"
   },
   {
     "word": "Bewerbung",
@@ -61700,7 +61700,7 @@
       "-ung"
     ],
     "decompositionMeaning": [
-      "root word: bewerben",
+      "apply",
       "suffix: action/process"
     ],
     "frequency": "4 out of 7",
@@ -61879,7 +61879,7 @@
     "source_url": "https://www.dwds.de/wb/Bewerbung"
   },
   {
-    "word": "sch%C3%A4dlich",
+    "word": "schädlich",
     "partOfSpeech": "adjective",
     "english": "harmful",
     "composition": [
@@ -61887,7 +61887,7 @@
       "-lich"
     ],
     "decompositionMeaning": [
-      "root word: schaden",
+      "damage",
       "suffix: characteristic"
     ],
     "frequency": "4 out of 7",
@@ -62021,7 +62021,7 @@
       "-lich"
     ],
     "decompositionMeaning": [
-      "root word: deuten",
+      "interpret",
       "suffix: characteristic"
     ],
     "frequency": "5 out of 7",
@@ -62341,7 +62341,7 @@
       "-lich"
     ],
     "decompositionMeaning": [
-      "root word: Freund",
+      "friend",
       "suffix: characteristic"
     ],
     "frequency": "5 out of 7",
@@ -62521,7 +62521,7 @@
       "-in"
     ],
     "decompositionMeaning": [
-      "root word: Student",
+      "Student",
       "suffix: feminine"
     ],
     "frequency": "4 out of 7",
@@ -62568,7 +62568,7 @@
     ],
     "decompositionMeaning": [
       "prefix: out, off",
-      "root word: ruhen"
+      "rest"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -62926,8 +62926,8 @@
       "Haus"
     ],
     "decompositionMeaning": [
-      "root word: Kranke",
-      "root word: Haus"
+      "Sick",
+      "House"
     ],
     "frequency": "5 out of 7",
     "connected_words": [
@@ -63109,15 +63109,15 @@
     "source_url": "https://www.dwds.de/wb/Krankenhaus"
   },
   {
-    "word": "dar%C3%BCber",
+    "word": "darüber",
     "partOfSpeech": "pronominaladverb",
     "english": "above",
     "composition": [
-      "dar%C3%BCb",
+      "darüb",
       "-er"
     ],
     "decompositionMeaning": [
-      "dar%C3%BCb",
+      "darüb",
       "suffix: noun-derived (adj.)"
     ],
     "frequency": "5 out of 7",
@@ -63214,7 +63214,7 @@
     "compounds": [
       "darüber-"
     ],
-    "source_url": "https://www.dwds.de/wb/dar%C3%BCber"
+    "source_url": "https://www.dwds.de/wb/darüber"
   },
   {
     "word": "windig",
@@ -63225,7 +63225,7 @@
       "-ig"
     ],
     "decompositionMeaning": [
-      "root word: Wind",
+      "Wind",
       "suffix: quality"
     ],
     "frequency": "3 out of 7",
@@ -64603,8 +64603,8 @@
       "aus"
     ],
     "decompositionMeaning": [
-      "root word: her",
-      "root word: aus"
+      "here",
+      "from"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -64647,7 +64647,7 @@
     "source_url": "https://www.dwds.de/wb/heraus"
   },
   {
-    "word": "tsch%C3%BCss",
+    "word": "tschüss",
     "partOfSpeech": "interjection",
     "english": "bye",
     "composition": [],
@@ -64731,8 +64731,8 @@
       "tun"
     ],
     "decompositionMeaning": [
-      "root word: leid",
-      "root word: tun"
+      "sorry",
+      "do"
     ],
     "frequency": null,
     "connected_words": [
@@ -64894,15 +64894,15 @@
     "source_url": "https://www.dwds.de/wb/leidtun"
   },
   {
-    "word": "W%C3%A4sche",
+    "word": "Wäsche",
     "partOfSpeech": "noun",
     "english": "Laundry",
     "composition": [
-      "W%C3%A4sch",
+      "Wäsch",
       "-e"
     ],
     "decompositionMeaning": [
-      "W%C3%A4sch",
+      "Wäsch",
       "suffix: verb→noun"
     ],
     "frequency": "4 out of 7",
@@ -65355,8 +65355,8 @@
       "Schrift"
     ],
     "decompositionMeaning": [
-      "root word: Zeit",
-      "root word: Schrift"
+      "Time",
+      "Font"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -65678,7 +65678,7 @@
       "-werk"
     ],
     "decompositionMeaning": [
-      "root word: Stock",
+      "Stock",
       "suffix: werk"
     ],
     "frequency": "4 out of 7",
@@ -65734,7 +65734,7 @@
       },
       {
         "german": "Beletage",
-        "english": "Beletage"
+        "english": "Bele floor"
       },
       {
         "german": "Hauptgeschoss",
@@ -65873,8 +65873,8 @@
       "-lich"
     ],
     "decompositionMeaning": [
-      "root word: wahr",
-      "root word: scheinen",
+      "true",
+      "seem",
       "suffix: characteristic"
     ],
     "frequency": "5 out of 7",
@@ -66187,7 +66187,7 @@
     ],
     "decompositionMeaning": [
       "prefix: herunter",
-      "root word: laden"
+      "load"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -66732,7 +66732,7 @@
       "-ieren"
     ],
     "decompositionMeaning": [
-      "root word: Kontrolle",
+      "Control",
       "suffix: ieren"
     ],
     "frequency": "5 out of 7",
@@ -66912,8 +66912,8 @@
       "hin"
     ],
     "decompositionMeaning": [
-      "root word: dort",
-      "root word: hin"
+      "there",
+      "to"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -67208,15 +67208,15 @@
     "source_url": "https://www.dwds.de/wb/streng"
   },
   {
-    "word": "N%C3%A4chste",
+    "word": "Nächste",
     "partOfSpeech": "noun",
-    "english": "N%C3%A4next",
+    "english": "Nänext",
     "composition": [
-      "N%C3%A4chst",
+      "Nächst",
       "-e"
     ],
     "decompositionMeaning": [
-      "N%C3%A4chst",
+      "Nächst",
       "suffix: verb→noun"
     ],
     "frequency": null,
@@ -67312,7 +67312,7 @@
       "-in"
     ],
     "decompositionMeaning": [
-      "root word: Rentner",
+      "Pensioners",
       "suffix: feminine"
     ],
     "frequency": "3 out of 7",
@@ -67599,7 +67599,7 @@
       "-nis"
     ],
     "decompositionMeaning": [
-      "root word: kennen",
+      "know",
       "suffix: result/state"
     ],
     "frequency": "5 out of 7",
@@ -67782,8 +67782,8 @@
       "letzt"
     ],
     "decompositionMeaning": [
-      "root word: zu",
-      "root word: letzt"
+      "to",
+      "last"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -67956,8 +67956,8 @@
       "Plan"
     ],
     "decompositionMeaning": [
-      "root word: Stadt",
-      "root word: Plan"
+      "City",
+      "Plan"
     ],
     "frequency": "3 out of 7",
     "connected_words": [],
@@ -68139,7 +68139,7 @@
     "source_url": "https://www.dwds.de/wb/chatten"
   },
   {
-    "word": "Parf%C3%BCm",
+    "word": "Parfüm",
     "partOfSpeech": "noun",
     "english": "Perfume",
     "composition": [],
@@ -68452,7 +68452,7 @@
       "-lich"
     ],
     "decompositionMeaning": [
-      "root word: Schrift",
+      "Font",
       "suffix: characteristic"
     ],
     "frequency": "4 out of 7",
@@ -68535,15 +68535,15 @@
     "source_url": "https://www.dwds.de/wb/schriftlich"
   },
   {
-    "word": "Erm%C3%A4%C3%9Figung",
+    "word": "Ermäßigung",
     "partOfSpeech": "noun",
-    "english": "Erm%C3%A4%C3%9Figure",
+    "english": "Ermäßigure",
     "composition": [
       "ermäßigen",
       "-ung"
     ],
     "decompositionMeaning": [
-      "root word: ermäßigen",
+      "reduce",
       "suffix: action/process"
     ],
     "frequency": "3 out of 7",
@@ -68664,7 +68664,7 @@
       "Tarifermäßigung",
       "Zollermäßigung"
     ],
-    "source_url": "https://www.dwds.de/wb/Erm%C3%A4%C3%9Figung"
+    "source_url": "https://www.dwds.de/wb/Ermäßigung"
   },
   {
     "word": "teilnehmen",
@@ -68675,8 +68675,8 @@
       "nehmen"
     ],
     "decompositionMeaning": [
-      "root word: Teil",
-      "root word: nehmen"
+      "Part",
+      "take"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -69346,7 +69346,7 @@
     ],
     "decompositionMeaning": [
       "prefix: in, into",
-      "root word: ziehen"
+      "pull"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -70018,7 +70018,7 @@
       "-ieren"
     ],
     "decompositionMeaning": [
-      "root word: Reserve",
+      "Reserve",
       "suffix: ieren"
     ],
     "frequency": "4 out of 7",
@@ -70194,7 +70194,7 @@
     ],
     "decompositionMeaning": [
       "prefix: achieve, complete",
-      "root word: reichen"
+      "are sufficient"
     ],
     "frequency": "5 out of 7",
     "connected_words": [
@@ -71307,7 +71307,7 @@
       "-ieren"
     ],
     "decompositionMeaning": [
-      "root word: Probe",
+      "Sample",
       "suffix: ieren"
     ],
     "frequency": "4 out of 7",
@@ -71964,16 +71964,16 @@
     "source_url": "https://www.dwds.de/wb/merken"
   },
   {
-    "word": "ber%C3%BChmt",
+    "word": "berühmt",
     "partOfSpeech": "partizipiales adjektiv",
     "english": "famous",
     "composition": [
       "be-",
-      "r%C3%BChmt"
+      "rühmt"
     ],
     "decompositionMeaning": [
       "prefix: makes transitive",
-      "r%C3%BChmt"
+      "rühmt"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -72082,7 +72082,7 @@
       "weitberühmt",
       "weltberühmt"
     ],
-    "source_url": "https://www.dwds.de/wb/ber%C3%BChmt"
+    "source_url": "https://www.dwds.de/wb/berühmt"
   },
   {
     "word": "schwach",
@@ -72424,7 +72424,7 @@
     "source_url": "https://www.dwds.de/wb/Feier"
   },
   {
-    "word": "dr%C3%BCben",
+    "word": "drüben",
     "partOfSpeech": "adverb",
     "english": "over there",
     "composition": [],
@@ -72576,7 +72576,7 @@
     "compounds": [
       "drübig"
     ],
-    "source_url": "https://www.dwds.de/wb/dr%C3%BCben"
+    "source_url": "https://www.dwds.de/wb/drüben"
   },
   {
     "word": "bunt",
@@ -73859,7 +73859,7 @@
       "-lich"
     ],
     "decompositionMeaning": [
-      "root word: hoffen",
+      "hope",
       "suffix: characteristic"
     ],
     "frequency": "4 out of 7",
@@ -74057,9 +74057,9 @@
     "source_url": "https://www.dwds.de/wb/weich"
   },
   {
-    "word": "n%C3%BCtzlich",
+    "word": "nützlich",
     "partOfSpeech": "adjective",
-    "english": "n%C3%BCusually",
+    "english": "nüusually",
     "composition": [
       "nutzen",
       "-lich",
@@ -74068,10 +74068,10 @@
       "-lich"
     ],
     "decompositionMeaning": [
-      "root word: nutzen",
+      "use",
       "suffix: characteristic",
-      "root word: ,",
-      "root word: nützen",
+      ",",
+      "benefit",
       "suffix: characteristic"
     ],
     "frequency": "4 out of 7",
@@ -74240,15 +74240,15 @@
     "source_url": "https://www.dwds.de/wb/nützlich"
   },
   {
-    "word": "L%C3%BCge",
+    "word": "Lüge",
     "partOfSpeech": "noun",
     "english": "lie",
     "composition": [
-      "L%C3%BCg",
+      "Lüg",
       "-e"
     ],
     "decompositionMeaning": [
-      "L%C3%BCg",
+      "Lüg",
       "suffix: verb→noun"
     ],
     "frequency": "4 out of 7",
@@ -74431,8 +74431,8 @@
       "Zentrum"
     ],
     "decompositionMeaning": [
-      "root word: Einkauf",
-      "root word: Zentrum"
+      "Purchasing",
+      "Center"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -74574,15 +74574,15 @@
     "source_url": "https://www.dwds.de/wb/Einkaufszentrum"
   },
   {
-    "word": "S%C3%BC%C3%9Figkeit",
+    "word": "Süßigkeit",
     "partOfSpeech": "noun",
-    "english": "S%C3%BC%C3%9Ficiency",
+    "english": "Süßiciency",
     "composition": [
       "süß",
       "-igkeit"
     ],
     "decompositionMeaning": [
-      "root word: süß",
+      "sweet",
       "suffix: igkeit"
     ],
     "frequency": "4 out of 7",
@@ -74841,7 +74841,7 @@
     ],
     "decompositionMeaning": [
       "prefix: in, into",
-      "root word: tragen"
+      "wear"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -75039,7 +75039,7 @@
     "source_url": "https://www.dwds.de/wb/eintragen"
   },
   {
-    "word": "daf%C3%BCr",
+    "word": "dafür",
     "partOfSpeech": "pronominaladverb",
     "english": "for that",
     "composition": [
@@ -75047,8 +75047,8 @@
       "für"
     ],
     "decompositionMeaning": [
-      "root word: da",
-      "root word: für"
+      "there",
+      "for"
     ],
     "frequency": "6 out of 7",
     "connected_words": [],
@@ -75187,7 +75187,7 @@
       "dafürsprechen",
       "dafürstehen"
     ],
-    "source_url": "https://www.dwds.de/wb/daf%C3%BCr"
+    "source_url": "https://www.dwds.de/wb/dafür"
   },
   {
     "word": "faul",
@@ -75395,7 +75395,7 @@
     "source_url": "https://www.dwds.de/wb/faul"
   },
   {
-    "word": "L%C3%B6ffel",
+    "word": "Löffel",
     "partOfSpeech": "noun",
     "english": "spoon",
     "composition": [],
@@ -75736,8 +75736,8 @@
       "Geschoss"
     ],
     "decompositionMeaning": [
-      "root word: Erde",
-      "root word: Geschoss"
+      "Earth",
+      "Projectile"
     ],
     "frequency": null,
     "connected_words": [
@@ -75861,7 +75861,7 @@
     "source_url": "https://www.dwds.de/wb/Erdgeschoss"
   },
   {
-    "word": "bl%C3%B6d",
+    "word": "blöd",
     "partOfSpeech": "adjective",
     "english": "stupid",
     "composition": [],
@@ -76043,7 +76043,7 @@
       "halbblöde",
       "saublöd"
     ],
-    "source_url": "https://www.dwds.de/wb/bl%C3%B6d"
+    "source_url": "https://www.dwds.de/wb/blöd"
   },
   {
     "word": "parken",
@@ -76236,7 +76236,7 @@
     ],
     "decompositionMeaning": [
       "prefix: out, off",
-      "root word: packen"
+      "pack"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -76407,7 +76407,7 @@
     ],
     "decompositionMeaning": [
       "prefix: makes transitive",
-      "root word: danken"
+      "thank"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -76986,7 +76986,7 @@
     "source_url": "https://www.dwds.de/wb/Insel"
   },
   {
-    "word": "%C3%BCben",
+    "word": "üben",
     "partOfSpeech": "verb",
     "english": "practice",
     "composition": [],
@@ -77060,7 +77060,7 @@
       "-ei"
     ],
     "decompositionMeaning": [
-      "root word: Daten",
+      "Data",
       "suffix: ei"
     ],
     "frequency": "4 out of 7",
@@ -77402,7 +77402,7 @@
       "-bar"
     ],
     "decompositionMeaning": [
-      "root word: Furcht",
+      "Fear",
       "suffix: capability"
     ],
     "frequency": "4 out of 7",
@@ -78070,7 +78070,7 @@
     ],
     "decompositionMeaning": [
       "prefix: excess, change",
-      "root word: gleich"
+      "equal to"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -78337,7 +78337,7 @@
       "-isch"
     ],
     "decompositionMeaning": [
-      "root word: Praxis",
+      "Practice",
       "suffix: relating to"
     ],
     "frequency": "5 out of 7",
@@ -78599,8 +78599,8 @@
       "Essen"
     ],
     "decompositionMeaning": [
-      "root word: Mittag",
-      "root word: Essen"
+      "Lunch",
+      "Food"
     ],
     "frequency": null,
     "connected_words": [
@@ -78804,7 +78804,7 @@
       "-heit"
     ],
     "decompositionMeaning": [
-      "root word: gesund",
+      "healthy",
       "suffix: abstract noun"
     ],
     "frequency": "5 out of 7",
@@ -78951,15 +78951,15 @@
     "source_url": "https://www.dwds.de/wb/Gesundheit"
   },
   {
-    "word": "K%C3%A4se",
+    "word": "Käse",
     "partOfSpeech": "noun",
     "english": "Cheese",
     "composition": [
-      "K%C3%A4s",
+      "Käs",
       "-e"
     ],
     "decompositionMeaning": [
-      "K%C3%A4s",
+      "Käs",
       "suffix: verb→noun"
     ],
     "frequency": "4 out of 7",
@@ -79242,16 +79242,16 @@
     "source_url": "https://www.dwds.de/wb/Park"
   },
   {
-    "word": "zuh%C3%B6ren",
+    "word": "zuhören",
     "partOfSpeech": "verb",
-    "english": "listen%C3%B6ren",
+    "english": "listenören",
     "composition": [
       "zu-",
       "hören"
     ],
     "decompositionMeaning": [
       "prefix: to, closed",
-      "root word: hören"
+      "hear"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -79451,7 +79451,7 @@
     ],
     "decompositionMeaning": [
       "prefix: out, off",
-      "root word: gehen"
+      "go"
     ],
     "frequency": "5 out of 7",
     "connected_words": [
@@ -80277,8 +80277,8 @@
       "Wasser"
     ],
     "decompositionMeaning": [
-      "root word: Mineral",
-      "root word: Wasser"
+      "Mineral",
+      "Water"
     ],
     "frequency": "4 out of 7",
     "connected_words": [
@@ -80454,8 +80454,8 @@
       "Bewerb"
     ],
     "decompositionMeaning": [
-      "root word: Wette",
-      "root word: Bewerb"
+      "Bet",
+      "Competition"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -80744,7 +80744,7 @@
     "source_url": "https://www.dwds.de/wb/Traum"
   },
   {
-    "word": "l%C3%BCgen",
+    "word": "lügen",
     "partOfSpeech": "verb",
     "english": "lie",
     "composition": [],
@@ -81647,7 +81647,7 @@
       "-end"
     ],
     "decompositionMeaning": [
-      "root word: dringen",
+      "penetrate",
       "suffix: present participle"
     ],
     "frequency": "5 out of 7",
@@ -81882,15 +81882,15 @@
     "source_url": "https://www.dwds.de/wb/Festival"
   },
   {
-    "word": "flei%C3%9Fig",
+    "word": "fleißig",
     "partOfSpeech": "adjective",
-    "english": "flesh%C3%9Fig",
+    "english": "fleshßig",
     "composition": [
       "Fleiß",
       "-ig"
     ],
     "decompositionMeaning": [
-      "root word: Fleiß",
+      "Hard work",
       "suffix: quality"
     ],
     "frequency": "4 out of 7",
@@ -82059,7 +82059,7 @@
       "trainingsfleißig",
       "überfleißig"
     ],
-    "source_url": "https://www.dwds.de/wb/flei%C3%9Fig"
+    "source_url": "https://www.dwds.de/wb/fleißig"
   },
   {
     "word": "rein",
@@ -82366,7 +82366,7 @@
     "source_url": "https://www.dwds.de/wb/raten"
   },
   {
-    "word": "hei%C3%9F",
+    "word": "heiß",
     "partOfSpeech": "adjective",
     "english": "hot",
     "composition": [],
@@ -82548,7 +82548,7 @@
       "heißlaufen",
       "heiß laufen"
     ],
-    "source_url": "https://www.dwds.de/wb/hei%C3%9F"
+    "source_url": "https://www.dwds.de/wb/heiß"
   },
   {
     "word": "Kreuzung",
@@ -82559,7 +82559,7 @@
       "-ung"
     ],
     "decompositionMeaning": [
-      "root word: kreuzen",
+      "cross",
       "suffix: action/process"
     ],
     "frequency": "4 out of 7",
@@ -82734,7 +82734,7 @@
       "-ung"
     ],
     "decompositionMeaning": [
-      "root word: meinen",
+      "my",
       "suffix: action/process"
     ],
     "frequency": "5 out of 7",
@@ -82917,9 +82917,9 @@
     "source_url": "https://www.dwds.de/wb/Meinung"
   },
   {
-    "word": "Qualit%C3%A4t",
+    "word": "Qualität",
     "partOfSpeech": "noun",
-    "english": "Quality%C3%A4t",
+    "english": "Qualityät",
     "composition": [],
     "decompositionMeaning": [],
     "frequency": "5 out of 7",
@@ -83363,7 +83363,7 @@
     "source_url": "https://www.dwds.de/wb/schneiden"
   },
   {
-    "word": "s%C3%BC%C3%9F",
+    "word": "süß",
     "partOfSpeech": "adjective",
     "english": "sweet",
     "composition": [],
@@ -83662,8 +83662,8 @@
       "Mal"
     ],
     "decompositionMeaning": [
-      "root word: manch",
-      "root word: Mal"
+      "some",
+      "Times"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -83770,7 +83770,7 @@
     "source_url": "https://www.dwds.de/wb/manchmal"
   },
   {
-    "word": "h%C3%A4ngen#1",
+    "word": "hängen#1",
     "partOfSpeech": "verb",
     "english": "hang#1",
     "composition": [],
@@ -83871,7 +83871,7 @@
       "Hängegerüst",
       "Hängegleiter"
     ],
-    "source_url": "https://www.dwds.de/wb/h%C3%A4ngen#1"
+    "source_url": "https://www.dwds.de/wb/hängen#1"
   },
   {
     "word": "Portion",
@@ -84102,7 +84102,7 @@
     ],
     "decompositionMeaning": [
       "prefix: makes transitive",
-      "root word: antworten"
+      "answer"
     ],
     "frequency": "5 out of 7",
     "connected_words": [
@@ -84234,7 +84234,7 @@
     ],
     "decompositionMeaning": [
       "prefix: un",
-      "root word: Fall"
+      "Case"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -84371,8 +84371,8 @@
       "Statt"
     ],
     "decompositionMeaning": [
-      "root word: werken",
-      "root word: Statt"
+      "works",
+      "Instead of"
     ],
     "frequency": "4 out of 7",
     "connected_words": [],
@@ -84829,7 +84829,7 @@
     ],
     "decompositionMeaning": [
       "prefix: excess, change",
-      "root word: suchen"
+      "search"
     ],
     "frequency": "5 out of 7",
     "connected_words": [],
@@ -85120,7 +85120,7 @@
       "-ation"
     ],
     "decompositionMeaning": [
-      "root word: situieren",
+      "situate",
       "suffix: ation"
     ],
     "frequency": "5 out of 7",

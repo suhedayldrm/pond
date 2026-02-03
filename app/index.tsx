@@ -18,6 +18,7 @@ import B2Vocabulary from './german/B2.json';
 import C1Vocabulary from './german/C1.json';
 import C2Vocabulary from './german/C2.json';
 import MixVocabulary from './german/mix.json';
+import * as Speech from 'expo-speech';
 
 // Define the vocabulary word type
 type WordItem = string | { german: string; english: string };
@@ -351,7 +352,19 @@ const GermanVocabGame = () => {
             </View>
 
             <View style={styles.wordContainer}>
-              <Text style={styles.turkishWord}>{currentWord?.word}</Text>
+              <View style={styles.wordRow}>
+                <Text style={styles.turkishWord}>{currentWord?.word}</Text>
+                <TouchableOpacity
+                  onPress={() => {
+                    if (currentWord?.word) {
+                      Speech.speak(decodeURIComponent(currentWord.word), { language: 'de-DE', rate: 0.85 });
+                    }
+                  }}
+                  style={styles.speakerButton}
+                >
+                  <Text style={styles.speakerIcon}>🔊</Text>
+                </TouchableOpacity>
+              </View>
               <Text style={styles.translateText}>Translate to English</Text>
 
               {frequencyInfo && (
@@ -647,12 +660,24 @@ const styles = StyleSheet.create({
     shadowRadius: 4,
     elevation: 2,
   },
+  wordRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    gap: 8,
+    marginBottom: 8,
+  },
   turkishWord: {
     fontSize: 24,
     fontWeight: 'bold',
     color: '#374151',
-    marginBottom: 8,
     textAlign: 'center',
+  },
+  speakerButton: {
+    padding: 4,
+  },
+  speakerIcon: {
+    fontSize: 22,
   },
   translateText: {
     fontSize: 14,
@@ -865,16 +890,16 @@ const styles = StyleSheet.create({
     fontWeight: '500',
   },
   synonymsContainer: {
-    backgroundColor: '#fef3c7',
+    backgroundColor: '#f3e8ff',
     borderLeftWidth: 4,
-    borderLeftColor: '#f59e0b',
+    borderLeftColor: '#a855f7',
     borderRadius: 8,
     padding: 12,
   },
   synonymsTitle: {
     fontSize: 14,
     fontWeight: 'bold',
-    color: '#b45309',
+    color: '#7e22ce',
     marginBottom: 8,
   },
   synonymsList: {
@@ -883,8 +908,8 @@ const styles = StyleSheet.create({
     gap: 8,
   },
   synonymWord: {
-    backgroundColor: '#fde68a',
-    color: '#92400e',
+    backgroundColor: '#e9d5ff',
+    color: '#6b21a8',
     paddingHorizontal: 8,
     paddingVertical: 4,
     borderRadius: 16,

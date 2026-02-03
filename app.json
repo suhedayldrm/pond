@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "German Vocab",
+    "slug": "german-vocab",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "germanvocab",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.suhedayildirim.germanvocab",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#1e3a5f"
+      }
+    },
+    "plugins": [],
+    "extra": {
+      "eas": {
+        "projectId": "04efa1f6-e814-4d17-a6c0-092e01705e48"
+      }
+    }
+  }
+}

@@ -197,6 +197,15 @@ def add_translations_to_level(level: str):
                         all_texts.append(german)
                         all_mappings.append((word_idx, 'example', i))
 
+            # 3. Translate decompositionMeaning root words
+            decomp = word_data.get('decompositionMeaning', [])
+            for i, meaning in enumerate(decomp):
+                if isinstance(meaning, str) and meaning.startswith('root word: '):
+                    german_root = meaning[len('root word: '):]
+                    if german_root:
+                        all_texts.append(german_root)
+                        all_mappings.append((word_idx, 'decomposition', i))
+
         # Skip batch if nothing to translate
         if not all_texts:
             with open(progress_file, 'w') as f:
@@ -221,6 +230,8 @@ def add_translations_to_level(level: str):
                 elif text_type == 'example':
                     word_data['examples'][text_idx]['english'] = translations[i]
                     example_count += 1
+                elif text_type == 'decomposition':
+                    word_data['decompositionMeaning'][text_idx] = translations[i]
 
         translated_count += len(batch_words)
 

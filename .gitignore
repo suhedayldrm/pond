@@ -37,3 +37,9 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+
+# Logs
+*.log
+
+# Python cache
+__pycache__/
