@@ -125,3 +125,4 @@ python add_translations.py --all-levels
 ## Data Attribution
 
 All vocabulary data is sourced from **DWDS (Digitales Worterbuch der deutschen Sprache)** at https://www.dwds.de, maintained by the Berlin-Brandenburg Academy of Sciences and Humanities. The DWDS Lemma Database is licensed under **Creative Commons BY-SA 4.0**.
+ 
