@@ -44,3 +44,6 @@ app-example
 # Python cache
 __pycache__/
 .vercel
+
+
+todo.txt
