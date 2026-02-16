@@ -8,7 +8,7 @@
     "newArchEnabled": true,
     "android": {
       "package": "com.suhedayildirim.germanvocab",
-      "versionCode": 2,
+      "versionCode": 3,
       "adaptiveIcon": {
         "backgroundColor": "#1e3a5f"
       }
